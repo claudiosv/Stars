@@ -1,0 +1,21 @@
+README.md
+  s_3751a1716a384a::t_8312e5529b8543 1-5
+.github/workflows/main.yml
+  s_3751a1716a384a::t_61edfc07f71aa1 1-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "415e428b9d62393272d83c7024bc51fbcff73919",
+  "prompts": {},
+  "sessions": {
+    "s_3751a1716a384a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1281067b-915d-49c1-a517-2da6f6a08910",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Claudio Spiess <claudiosv@users.noreply.github.com>"
+    }
+  }
+}
