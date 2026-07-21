@@ -1,0 +1,19 @@
+.github/workflows/main.yml
+  s_3751a1716a384a::t_58a5098f34e64c 16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "901c1614137e22657d20201d4328c9cc5e342508",
+  "prompts": {},
+  "sessions": {
+    "s_3751a1716a384a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1281067b-915d-49c1-a517-2da6f6a08910",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Claudio Spiess <claudiosv@users.noreply.github.com>"
+    }
+  }
+}
