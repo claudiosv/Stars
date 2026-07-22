@@ -1016,7 +1016,7 @@
 - [OK2MOP/MD1702-tools](https://github.com/OK2MOP/MD1702-tools) – Tools to work with firmware and SPI flash data of DM-1702 and DM-X radios
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) – 🙌 OpenHands: AI-Driven Development
 - [OpenMined/PyDP](https://github.com/OpenMined/PyDP) – The Python Differential Privacy Library. Built on top of: https://github.com/google/differential-privacy
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) – Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) – Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Claude Code, Codex, Cursor, Kiro, OpenCode and 60+ agents via the Agent Skills standard.
 - [Overbryd/dotfiles](https://github.com/Overbryd/dotfiles) – 0-100 macOS bootstrap and topical setup maintained with a simple Makefile
 - [PonyGE/PonyGE2](https://github.com/PonyGE/PonyGE2) – PonyGE2: grammatical evolution and variants in Python
 - [Preemo-Inc/text-generation-inference](https://github.com/Preemo-Inc/text-generation-inference)
@@ -1768,7 +1768,7 @@
 - [imxieyi/waifu2x-mac](https://github.com/imxieyi/waifu2x-mac) – Waifu2x-ios port to macOS, still in Core ML and Metal
 - [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) – A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp.
 - [justjake/Gauss](https://github.com/justjake/Gauss) – Stable Diffusion macOS native app
-- [kageroumado/phosphene](https://github.com/kageroumado/phosphene) – A video wallpaper engine for macOS Tahoe and Golden Gate
+- [kageroumado/phosphene](https://github.com/kageroumado/phosphene) – Custom video wallpapers for macOS — any video, on the desktop and the lock screen, picked directly from System Settings' Wallpaper pane
 - [leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) – Mac app for crushing tech interviews with AI
 - [lukasz-zet/bose-macos-utility](https://github.com/lukasz-zet/bose-macos-utility) – A simple macOS utility that can be used to control the behaviour of Bose QC35 Headphones straight from the menu bar.
 - [mas-cli/mas](https://github.com/mas-cli/mas) – :package: Mac App Store command-line interface
@@ -1820,6 +1820,7 @@
 - [ajnart/homarr](https://github.com/ajnart/homarr) – Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) – The open source coding agent.
 - [awnist/slop-cop](https://github.com/awnist/slop-cop) – AI text slop detection, 100% in browser
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) – ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) – Powerful AI Client
 - [chris-mosley/AmazonBrandFilter](https://github.com/chris-mosley/AmazonBrandFilter) – Filters Amazon search results to only be "known" brands.
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) – Generate changelogs and release notes from a project's commit messages and metadata.
