@@ -637,6 +637,7 @@
 - [agemagician/CodeTrans](https://github.com/agemagician/CodeTrans) – Pretrained Language Models for Source code
 - [andstor/code-comment-analysis](https://github.com/andstor/code-comment-analysis) – Clustering of code comments
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) – A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+- [apache/hamilton](https://github.com/apache/hamilton) – Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.
 - [appier-research/llm-calibration](https://github.com/appier-research/llm-calibration) – Official code for the paper "On Calibration of Large Language Models: From Response To Capability"
 - [ardha27/AI-Song-Cover-RVC](https://github.com/ardha27/AI-Song-Cover-RVC) – All-in-one RVC song cover toolkit for Google Colab: pull audio from YouTube, separate vocals, train a model, and run inference.
 - [ardha27/AI-Song-Cover-SOVITS](https://github.com/ardha27/AI-Song-Cover-SOVITS) – All in One Version : Youtube WAV Download, Separating Vocal, Splitting Audio, Training, and Inference Using Google Colab
@@ -1147,7 +1148,7 @@
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) – Pythonic AI generation of images and videos
 - [bsdz/remarkable-layers](https://github.com/bsdz/remarkable-layers) – Python module for reading and writing Remarkable Lines files
 - [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) – Pioneering Automated GUI Interaction with Native Agents
-- [cactus-compute/needle](https://github.com/cactus-compute/needle) – 26m agentic model for tiny devices
+- [cactus-compute/needle](https://github.com/cactus-compute/needle) – Cactus foundation model for tiny devices; 14mb, 26m params, 1-6k toks/sec on mobiles, wearables smart home and robots.
 - [catalyst-team/catalyst](https://github.com/catalyst-team/catalyst) – Accelerated deep learning R&D
 - [cedricrupb/code_tokenize](https://github.com/cedricrupb/code_tokenize) – Fast tokenization and structural analysis of any programming language
 - [cemrehancavdar/faster-python-bench](https://github.com/cemrehancavdar/faster-python-bench)
@@ -1370,6 +1371,7 @@
 - [microsoft/unilm](https://github.com/microsoft/unilm) – Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [microsoft/varuna](https://github.com/microsoft/varuna)
 - [microsoftarchive/promptbench](https://github.com/microsoftarchive/promptbench) – A unified evaluation framework for large language models
+- [mindee/tawazi](https://github.com/mindee/tawazi) – A DAG Scheduler library written in pure python
 - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) – The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 - [minimaxir/person-blocker](https://github.com/minimaxir/person-blocker) – Automatically "block" people in images (like Black Mirror) using a pretrained neural network.
 - [mit-han-lab/llm-awq](https://github.com/mit-han-lab/llm-awq) – [MLSys 2024 Best Paper Award] AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration
@@ -1597,6 +1599,7 @@
 - [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) – Open-source, community-driven agent harness
 - [HyperAST/HyperAST](https://github.com/HyperAST/HyperAST) – Temporal code analyses at scale
 - [IvanWng97/pixtuoid](https://github.com/IvanWng97/pixtuoid) – Terminal pixel-art office for AI coding agents
+- [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) – Highly parallelized, blazing fast directory tree analyzer
 - [LeaderSupreme/HyperAST](https://github.com/LeaderSupreme/HyperAST) – Temporal code analyses at scale
 - [MaximeRivest/riddle](https://github.com/MaximeRivest/riddle) – The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand
 - [Rkcr7/Muse](https://github.com/Rkcr7/Muse) – Muse  a handwriting AI thinking-partner for the reMarkable Paper Pro
@@ -1618,6 +1621,7 @@
 - [awwaiid/ghostwriter](https://github.com/awwaiid/ghostwriter) – Use the reMarkable2 as an interface to vision-LLMs (ChatGPT, Claude, Gemini). Ghost in the machine!
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) – A fast, minimalist directory tree viewer, written in Rust.
 - [biomejs/gritql](https://github.com/biomejs/gritql) – GritQL is a query language for searching, linting, and modifying code.
+- [bootandy/dust](https://github.com/bootandy/dust) – A more intuitive version of du in rust
 - [claudiomattera/esp32c3-embassy](https://github.com/claudiomattera/esp32c3-embassy) –  A Rust async firmware for ESP32-C3 for reading and displaying sensor values using Embassy
 - [codefionn/llmleaf](https://github.com/codefionn/llmleaf) – A fast llm proxy
 - [crusoecloud/fastokens](https://github.com/crusoecloud/fastokens) – Fast Tokens
@@ -1643,6 +1647,7 @@
 - [lldap/lldap](https://github.com/lldap/lldap) – Light LDAP implementation
 - [lovasoa/dezoomify-rs](https://github.com/lovasoa/dezoomify-rs) – Zoomable image downloader for Google Arts & Culture, Zoomify, IIIF, and others
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) – The next gen ls command
+- [marcelroed/gigatoken](https://github.com/marcelroed/gigatoken) – Language model tokenization at GB/s
 - [ml-rust/splintr](https://github.com/ml-rust/splintr) – A high-performance tokenizer (BPE + SentencePiece) built with Rust with Python bindings, focused on speed, safety, and resource optimization.
 - [nachoparker/dutree](https://github.com/nachoparker/dutree) – a tool to analyze file system usage written in Rust
 - [openai/codex](https://github.com/openai/codex) – Lightweight coding agent that runs in your terminal
