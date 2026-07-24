@@ -76,7 +76,7 @@
 - [AleksAlcDel/Two-Button_Tetris_for_SCPlus2.](https://github.com/AleksAlcDel/Two-Button_Tetris_for_SCPlus2.)
 - [Bodmer/JPEGDecoder](https://github.com/Bodmer/JPEGDecoder) – A JPEG decoder library
 - [CloneGen/CLONEGEN](https://github.com/CloneGen/CLONEGEN)
-- [Dlazder/m5_crystal_firmware](https://github.com/Dlazder/m5_crystal_firmware) – A multifunctional firmware with an emphasis on stability and simplicity.
+- [Dlazder/m5_crystal_firmware](https://github.com/Dlazder/m5_crystal_firmware) – A multifunctional firmware for M5 devices with an emphasis on stability and simplicity.
 - [DroneBridge/ESP32](https://github.com/DroneBridge/ESP32) – DroneBridge for ESP32. A secure & transparent telemetry link with support for WiFi and ESP-NOW. Supporting MAVLink, MSP, LTM or any other protocol
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) – A highly customizable macOS status bar replacement
 - [Frogy76/epdiy](https://github.com/Frogy76/epdiy)
@@ -1148,7 +1148,7 @@
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) – Pythonic AI generation of images and videos
 - [bsdz/remarkable-layers](https://github.com/bsdz/remarkable-layers) – Python module for reading and writing Remarkable Lines files
 - [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) – Pioneering Automated GUI Interaction with Native Agents
-- [cactus-compute/needle](https://github.com/cactus-compute/needle) – Cactus foundation model for tiny devices; 14mb, 26m params, 1-6k toks/sec on mobiles, wearables smart home and robots.
+- [cactus-compute/needle](https://github.com/cactus-compute/needle) – Foundation model for tiny devices; 14mb, 26m params, 1-6k toks/sec on mobiles, wearables smart home and robots.
 - [catalyst-team/catalyst](https://github.com/catalyst-team/catalyst) – Accelerated deep learning R&D
 - [cedricrupb/code_tokenize](https://github.com/cedricrupb/code_tokenize) – Fast tokenization and structural analysis of any programming language
 - [cemrehancavdar/faster-python-bench](https://github.com/cemrehancavdar/faster-python-bench)
@@ -1193,7 +1193,7 @@
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) – Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.
 - [deepspeedai/DeepSpeed-MII](https://github.com/deepspeedai/DeepSpeed-MII) – MII makes low-latency and high-throughput inference possible, powered by DeepSpeed.
 - [deiger/AirCon](https://github.com/deiger/AirCon) – Scripts for controlling Air Conditioners, e.g. with HiSense modules.
-- [dekart-xyz/geosql](https://github.com/dekart-xyz/geosql) – Turn Claude/Codex into geospatial analytics agent.
+- [dekart-xyz/geosql](https://github.com/dekart-xyz/geosql) – A Claude/Codex skill for geospatial data
 - [devAmoghS/Machine-Learning-with-Python](https://github.com/devAmoghS/Machine-Learning-with-Python) – Small scale machine learning projects to understand the core concepts . Give a Star 🌟If it helps you. BONUS: Interview Bank coming up..!
 - [developer0hye/imgdiet](https://github.com/developer0hye/imgdiet) – A Python package for minimizing file size of images with negligible quality loss
 - [dflook/python-minifier](https://github.com/dflook/python-minifier) – Transform Python source code into its most compact representation
