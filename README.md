@@ -630,9 +630,9 @@
 - [SAILResearch/AI_Teammates_in_SE3](https://github.com/SAILResearch/AI_Teammates_in_SE3) – Replication package for "The Rise of AI Teammates in Software Engineering (SE) 3.0: How Autonomous Coding Agents Are Reshaping SE"
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper)
 - [Verdagon/Anima](https://github.com/Verdagon/Anima) – 33B Chinese LLM, DPO QLORA, 100K context, AirLLM 70B inference with single 4GB GPU
+- [WM-SEMERU/Sense-traceability](https://github.com/WM-SEMERU/Sense-traceability) – A Library for Software Artifact Vectorization, Distance Computation, and Statistical Analysis on vectors. 
 - [WM-SEMERU/SyntaxEval](https://github.com/WM-SEMERU/SyntaxEval)
 - [WM-SEMERU/icodegen](https://github.com/WM-SEMERU/icodegen) – Causal Interpretability for SE
-- [WM-SEMERU/traceXplainer](https://github.com/WM-SEMERU/traceXplainer) – A Library for Software Artifact Vectorization, Distance Computation, and Statistical Analysis on vectors. 
 - [abhayspawar/featexp](https://github.com/abhayspawar/featexp) – Feature exploration for supervised learning
 - [agemagician/CodeTrans](https://github.com/agemagician/CodeTrans) – Pretrained Language Models for Source code
 - [andstor/code-comment-analysis](https://github.com/andstor/code-comment-analysis) – Clustering of code comments
