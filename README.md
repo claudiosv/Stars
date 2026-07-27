@@ -315,7 +315,7 @@
 - [stevenselcuk/nearPlane](https://github.com/stevenselcuk/nearPlane) – ✈️ A real-time, portable aircraft tracker for the M5StickC Plus 2 using the adsb.lol API. Features a multi-page display, emergency alerts, and easy web-based setup.
 - [strange-v/RemoteWebViewClient](https://github.com/strange-v/RemoteWebViewClient)
 - [styler00dollar/VapourSynth-RIFE-ncnn-Vulkan](https://github.com/styler00dollar/VapourSynth-RIFE-ncnn-Vulkan) – RIFE filter for VapourSynth
-- [swellweb/reame](https://github.com/swellweb/reame) – A lean, fully-tested LLM inference server for the hardware you already have — free tiers, shared VPS, 2-core ARM boxes. OpenAI-compatible API on llama.cpp. On a CPU, never compute the same thing twice: it caches prompts, prefixes and past generations to disk, so request #100 costs a fraction of request #1.
+- [swellweb/reame](https://github.com/swellweb/reame) – CPU-first LLM inference server on llama.cpp. Runs useful models on free-tier ARM boxes; rewriting the input made it ~6x faster and more accurate than tuning the engine. MIT, benchmarks and failures included.
 - [timit3-github/m5paper_esphome](https://github.com/timit3-github/m5paper_esphome) – Repository for ESPHOME components for m5paper
 - [tobozo/M5Stack-SD-Updater](https://github.com/tobozo/M5Stack-SD-Updater) – 💾 Customizable menu system for M5Stack, M5Unified and ESP32-Chimera-Core - loads apps from the Micro SD card. Easily add you own apps
 - [tochinet/Posit](https://github.com/tochinet/Posit) – 8-bit and 16-bit Posit arithmetic library for Arduino
@@ -477,7 +477,7 @@
 - [ossu/computer-science](https://github.com/ossu/computer-science) – 🎓 Path to a free self-taught education in Computer Science!
 - [saprmarks/geometry-of-truth](https://github.com/saprmarks/geometry-of-truth)
 - [thomasjball/PyExZ3](https://github.com/thomasjball/PyExZ3) – Python Exploration with Z3
-- [xberg-io/html-to-markdown](https://github.com/xberg-io/html-to-markdown) – High performance and CommonMark compliant HTML to Markdown converter. Maintained by the Kreuzberg team. Kreuzberg is a fast, polyglot document intelligence engine with a Rust core. It extracts structured data from 56+ document formats using streaming parsers and built-in OCR.
+- [xberg-io/html-to-markdown](https://github.com/xberg-io/html-to-markdown) – High performance and CommonMark compliant HTML to Markdown converter. Maintained by the Kreuzberg team. Kreuzberg is a fast, polyglot document intelligence engine with a Rust core. It extracts structured data from 98+ document formats using streaming parsers and built-in OCR.
 
 <div id="haskell"></div>
 
@@ -572,6 +572,7 @@
 - [mljar/supertree](https://github.com/mljar/supertree) – Impress your boss with interactive Decision Tree visualization 
 - [mozilla/readability](https://github.com/mozilla/readability) – A standalone version of the readability lib
 - [mronkko/ZoteroQuickLook](https://github.com/mronkko/ZoteroQuickLook) – Implements QuickLook in Zotero
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) – One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 - [nerfies/nerfies.github.io](https://github.com/nerfies/nerfies.github.io)
 - [nick-tonjum/open-webui-artifacts-overhaul](https://github.com/nick-tonjum/open-webui-artifacts-overhaul) – User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [nicsure/Online_TD-H3_Flasher](https://github.com/nicsure/Online_TD-H3_Flasher)
@@ -1675,7 +1676,7 @@
 - [vellum-dev/vellum-cli](https://github.com/vellum-dev/vellum-cli) – Wrapper and boostrap for Vellum reMarkable package manager.
 - [xberg-io/liter-llm](https://github.com/xberg-io/liter-llm) – Universal LLM API client — 163 providers, 14 native language bindings, powered by a Rust core
 - [xberg-io/tree-sitter-language-pack](https://github.com/xberg-io/tree-sitter-language-pack) – Comprehensive tree-sitter grammar compilation with polyglot bindings — Rust, Python, Node.js, Go, Java, Ruby, Elixir, PHP, C#, WASM, Dart, Kotlin-Android, Swift, Zig, and CLI. 306+ languages.
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) – A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python, Ruby, Java, Go, PHP, Elixir, C#, R, C, TypeScript (Node/Bun/Wasm/Deno)- or use via CLI, REST API, or MCP server.
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) – A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 98+ formats. Available for Rust, Python, Ruby, Java, Go, PHP, Elixir, C#, R, C, TypeScript (Node/Bun/Wasm/Deno)- or use via CLI, REST API, or MCP server.
 - [zdk/lowfat](https://github.com/zdk/lowfat) – lowfat - slim your command output. strips noise, saves tokens.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) – A terminal workspace with batteries included
 
@@ -1862,7 +1863,6 @@
 - [man-group/dtale](https://github.com/man-group/dtale) – Visualizer for pandas data structures
 - [mirecta/ESP32-react](https://github.com/mirecta/ESP32-react) – A framework for ESP8266 & ESP32 microcontrollers with a React UI
 - [mjswensen/themer](https://github.com/mjswensen/themer) – 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
-- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) – One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 - [nat/openplayground](https://github.com/nat/openplayground) – An LLM playground you can run on your laptop
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) – Backup automation for self-hosters. Built on top of restic
 - [nielsfaber/scheduler-card](https://github.com/nielsfaber/scheduler-card) – HA Lovelace card for control of scheduler entities
@@ -1885,7 +1885,7 @@
 - [strange-v/RemoteWebViewServer](https://github.com/strange-v/RemoteWebViewServer) – Headless browser that renders target web pages (e.g., Home Assistant dashboards) and streams them as image tiles over WebSocket to lightweight clients (ESP32 displays)
 - [sunxfancy/vscode-llvm](https://github.com/sunxfancy/vscode-llvm) – VSCode LLVM Compiler Explorer
 - [syt2/zotero-addons](https://github.com/syt2/zotero-addons) – Zotero Add-on Market  | Zotero插件市场 | Browsing and installing plugins within Zotero
-- [teamchong/pxpipe](https://github.com/teamchong/pxpipe) – cut Fable 5 token usage by rendering text context as images
+- [teamchong/pxpipe](https://github.com/teamchong/pxpipe) – cut Claude Code token usage by rendering text context as images
 - [thirdshiftlab/modeltell](https://github.com/thirdshiftlab/modeltell) – Measuring the lexical and syntactic fingerprints of large language models. Open data, methodology, and a bilingual content linter.
 - [thomasloven/lovelace-card-mod](https://github.com/thomasloven/lovelace-card-mod) – 🔹 Add CSS styles to (almost) any lovelace card
 - [tobi/qmd](https://github.com/tobi/qmd) – mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
