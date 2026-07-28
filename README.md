@@ -1016,7 +1016,6 @@
 - [Nerogar/OneTrainer](https://github.com/Nerogar/OneTrainer) – OneTrainer is a one-stop solution for all your Diffusion training needs.
 - [NougatCA/FineTuner](https://github.com/NougatCA/FineTuner)
 - [OK2MOP/MD1702-tools](https://github.com/OK2MOP/MD1702-tools) – Tools to work with firmware and SPI flash data of DM-1702 and DM-X radios
-- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) – 🙌 OpenHands: AI-Driven Development
 - [OpenMined/PyDP](https://github.com/OpenMined/PyDP) – The Python Differential Privacy Library. Built on top of: https://github.com/google/differential-privacy
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) – Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Claude Code, Codex, Cursor, Kiro, OpenCode and 60+ agents via the Agent Skills standard.
 - [Overbryd/dotfiles](https://github.com/Overbryd/dotfiles) – 0-100 macOS bootstrap and topical setup maintained with a simple Makefile
@@ -1818,6 +1817,7 @@
 - [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) – The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 - [MasuRii/pi-rtk-optimizer](https://github.com/MasuRii/pi-rtk-optimizer) – Pi extension that optimizes RTK command rewriting and tool output compaction for the coding agent.
 - [OldJii/mcp-dock](https://github.com/OldJii/mcp-dock) – MCP Server & Config Manager for 14 AI Clients — Cursor, VS Code, Claude Code, Gemini CLI, Windsurf, Zed, TRAE, Kiro, JetBrains & more. 8500+ servers, 4400+ skills.
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) – 🙌 OpenHands: AI-Driven Development
 - [PubPeerFoundation/pubpeer_zotero_plugin](https://github.com/PubPeerFoundation/pubpeer_zotero_plugin) – Plugin to show if references in Zotero have PubPeer comments
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) – An open-source AI coding agent that lives in your terminal.
 - [Renumics/spotlight](https://github.com/Renumics/spotlight) – Interactively explore unstructured datasets from your dataframe.
