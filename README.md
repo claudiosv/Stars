@@ -224,7 +224,6 @@
 - [RobTillaart/float16](https://github.com/RobTillaart/float16) – Arduino library to implement float16 data type
 - [SmingHub/Sming](https://github.com/SmingHub/Sming) – Sming - powerful  open source framework simplifying the creation of embedded C++ applications.
 - [Teapot174/AirMouseS3](https://github.com/Teapot174/AirMouseS3) – M5StickS3 Firmware
-- [The-Young-Maker/OpenMenuOS](https://github.com/The-Young-Maker/OpenMenuOS) – ESP32 library to easily build menu on TFT display
 - [Tiiny-AI/PowerInfer](https://github.com/Tiiny-AI/PowerInfer) – High-speed Large Language Model Serving for Local Deployment
 - [VuqarAhadli/MiniOS-ESP](https://github.com/VuqarAhadli/MiniOS-ESP) – MiniOS ESP is a FreeRTOS-based, Unix-like command-line operating system for ESP32 and RP2350 microcontrollers with ST7789 TFT displays, featuring kernel-level process management, a feature-rich interactive shell and network connectivity tools.
 - [WojciechKretowicz/Trace-TSNE](https://github.com/WojciechKretowicz/Trace-TSNE) – Parallel t-SNE implementation with Python wrapper with added possibility to trace the TSNE algorithm while iterating.
@@ -235,7 +234,7 @@
 - [anthropics/claude-desktop-buddy](https://github.com/anthropics/claude-desktop-buddy) – Reference and an example for the Bluetooth API for makers in Claude Cowork & Claude Code Desktop
 - [arkhipenko/TaskScheduler](https://github.com/arkhipenko/TaskScheduler) – Cooperative multitasking for Arduino, ESPx, STM32, nRF and other microcontrollers
 - [asivery/rm-literm](https://github.com/asivery/rm-literm) – A terminal emulator using QtQuick.
-- [awawa-dev/HyperHDR](https://github.com/awawa-dev/HyperHDR) – Next-gen open source ambient lighting system featuring a high-precision floating-point color pipeline breaking legacy RGB 24-bit limits. Includes advanced smoothing with inertia and adaptive temporal dithering for perfectly fluid, stable output to LEDs from any SDR or HDR video source. Supports Windows, macOS and Linux (x86 & RPi / ARM). 
+- [awawa-dev/HyperHDR](https://github.com/awawa-dev/HyperHDR) – Next-gen open source ambient lighting system featuring a high-precision floating-point color pipeline breaking legacy RGB 24-bit limits. Includes advanced smoothing with inertia and adaptive temporal dithering for perfectly fluid, stable output to LEDs from any SDR or HDR video source. Supports Windows, macOS and Linux (x86/ARM). 
 - [ayushsharma82/ESP-DASH](https://github.com/ayushsharma82/ESP-DASH) – Blazing fast library to create a functional, on-device dashboard for ESP32, RP2040+W and RP2350+W microcontrollers
 - [bblanchon/ArduinoJson](https://github.com/bblanchon/ArduinoJson) – 📟 JSON library for Arduino and embedded C++. Simple and efficient.
 - [bitbank2/bb_lvgl](https://github.com/bitbank2/bb_lvgl) – A collection of glue code and examples for using LVGL with my display libraries
@@ -283,6 +282,7 @@
 - [khoih-prog/ESP_DoubleResetDetector](https://github.com/khoih-prog/ESP_DoubleResetDetector) – ESP_DoubleResetDetector is a library for the ESP32/ESP8266 Arduino platform to enable trigger configure mode by resetting twice.
 - [kvj/LVGL-HA-Dashboard](https://github.com/kvj/LVGL-HA-Dashboard) – LVGL Dashboard for Home Assistant built with ESPHome
 - [lifting-bits/remill](https://github.com/lifting-bits/remill) – Library for lifting machine code to LLVM bitcode
+- [loic-daigle/OpenMenuOS](https://github.com/loic-daigle/OpenMenuOS) – ESP32 library to easily build menu on TFT display
 - [m5stack/M5Dial](https://github.com/m5stack/M5Dial)
 - [m5stack/M5Unified](https://github.com/m5stack/M5Unified) – Unified library for M5Stack series
 - [m5stack/esphome-yaml](https://github.com/m5stack/esphome-yaml) – M5Stack ESPHome Integrations
@@ -572,7 +572,6 @@
 - [mljar/supertree](https://github.com/mljar/supertree) – Impress your boss with interactive Decision Tree visualization 
 - [mozilla/readability](https://github.com/mozilla/readability) – A standalone version of the readability lib
 - [mronkko/ZoteroQuickLook](https://github.com/mronkko/ZoteroQuickLook) – Implements QuickLook in Zotero
-- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) – One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 - [nerfies/nerfies.github.io](https://github.com/nerfies/nerfies.github.io)
 - [nick-tonjum/open-webui-artifacts-overhaul](https://github.com/nick-tonjum/open-webui-artifacts-overhaul) – User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [nicsure/Online_TD-H3_Flasher](https://github.com/nicsure/Online_TD-H3_Flasher)
@@ -1503,7 +1502,6 @@
 - [spipm/Depixelization_poc](https://github.com/spipm/Depixelization_poc) – Depix is a PoC for a technique to recover plaintext from pixelized screenshots.
 - [stanford-crfm/helm](https://github.com/stanford-crfm/helm) – Holistic Evaluation of Language Models (HELM) is an open source Python framework created by the Center for Research on Foundation Models (CRFM) at Stanford for holistic, reproducible and transparent evaluation of foundation models, including large language models (LLMs) and multimodal models.
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) – DSPy: The framework for programming—not prompting—language models
-- [starpig1129/DATAGEN](https://github.com/starpig1129/DATAGEN) – DATAGEN: AI-driven multi-agent research assistant automating hypothesis generation, data analysis, and report writing. 
 - [static-frame/static-frame](https://github.com/static-frame/static-frame) – Immutable and statically-typeable DataFrames with runtime type and data validation
 - [stephantul/skeletoken](https://github.com/stephantul/skeletoken) – Datamodels for hugging face tokenizers
 - [stephantul/wordninja2](https://github.com/stephantul/wordninja2)
@@ -1568,6 +1566,7 @@
 - [yuvalkirstain/PickScore](https://github.com/yuvalkirstain/PickScore)
 - [zhaoterryy/mkdocs-pdf-export-plugin](https://github.com/zhaoterryy/mkdocs-pdf-export-plugin) – An MkDocs plugin to export content pages as PDF files
 - [zhuzilin/ring-flash-attention](https://github.com/zhuzilin/ring-flash-attention) – Ring attention implementation with flash attention
+- [zi-yue-1129/DATAGEN](https://github.com/zi-yue-1129/DATAGEN) – DATAGEN: AI-driven multi-agent research assistant automating hypothesis generation, data analysis, and report writing. 
 - [zjysteven/mink-plus-plus](https://github.com/zjysteven/mink-plus-plus) – [ICLR'25 Spotlight] Min-K%++: Improved baseline for detecting pre-training data of LLMs
 - [zllrunning/video-object-removal](https://github.com/zllrunning/video-object-removal) – Just draw a bounding box and you can remove the object you want to remove.
 - [zou-group/textgrad](https://github.com/zou-group/textgrad) – TextGrad: Automatic ''Differentiation'' via Text -- using large language models to backpropagate textual gradients. Published in Nature.
@@ -1863,6 +1862,7 @@
 - [man-group/dtale](https://github.com/man-group/dtale) – Visualizer for pandas data structures
 - [mirecta/ESP32-react](https://github.com/mirecta/ESP32-react) – A framework for ESP8266 & ESP32 microcontrollers with a React UI
 - [mjswensen/themer](https://github.com/mjswensen/themer) – 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) – One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 - [nat/openplayground](https://github.com/nat/openplayground) – An LLM playground you can run on your laptop
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) – Backup automation for self-hosters. Built on top of restic
 - [nielsfaber/scheduler-card](https://github.com/nielsfaber/scheduler-card) – HA Lovelace card for control of scheduler entities
