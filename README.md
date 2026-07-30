@@ -83,7 +83,7 @@
 - [GJDuck/e9patch](https://github.com/GJDuck/e9patch) – A powerful static binary rewriting tool
 - [GhostESP-Revival/GhostESP](https://github.com/GhostESP-Revival/GhostESP) – An open source platform for ESP32 devices.
 - [ImpulseAdventure/GUIslice](https://github.com/ImpulseAdventure/GUIslice) – GUIslice drag & drop embedded GUI in C for touchscreen TFT on Arduino, Raspberry Pi, ARM, ESP8266 / ESP32 / M5stack using Adafruit-GFX / TFT_eSPI / UTFT / SDL
-- [JustVugg/colibri](https://github.com/JustVugg/colibri) – Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+- [JustVugg/colibri](https://github.com/JustVugg/colibri) – Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 - [OEFW-community/RT-890-custom-firmware](https://github.com/OEFW-community/RT-890-custom-firmware) – Customised version of Radtel RT-890 Open Firmware https://github.com/DualTachyon/radtel-rt-890-oefw
 - [OpenRTX/OpenRTX](https://github.com/OpenRTX/OpenRTX) – Modular Open Source Radio Firmware
 - [PriesiaMioShirakana/DragonianVoice](https://github.com/PriesiaMioShirakana/DragonianVoice) – 多个SVC/TTS的C++推理库
@@ -1385,7 +1385,7 @@
 - [mosaicml/llm-foundry](https://github.com/mosaicml/llm-foundry) – LLM training code for Databricks foundation models
 - [msclar/formatspread](https://github.com/msclar/formatspread) – Code accompanying "How I learned to start worrying about prompt formatting".
 - [msmolkin/super-grep](https://github.com/msmolkin/super-grep)
-- [muscriptor/muscriptor](https://github.com/muscriptor/muscriptor) – MuScriptor is a multi-instrument music transcription model developed by Kyutai and Mirelo.
+- [muscriptor/muscriptor](https://github.com/muscriptor/muscriptor) – A multi-instrument music transcription model developed by Kyutai and Mirelo.
 - [mustafaaljadery/gemma-2B-10M](https://github.com/mustafaaljadery/gemma-2B-10M) – Gemma 2B with 10M context length using Infini-attention.
 - [mwouts/itables](https://github.com/mwouts/itables) – Python DataFrames as Interactive DataTables
 - [n0xa/AppleJuice](https://github.com/n0xa/AppleJuice) – Apple BLE proximity pairing message spoofing
@@ -1462,6 +1462,7 @@
 - [ray-project/ray](https://github.com/ray-project/ray) – Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [reasoning-machines/pal](https://github.com/reasoning-machines/pal) – PaL: Program-Aided Language Models (ICML 2023)
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) – 🕸️ Web apps in pure Python 🐍
+- [reflex-dev/xy](https://github.com/reflex-dev/xy) – Ultra-fast and customizable Python charts
 - [refuel-ai/autolabel](https://github.com/refuel-ai/autolabel) – Label, clean and enrich text datasets with LLMs.
 - [revalo/tree-diffusion](https://github.com/revalo/tree-diffusion) – Diffusion on syntax trees for program synthesis
 - [ricklupton/rmc](https://github.com/ricklupton/rmc) – Convert to/from v6 .rm files from the reMarkable tablet
@@ -1533,7 +1534,7 @@
 - [turtlesoupy/this-word-does-not-exist](https://github.com/turtlesoupy/this-word-does-not-exist) – This Word Does Not Exist
 - [tyxsspa/AnyText](https://github.com/tyxsspa/AnyText) – Official implementation code of the paper <AnyText: Multilingual Visual Text Generation And Editing>
 - [ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver) – Successor of Undetected-Chromedriver. Providing a blazing fast framework for web automation, webscraping, bots and any other creative ideas which are normally hindered by annoying anti bot systems like Captcha / CloudFlare / Imperva / hCaptcha 
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) – Unsloth is a local UI for training and running Gemma 4, Qwen3.6, DeepSeek, Kimi, GLM and other models.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) – Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek, GLM and other models.
 - [vaexio/vaex](https://github.com/vaexio/vaex) – Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
 - [valine/NeuralFlow](https://github.com/valine/NeuralFlow) – Visualize the intermediate output of Mistral 7B
 - [vanderschaarlab/LLAMBO](https://github.com/vanderschaarlab/LLAMBO) – Official Repository for LLAMBO "Large Language Models to Enhance Bayesian Optimization"
