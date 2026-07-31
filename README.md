@@ -109,7 +109,6 @@
 - [bitounu/rM2-stuff](https://github.com/bitounu/rM2-stuff) – Collection of reMarkable related apps with modified Yaft
 - [bmorcelli/IceNav-v3](https://github.com/bmorcelli/IceNav-v3) – 🛰️ ESP32 Based GPS Navigator with OSM offline maps.  Multi GNSS
 - [brianGit78/M5-StickT-WIFI](https://github.com/brianGit78/M5-StickT-WIFI) – Fork that adds Wifi and MJPEG streaming of thermal cam images
-- [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) – WebAssembly Micro Runtime (WAMR)
 - [cepa/aegir-gps-tracker](https://github.com/cepa/aegir-gps-tracker) – Aegir GPS/LTE/Iridium Tracker
 - [clopez/dellfan](https://github.com/clopez/dellfan) – User space utility to control the fan speed on Dell Laptops
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) – Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
@@ -156,6 +155,7 @@
 - [vanshksingh/M5Cardputer-Chat-with-Gemini-API](https://github.com/vanshksingh/M5Cardputer-Chat-with-Gemini-API) – M5Cardputer Chat with Gemini API: An application that uses M5Cardputer to interact with the Gemini API for generating responses based on user input. This project includes code for managing Wi-Fi connectivity, user input handling, API requests, and displaying responses on the M5Cardputer's screen.
 - [vitorafsr/i8kutils](https://github.com/vitorafsr/i8kutils) – Fan control for some Dell laptops
 - [vroland/epdiy](https://github.com/vroland/epdiy) – EPDiy is a driver board for affordable e-Paper (or E-ink) displays.
+- [wasm-micro-runtime/wasm-micro-runtime](https://github.com/wasm-micro-runtime/wasm-micro-runtime) – WebAssembly Micro Runtime (WAMR)
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) – 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
 - [waveshareteam/ESP32-display-support](https://github.com/waveshareteam/ESP32-display-support) – Waveshare ESP32 with screen product code summary
 - [wizard97/SimplyAtomic](https://github.com/wizard97/SimplyAtomic) – Simple Arduino portable atomic macros
