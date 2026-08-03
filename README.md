@@ -76,7 +76,7 @@
 - [AleksAlcDel/Two-Button_Tetris_for_SCPlus2.](https://github.com/AleksAlcDel/Two-Button_Tetris_for_SCPlus2.)
 - [Bodmer/JPEGDecoder](https://github.com/Bodmer/JPEGDecoder) – A JPEG decoder library
 - [CloneGen/CLONEGEN](https://github.com/CloneGen/CLONEGEN)
-- [Dlazder/m5_crystal_firmware](https://github.com/Dlazder/m5_crystal_firmware) – A multifunctional firmware for M5 devices with an emphasis on stability and simplicity.
+- [Dlazder/m5_crystal_firmware](https://github.com/Dlazder/m5_crystal_firmware) – A multifunctional firmware for M5Stack devices with an emphasis on stability and simplicity.
 - [DroneBridge/ESP32](https://github.com/DroneBridge/ESP32) – DroneBridge for ESP32. A secure & transparent telemetry link with support for WiFi and ESP-NOW. Supporting MAVLink, MSP, LTM or any other protocol
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) – A highly customizable macOS status bar replacement
 - [Frogy76/epdiy](https://github.com/Frogy76/epdiy)
