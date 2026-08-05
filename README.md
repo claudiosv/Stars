@@ -1174,7 +1174,7 @@
 - [cubiq/ComfyUI_IPAdapter_plus](https://github.com/cubiq/ComfyUI_IPAdapter_plus)
 - [cupy/cupy](https://github.com/cupy/cupy) – NumPy & SciPy for GPU
 - [custom-components/pyscript](https://github.com/custom-components/pyscript) – Pyscript adds rich Python scripting to HASS
-- [cvs-health/uqlm](https://github.com/cvs-health/uqlm) – UQLM: Uncertainty Quantification for Language Models, is a Python package for UQ-based LLM hallucination detection
+- [cvs-health/uqlm](https://github.com/cvs-health/uqlm) – [JMLR 2026] "UQLM: A Python Package for Uncertainty Quantification in Large Language Models"
 - [dadadel/pyment](https://github.com/dadadel/pyment) – Format and convert Python docstrings and generates patches
 - [danielzuegner/code-transformer](https://github.com/danielzuegner/code-transformer) – Implementation of the paper "Language-agnostic representation learning of source code from structure and context". 
 - [dask/dask](https://github.com/dask/dask) – Parallel computing with task scheduling
