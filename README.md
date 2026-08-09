@@ -1533,7 +1533,7 @@
 - [turtlesoupy/this-word-does-not-exist](https://github.com/turtlesoupy/this-word-does-not-exist) – This Word Does Not Exist
 - [tyxsspa/AnyText](https://github.com/tyxsspa/AnyText) – Official implementation code of the paper <AnyText: Multilingual Visual Text Generation And Editing>
 - [ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver) – Successor of Undetected-Chromedriver. Providing a blazing fast framework for web automation, webscraping, bots and any other creative ideas which are normally hindered by annoying anti bot systems like Captcha / CloudFlare / Imperva / hCaptcha 
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) – Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) – The local UI to run and train text and diffusion models, including Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
 - [vaexio/vaex](https://github.com/vaexio/vaex) – Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
 - [valine/NeuralFlow](https://github.com/valine/NeuralFlow) – Visualize the intermediate output of Mistral 7B
 - [vanderschaarlab/LLAMBO](https://github.com/vanderschaarlab/LLAMBO) – Official Repository for LLAMBO "Large Language Models to Enhance Bayesian Optimization"
