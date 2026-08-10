@@ -1146,7 +1146,7 @@
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) – Pythonic AI generation of images and videos
 - [bsdz/remarkable-layers](https://github.com/bsdz/remarkable-layers) – Python module for reading and writing Remarkable Lines files
 - [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) – Pioneering Automated GUI Interaction with Native Agents
-- [cactus-compute/needle](https://github.com/cactus-compute/needle) – Foundation model for tiny devices; 14mb, 26m params, 1-6k toks/sec on mobiles, wearables smart home and robots.
+- [cactus-compute/needle](https://github.com/cactus-compute/needle) – 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
 - [catalyst-team/catalyst](https://github.com/catalyst-team/catalyst) – Accelerated deep learning R&D
 - [cedricrupb/code_tokenize](https://github.com/cedricrupb/code_tokenize) – Fast tokenization and structural analysis of any programming language
 - [cemrehancavdar/faster-python-bench](https://github.com/cemrehancavdar/faster-python-bench)
@@ -1684,7 +1684,7 @@
 
 - [DrCatHicks/learning-opportunities](https://github.com/DrCatHicks/learning-opportunities) – A Claude or Codex skill for deliberate skill development during AI-assisted coding
 - [MarioCatuogno/Clean-macOS](https://github.com/MarioCatuogno/Clean-macOS) – 💻 A script to set up a clean macOS environment.
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) – Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Claude Code, Codex, Cursor, Kiro, OpenCode and 60+ agents via the Agent Skills standard.
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) – Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.
 - [Penguin-Guru/remarkable-api](https://github.com/Penguin-Guru/remarkable-api) – A simple Bash script to interact with Remarkable devices' local A.P.I. via C.L.I.
 - [Peter-Lavigne/fizzbuzz-without-human-review](https://github.com/Peter-Lavigne/fizzbuzz-without-human-review)
 - [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) – Bonsai Demo
