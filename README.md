@@ -1533,7 +1533,7 @@
 - [turtlesoupy/this-word-does-not-exist](https://github.com/turtlesoupy/this-word-does-not-exist) – This Word Does Not Exist
 - [tyxsspa/AnyText](https://github.com/tyxsspa/AnyText) – Official implementation code of the paper <AnyText: Multilingual Visual Text Generation And Editing>
 - [ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver) – Successor of Undetected-Chromedriver. Providing a blazing fast framework for web automation, webscraping, bots and any other creative ideas which are normally hindered by annoying anti bot systems like Captcha / CloudFlare / Imperva / hCaptcha 
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) – The local UI to run and train text and diffusion models, including Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) – Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
 - [vaexio/vaex](https://github.com/vaexio/vaex) – Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
 - [valine/NeuralFlow](https://github.com/valine/NeuralFlow) – Visualize the intermediate output of Mistral 7B
 - [vanderschaarlab/LLAMBO](https://github.com/vanderschaarlab/LLAMBO) – Official Repository for LLAMBO "Large Language Models to Enhance Bayesian Optimization"
@@ -1647,7 +1647,7 @@
 - [lovasoa/dezoomify-rs](https://github.com/lovasoa/dezoomify-rs) – Zoomable image downloader for Google Arts & Culture, Zoomify, IIIF, and others
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) – The next gen ls command
 - [marcelroed/gigatoken](https://github.com/marcelroed/gigatoken) – Language model tokenization at GB/s
-- [ml-rust/splintr](https://github.com/ml-rust/splintr) – A high-performance tokenizer (BPE + SentencePiece) built with Rust with Python bindings, focused on speed, safety, and resource optimization.
+- [ml-rust/splintr](https://github.com/ml-rust/splintr) – A high-performance tokenizer (BPE, WordPiece, SentencePiece) built with Rust with Python bindings, focused on speed, safety, and resource optimization.
 - [nachoparker/dutree](https://github.com/nachoparker/dutree) – a tool to analyze file system usage written in Rust
 - [openai/codex](https://github.com/openai/codex) – Lightweight coding agent that runs in your terminal
 - [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) – A coding agent for open models like Kimi K3
