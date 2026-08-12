@@ -81,7 +81,7 @@
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) – A highly customizable macOS status bar replacement
 - [Frogy76/epdiy](https://github.com/Frogy76/epdiy)
 - [GJDuck/e9patch](https://github.com/GJDuck/e9patch) – A powerful static binary rewriting tool
-- [GhostESP-Revival/GhostESP](https://github.com/GhostESP-Revival/GhostESP) – An open source platform for ESP32 devices.
+- [GhostESP-Revival/GhostESP](https://github.com/GhostESP-Revival/GhostESP) – The open-source wireless research platform for ESP32.
 - [ImpulseAdventure/GUIslice](https://github.com/ImpulseAdventure/GUIslice) – GUIslice drag & drop embedded GUI in C for touchscreen TFT on Arduino, Raspberry Pi, ARM, ESP8266 / ESP32 / M5stack using Adafruit-GFX / TFT_eSPI / UTFT / SDL
 - [JustVugg/colibri](https://github.com/JustVugg/colibri) – Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 - [OEFW-community/RT-890-custom-firmware](https://github.com/OEFW-community/RT-890-custom-firmware) – Customised version of Radtel RT-890 Open Firmware https://github.com/DualTachyon/radtel-rt-890-oefw
@@ -159,6 +159,7 @@
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) – 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
 - [waveshareteam/ESP32-display-support](https://github.com/waveshareteam/ESP32-display-support) – Waveshare ESP32 with screen product code summary
 - [wizard97/SimplyAtomic](https://github.com/wizard97/SimplyAtomic) – Simple Arduino portable atomic macros
+- [yobabyte/tid_umod](https://github.com/yobabyte/tid_umod) – uMod for TIDRADIO H3
 
 <div id="c#"></div>
 
@@ -214,6 +215,7 @@
 - [Mattmanandeddie/-M5-Stick-C-Game-Eat-the-Dot](https://github.com/Mattmanandeddie/-M5-Stick-C-Game-Eat-the-Dot) – A simple game for M5 stick C, that needs a better name.
 - [Mystfit/ESP32-BLE-CompositeHID](https://github.com/Mystfit/ESP32-BLE-CompositeHID) – Bluetooth LE Gamepad + Mouse + Keyboard library for the ESP32
 - [NVIDIA/FasterTransformer](https://github.com/NVIDIA/FasterTransformer) – Transformer related optimization, including BERT, GPT
+- [NVIDIA/cudf](https://github.com/NVIDIA/cudf) – cuDF - GPU DataFrame Library 
 - [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) – OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.
 - [Passific/m5paper_esphome](https://github.com/Passific/m5paper_esphome) – Repository for ESPHOME components for m5paper
 - [PaulStoffregen/Time](https://github.com/PaulStoffregen/Time) – Time library for Arduino
@@ -299,7 +301,6 @@
 - [nonik0/CardputerLoRaChat](https://github.com/nonik0/CardputerLoRaChat)
 - [question-and-answer/cave-mine-cardputer-alpha1](https://github.com/question-and-answer/cave-mine-cardputer-alpha1) – A true 3D voxel sandbox (Minecraft-like) for the M5Stack Cardputer-Adv, built in Arduino IDE with real ray traversal, terrain generation, and block interaction.
 - [qwertyuu/Cardputer-Adv-Tracker](https://github.com/qwertyuu/Cardputer-Adv-Tracker) – A music tracker for the Cardputer ADV
-- [rapidsai/cudf](https://github.com/rapidsai/cudf) – cuDF - GPU DataFrame Library 
 - [rennancockles/SimpleCLI](https://github.com/rennancockles/SimpleCLI) – Command Line Interface Library for Arduino
 - [rhasspy/piper](https://github.com/rhasspy/piper) – A fast, local neural text to speech system
 - [ridiculousfish/libdivide](https://github.com/ridiculousfish/libdivide) – Official git repository for libdivide: optimized integer division
@@ -416,6 +417,7 @@
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) – Glamourous agentic coding for all 💘
 - [chopikus/rm-exporter](https://github.com/chopikus/rm-exporter) – Export large notes & folders from reMarkable
 - [ddvk/rmapi](https://github.com/ddvk/rmapi) – Go app that allows you to access your reMarkable tablet files through the Cloud API
+- [drogers0/gh-image](https://github.com/drogers0/gh-image) – A gh CLI extension that uploads attachments to GitHub from the command line
 - [dundee/gdu](https://github.com/dundee/gdu) – Fast disk usage analyzer with console interface written in Go
 - [fargusplumdoodle/dump_dir](https://github.com/fargusplumdoodle/dump_dir) – Copy a bunch of files into your clipboard to provide context for LLMs
 - [getgaal/gaal](https://github.com/getgaal/gaal) – A single CLI to keep your local repositories, AI agent skills, and MCP server configurations in sync.
@@ -848,7 +850,6 @@
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) – Questions to ask the company during your interview
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) – A curated list of dotfiles resources.
 - [wiltodelta/homeassistant-govee-smart-heater-h7131](https://github.com/wiltodelta/homeassistant-govee-smart-heater-h7131) – Home Assistant setup guide for the Govee Smart Heater H7131 via the Govee Developer API and template integration
-- [yobabyte/tid_umod](https://github.com/yobabyte/tid_umod) – uMod for TIDRADIO H3
 - [yokoffing/filterlists](https://github.com/yokoffing/filterlists) – Collection of blocklists to fill in the gaps
 - [zhengzangw/awesome-huge-models](https://github.com/zhengzangw/awesome-huge-models) – A collection of AWESOME things about HUGE AI models.
 - [zioCristia/esp-touch-screen](https://github.com/zioCristia/esp-touch-screen) – EspHome code to have a UI with pagination in a esp32 based touchscreen
@@ -1223,7 +1224,6 @@
 - [facebookresearch/cruxeval](https://github.com/facebookresearch/cruxeval) – CRUXEval: Code Reasoning, Understanding, and Execution Evaluation
 - [facebookresearch/cwm](https://github.com/facebookresearch/cwm) – Research code artifacts for Code World Model (CWM) including inference tools, reproducibility, and documentation.
 - [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) – Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
-- [facebookresearch/hydra](https://github.com/facebookresearch/hydra) – Hydra is a framework for elegantly configuring complex applications
 - [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq) – Repo for external large-scale work
 - [facebookresearch/xformers](https://github.com/facebookresearch/xformers) – Hackable and optimized Transformers building blocks, supporting a composable construction.
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) – FauxPilot - an open-source alternative to GitHub Copilot server
@@ -1278,6 +1278,7 @@
 - [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) – Large Language Model Text Generation Inference
 - [huggingface/transformers](https://github.com/huggingface/transformers) – 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
 - [huggingface/trl](https://github.com/huggingface/trl) – Train transformer language models with reinforcement learning.
+- [hydra-ecosystem/hydra](https://github.com/hydra-ecosystem/hydra) – Hydra is a framework for elegantly configuring complex applications
 - [idank/explainshell](https://github.com/idank/explainshell) – match command-line arguments to their help text
 - [idiap/fast-transformers](https://github.com/idiap/fast-transformers) – Pytorch library for fast transformer implementations
 - [im-not-tom/text-generation-webui-output-template-extension](https://github.com/im-not-tom/text-generation-webui-output-template-extension)
