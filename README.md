@@ -1534,7 +1534,7 @@
 - [turtlesoupy/this-word-does-not-exist](https://github.com/turtlesoupy/this-word-does-not-exist) – This Word Does Not Exist
 - [tyxsspa/AnyText](https://github.com/tyxsspa/AnyText) – Official implementation code of the paper <AnyText: Multilingual Visual Text Generation And Editing>
 - [ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver) – Successor of Undetected-Chromedriver. Providing a blazing fast framework for web automation, webscraping, bots and any other creative ideas which are normally hindered by annoying anti bot systems like Captcha / CloudFlare / Imperva / hCaptcha 
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) – Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) – Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 - [vaexio/vaex](https://github.com/vaexio/vaex) – Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
 - [valine/NeuralFlow](https://github.com/valine/NeuralFlow) – Visualize the intermediate output of Mistral 7B
 - [vanderschaarlab/LLAMBO](https://github.com/vanderschaarlab/LLAMBO) – Official Repository for LLAMBO "Large Language Models to Enhance Bayesian Optimization"
@@ -1550,7 +1550,7 @@
 - [w-okada/voice-changer](https://github.com/w-okada/voice-changer) – リアルタイムボイスチェンジャー Realtime Voice Changer
 - [wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration) – Single Underwater Image Enhancement and Color Restoration, which is Python implementation for a comprehensive review paper "An Experimental-based Review of Image Enhancement and Image Restoration Methods for Underwater Imaging"
 - [widgetti/wanderlust](https://github.com/widgetti/wanderlust) – Wanderlust OpenAI example using Solara
-- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) – AI watermark remover. CLI and Python library to strip visible and invisible AI watermarks (Gemini / Nano Banana sparkle, SynthID) and provenance metadata (C2PA, EXIF, IPTC) from images.
+- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) – Remove visible and invisible AI watermarks and provenance metadata from images and video. Python library and CLI for SynthID, C2PA, EXIF, IPTC, XMP, and common generative-AI marks.
 - [xZetsubou/hass-localtuya](https://github.com/xZetsubou/hass-localtuya) – 🔹 A Home Assistant integration to handle Tuya devices locally "fork from localtuya"
 - [xiaowu0162/LongMemEval-V2](https://github.com/xiaowu0162/LongMemEval-V2) – Official repository for LongMemEval-V2
 - [xuyuzhuang11/OneBit](https://github.com/xuyuzhuang11/OneBit) – The homepage of OneBit model quantization framework.
@@ -1808,7 +1808,7 @@
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) – Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) – ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate) – A plugin that does one thing only: Detect and manage duplicate items in Zotero.
-- [CopilotKit/OpenTag](https://github.com/CopilotKit/OpenTag) – OpenTag
+- [CopilotKit/OpenTag](https://github.com/CopilotKit/OpenTag) – OpenTag: The Channels SDK starter application, a self-hosted AI on-call triage bot for Slack and Microsoft Teams, built with AG-UI and LangGraph. Fork it and ship your own.
 - [Dominic-DallOsto/zotero-reading-list](https://github.com/Dominic-DallOsto/zotero-reading-list) – Keep track of whether you've read items in Zotero
 - [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) – A React-based library for creating sleek presentations using JSX syntax that gives you the ability to live demo your code.
 - [Future-Scholars/paperlib](https://github.com/Future-Scholars/paperlib) – An open-source academic paper management tool.
