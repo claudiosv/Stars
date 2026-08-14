@@ -920,8 +920,6 @@
 - [Cyclenerd/bookmarks-manager](https://github.com/Cyclenerd/bookmarks-manager) – 🔖 A lightweight, self-hosted bookmarking solution designed for speed and simplicity.
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) – 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [DFRobot/DFRobot_GP8XXX](https://github.com/DFRobot/DFRobot_GP8XXX)
-- [DaiseyCode/Synthegrator](https://github.com/DaiseyCode/Synthegrator) – An Extendable Framework for Code Generation and AI4SE Research
-- [DaiseyCode/lmwrapper](https://github.com/DaiseyCode/lmwrapper) – An object-oriented wrapper around language models with caching, batching, and more.
 - [Danau5tin/ai-trains-ai](https://github.com/Danau5tin/ai-trains-ai) – RL-training an AI agent to RL-train AI agents.
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) – Fast and memory-efficient exact attention
 - [Darwin-Agent/HarnessX](https://github.com/Darwin-Agent/HarnessX) – HarnessX is a harness foundry: forge any number of agent harnesses from reusable processors and bundles, pair each with any model, and evolve them through training.
@@ -1240,8 +1238,6 @@
 - [ganeshjawahar/interpret_bert](https://github.com/ganeshjawahar/interpret_bert) – Interpreting Bidirectional Encoder Representations from Transformers (BERT)
 - [getsentry/auto-type-annotate](https://github.com/getsentry/auto-type-annotate) – automatically add annotations to untyped python code!
 - [gianlucatruda/richify](https://github.com/gianlucatruda/richify) – Richly render (streamed) markdown, such as from command-line LLMs.
-- [giganticode/llm_ingredient_extraction](https://github.com/giganticode/llm_ingredient_extraction)
-- [giganticode/probes](https://github.com/giganticode/probes) – Probing pre-trained source code models
 - [glassonion1/anonypy](https://github.com/glassonion1/anonypy) – Anonymization library for python. Protect the privacy of individuals.
 - [going-doer/Paper2Code](https://github.com/going-doer/Paper2Code) – Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning
 - [gonglinyuan/safim](https://github.com/gonglinyuan/safim)
