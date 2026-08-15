@@ -1445,7 +1445,7 @@
 - [pts/pdfsizeopt](https://github.com/pts/pdfsizeopt) – PDF file size optimizer
 - [pvs-hd-tea/PyTypes](https://github.com/pvs-hd-tea/PyTypes) – Infer Types by Python Tracing
 - [py-why/dowhy](https://github.com/py-why/dowhy) – DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks. 
-- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) – AI Agent Framework, the Pydantic way
+- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) – How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.
 - [pytask-dev/latex-dependency-scanner](https://github.com/pytask-dev/latex-dependency-scanner) – A dependency scanner for LaTeX documents.
 - [pytest-dev/execnet](https://github.com/pytest-dev/execnet) – distributed Python deployment and communication
 - [pytorch/executorch](https://github.com/pytorch/executorch) – On-device AI across mobile, embedded and edge for PyTorch
