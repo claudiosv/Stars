@@ -993,6 +993,7 @@
 - [MaHuanAAA/g_fair_prompting](https://github.com/MaHuanAAA/g_fair_prompting)
 - [MaartenGr/KeyBERT](https://github.com/MaartenGr/KeyBERT) – Minimal keyword extraction with BERT
 - [Macaronlin/LLaMA3-Quantization](https://github.com/Macaronlin/LLaMA3-Quantization) – A repository dedicated to evaluating the performance of quantizied LLaMA3 using various quantization methods..
+- [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) – The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 - [MariusNea/Aurora](https://github.com/MariusNea/Aurora) – Problem solving focused statistical and machine learning software toolkit. Think of it as any spreadsheet software, but empowered with plug'n'play tools for statistics and machine learning. More tools are added frequently by using plugin functionality.
 - [MarwaNair/TinyPy-Generator](https://github.com/MarwaNair/TinyPy-Generator)
 - [McGill-NLP/llm2vec](https://github.com/McGill-NLP/llm2vec) – Code for 'LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders'
@@ -1811,7 +1812,6 @@
 - [ImperialSquid/zotero-zotts](https://github.com/ImperialSquid/zotero-zotts) – A Zotero plugin adding text to speech (TTS) functionality to various screens
 - [JohnCrickett/ai-writing-detector](https://github.com/JohnCrickett/ai-writing-detector) – AI Writing Detector
 - [KrystianJonca/lnai](https://github.com/KrystianJonca/lnai) – Unified AI configuration management CLI
-- [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) – The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 - [MasuRii/pi-rtk-optimizer](https://github.com/MasuRii/pi-rtk-optimizer) – Pi extension that optimizes RTK command rewriting and tool output compaction for the coding agent.
 - [OldJii/mcp-dock](https://github.com/OldJii/mcp-dock) – MCP Server & Config Manager for 14 AI Clients — Cursor, VS Code, Claude Code, Gemini CLI, Windsurf, Zed, TRAE, Kiro, JetBrains & more. 8500+ servers, 4400+ skills.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) – 🙌 OpenHands: AI-Driven Development
