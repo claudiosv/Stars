@@ -19,29 +19,29 @@
 - [Fluent](#fluent)
 - [Go](#go)
 - [Go Template](#go-template)
+- [HCL](#hcl)
 - [HTML](#html)
 - [Haskell](#haskell)
-- [Hcl](#hcl)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
-- [LUA](#lua)
+- [LLVM](#llvm)
 - [Linker Script](#linker-script)
-- [Llvm](#llvm)
+- [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
-- [Mdx](#mdx)
 - [Nix](#nix)
+- [OCaml](#ocaml)
 - [Objective-C++](#objective-c++)
-- [Ocaml](#ocaml)
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Processing](#processing)
-- [Purescript](#purescript)
+- [PureScript](#purescript)
 - [Python](#python)
 - [R](#r)
 - [Ruby](#ruby)
@@ -51,9 +51,8 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
-- [VimL](#viml)
 - [Vue](#vue)
-- [Webassembly](#webassembly)
+- [WebAssembly](#webassembly)
 - [Yacc](#yacc)
 - [Zig](#zig)
 
@@ -409,6 +408,7 @@
 ## Go
 
 - [Agent-Field/pr-af](https://github.com/Agent-Field/pr-af) – #1 open-source code reviewer on Code-Review-Bench
+- [Cyclenerd/bookmarks-manager](https://github.com/Cyclenerd/bookmarks-manager) – 🔖 A lightweight, self-hosted bookmarking solution designed for speed and simplicity.
 - [InftyAI/llmaz](https://github.com/InftyAI/llmaz) – ☸️ Easy, advanced inference platform for large language models on Kubernetes. 🌟 Star to support our work!
 - [adnanh/webhook](https://github.com/adnanh/webhook) – webhook is a lightweight incoming webhook server to run shell commands
 - [akeil/rmtool](https://github.com/akeil/rmtool) – Tool for interacting with the reMarkable lines format and API
@@ -461,6 +461,12 @@
 
 - [twpayne/dotfiles](https://github.com/twpayne/dotfiles) – My dotfiles, managed with https://chezmoi.io.
 
+<div id="hcl"></div>
+
+## HCL
+
+- [knox-dawson/rm-shapes](https://github.com/knox-dawson/rm-shapes) – rM Shapes - Shapes to cut and paste into a Remarkable tablet
+
 <div id="html"></div>
 
 ## HTML
@@ -487,12 +493,6 @@
 
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) – Terminal-based presentations using Pandoc
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) – ShellCheck, a static analysis tool for shell scripts
-
-<div id="hcl"></div>
-
-## Hcl
-
-- [knox-dawson/rm-shapes](https://github.com/knox-dawson/rm-shapes) – rM Shapes - Shapes to cut and paste into a Remarkable tablet
 
 <div id="java"></div>
 
@@ -688,13 +688,11 @@
 - [JetBrains/lets-plot](https://github.com/JetBrains/lets-plot) – Multiplatform plotting library based on the Grammar of Graphics
 - [danielgjackson/noisecancel](https://github.com/danielgjackson/noisecancel) – Quickly turn off noise cancellation on Bose NC 700 or QC 35 headphones, or change modes on the QC Earbuds or QC 45.
 
-<div id="lua"></div>
+<div id="llvm"></div>
 
-## LUA
+## LLVM
 
-- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) – AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins 
-- [eatkins/tree-sitter-ebnf-generator](https://github.com/eatkins/tree-sitter-ebnf-generator) – Convert an EBNF grammar to the tree-sitter dsl
-- [josean-dev/dev-environment-files](https://github.com/josean-dev/dev-environment-files)
+- [espressif/llvm-project](https://github.com/espressif/llvm-project) – Fork of LLVM with Xtensa specific patches. To be upstreamed.
 
 <div id="linker-script"></div>
 
@@ -702,11 +700,19 @@
 
 - [melastmohican/rust-rpico2-embassy-examples](https://github.com/melastmohican/rust-rpico2-embassy-examples) – rust-rpico2-embassy-examples Rust Embassy examples for Raspberry Pi Pico 2
 
-<div id="llvm"></div>
+<div id="lua"></div>
 
-## Llvm
+## Lua
 
-- [espressif/llvm-project](https://github.com/espressif/llvm-project) – Fork of LLVM with Xtensa specific patches. To be upstreamed.
+- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) – AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins 
+- [eatkins/tree-sitter-ebnf-generator](https://github.com/eatkins/tree-sitter-ebnf-generator) – Convert an EBNF grammar to the tree-sitter dsl
+- [josean-dev/dev-environment-files](https://github.com/josean-dev/dev-environment-files)
+
+<div id="mdx"></div>
+
+## MDX
+
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) – 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 
 <div id="makefile"></div>
 
@@ -720,12 +726,6 @@
 
 - [nsriram/lambda-the-terraform-way](https://github.com/nsriram/lambda-the-terraform-way) – AWS Lambda using Terraform., an Introductory Cookbook
 
-<div id="mdx"></div>
-
-## Mdx
-
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) – 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
-
 <div id="nix"></div>
 
 ## Nix
@@ -733,18 +733,18 @@
 - [basnijholt/dotfiles](https://github.com/basnijholt/dotfiles) – nixos, nix-darwin, homebrew, oh-my-zsh, dotbot, dotbins, macos, linux, submodules, zsh, bash, awesome modern CLI tools — no place like ~/
 - [birkhofflee/dotfiles](https://github.com/birkhofflee/dotfiles) – my platform-agnostic dotfiles
 
+<div id="ocaml"></div>
+
+## OCaml
+
+- [facebook/pyre-check](https://github.com/facebook/pyre-check) – Performant type-checking for python.
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) – Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
+
 <div id="objective-c++"></div>
 
 ## Objective-C++
 
 - [semvis123/Sonitus](https://github.com/semvis123/Sonitus) – Noise-control like native, but for non-Apple devices
-
-<div id="ocaml"></div>
-
-## Ocaml
-
-- [facebook/pyre-check](https://github.com/facebook/pyre-check) – Performant type-checking for python.
-- [semgrep/semgrep](https://github.com/semgrep/semgrep) – Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 
 <div id="others"></div>
 
@@ -883,7 +883,7 @@
 
 <div id="purescript"></div>
 
-## Purescript
+## PureScript
 
 - [purescript-halogen/purescript-halogen](https://github.com/purescript-halogen/purescript-halogen) – A declarative, type-safe UI library for PureScript.
 
@@ -917,7 +917,6 @@
 - [ConsistentlyInconsistentYT/Pixeltovoxelprojector](https://github.com/ConsistentlyInconsistentYT/Pixeltovoxelprojector) – Projects motion of pixels to a voxel
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) – Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [Coyote-A/ultimate-upscale-for-automatic1111](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111)
-- [Cyclenerd/bookmarks-manager](https://github.com/Cyclenerd/bookmarks-manager) – 🔖 A lightweight, self-hosted bookmarking solution designed for speed and simplicity.
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) – 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [DFRobot/DFRobot_GP8XXX](https://github.com/DFRobot/DFRobot_GP8XXX)
 - [Danau5tin/ai-trains-ai](https://github.com/Danau5tin/ai-trains-ai) – RL-training an AI agent to RL-train AI agents.
@@ -1593,7 +1592,7 @@
 - [BurntSushi/bttf](https://github.com/BurntSushi/bttf) – A command line tool for datetime arithmetic, parsing, formatting and more.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) – ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) – View disk space usage and delete unwanted data, fast.
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) – Open-source, community-driven agent harness
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) – Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
 - [HyperAST/HyperAST](https://github.com/HyperAST/HyperAST) – Temporal code analyses at scale
 - [IvanWng97/pixtuoid](https://github.com/IvanWng97/pixtuoid) – Terminal pixel-art office for AI coding agents
 - [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) – Highly parallelized, blazing fast directory tree analyzer
@@ -1904,6 +1903,7 @@
 - [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) – A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
 - [amix/vimrc](https://github.com/amix/vimrc) – The ultimate Vim configuration (vimrc)
 - [bronson/vim-trailing-whitespace](https://github.com/bronson/vim-trailing-whitespace) – Highlights trailing whitespace in red and provides :FixWhitespace to fix it.
+- [colepeters/spacemacs-theme.vim](https://github.com/colepeters/spacemacs-theme.vim) – Spacemacs-flavoured colorscheme for Vim and iTerm
 - [ctrlpvim/ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) – Active fork of kien/ctrlp.vim—Fuzzy file, buffer, mru, tag, etc finder.
 - [dense-analysis/ale](https://github.com/dense-analysis/ale) – Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support
 - [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim) – A light and configurable statusline/tabline plugin for Vim
@@ -1918,14 +1918,8 @@
 - [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) – fugitive.vim: A Git wrapper so awesome, it should be illegal
 - [vim-polyglot/vim-polyglot](https://github.com/vim-polyglot/vim-polyglot) – A solid language pack for Vim.
 - [vim-syntastic/syntastic](https://github.com/vim-syntastic/syntastic) – Syntax checking hacks for vim
-- [zserge/dotfiles](https://github.com/zserge/dotfiles) – git clone --bare https://github.com/zserge/dotfiles $HOME/.dotfiles && git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME checkout
-
-<div id="viml"></div>
-
-## VimL
-
-- [colepeters/spacemacs-theme.vim](https://github.com/colepeters/spacemacs-theme.vim) – Spacemacs-flavoured colorscheme for Vim and iTerm
 - [wikitopian/hardmode](https://github.com/wikitopian/hardmode) – Vim: Hard Mode (deprecated)
+- [zserge/dotfiles](https://github.com/zserge/dotfiles) – git clone --bare https://github.com/zserge/dotfiles $HOME/.dotfiles && git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME checkout
 
 <div id="vue"></div>
 
@@ -1935,7 +1929,7 @@
 
 <div id="webassembly"></div>
 
-## Webassembly
+## WebAssembly
 
 - [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) – Optimizer and compiler/toolchain library for WebAssembly
 
