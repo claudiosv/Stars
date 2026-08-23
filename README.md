@@ -835,7 +835,7 @@
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) – List of projects that provide terminal user interfaces
 - [saltudelft/ml4se](https://github.com/saltudelft/ml4se) – A curated list of papers, theses, datasets, and tools related to the application of Machine Learning for Software Engineering
 - [savikko/smarthome](https://github.com/savikko/smarthome) – Almost all stuff related to smarthome
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) – 😎 Awesome lists about all kinds of interesting topics
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) – 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [sindresorhus/iterm2-snazzy](https://github.com/sindresorhus/iterm2-snazzy) – Elegant iTerm2 theme with bright colors
 - [sivar2311/platformio_boards](https://github.com/sivar2311/platformio_boards) – Collection of various PlatformIO board definitions
 - [src-d/awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code) – Cool links & research papers related to Machine Learning applied to source code (MLonCode)
