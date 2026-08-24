@@ -1822,7 +1822,7 @@
 - [ajnart/homarr](https://github.com/ajnart/homarr) – Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) – The open source coding agent.
 - [awnist/slop-cop](https://github.com/awnist/slop-cop) – AI text slop detection, 100% in browser
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) – ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) – ⌥ Coding agent with the IDE wired in
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) – Powerful AI Client
 - [chris-mosley/AmazonBrandFilter](https://github.com/chris-mosley/AmazonBrandFilter) – Filters Amazon search results to only be "known" brands.
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) – Generate changelogs and release notes from a project's commit messages and metadata.
