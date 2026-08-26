@@ -1334,7 +1334,7 @@
 - [lin-tan/CURE](https://github.com/lin-tan/CURE) – For our ICSE21 paper "CURE: Code-Aware Neural Machine Translation for Automatic Program Repair" by Nan Jiang, Thibaud Lutellier, and Lin Tan
 - [lin-tan/CoCoNut-Artifact](https://github.com/lin-tan/CoCoNut-Artifact) – For our ISSTA20 paper "CoCoNuT: Combining Context-Aware Neural Translation Models using Ensemble for Program Repair" by Thibaud Lutellier, Hung Viet Pham, Lawrence Pang, Yitong Li, Moshi Wei and Lin Tan
 - [lin-tan/clm](https://github.com/lin-tan/clm) – For our ICSE23 paper "Impact of Code Language Models on Automated Program Repair" by Nan Jiang, Kevin Liu, Thibaud Lutellier, and Lin Tan
-- [linuxrebel/DocuBrowser](https://github.com/linuxrebel/DocuBrowser) – This does for Documents what repo-browser does for repos. A local AI powered Document search engine 
+- [linuxrebel/DocuBrowser](https://github.com/linuxrebel/DocuBrowser) – A local AI powered Document search engine. That turns that pile of documents on your system into a manageable searchable info store.
 - [liyucheng09/Contamination_Detector](https://github.com/liyucheng09/Contamination_Detector) – Lightweight tool to identify Data Contamination in LLMs evaluation
 - [llm-semantic-router/vllm-router](https://github.com/llm-semantic-router/vllm-router) – vLLM Router
 - [llm-workflow-engine/llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) – Power CLI and Workflow manager for LLMs (core package)
