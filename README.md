@@ -110,7 +110,7 @@
 - [brianGit78/M5-StickT-WIFI](https://github.com/brianGit78/M5-StickT-WIFI) – Fork that adds Wifi and MJPEG streaming of thermal cam images
 - [cepa/aegir-gps-tracker](https://github.com/cepa/aegir-gps-tracker) – Aegir GPS/LTE/Iridium Tracker
 - [clopez/dellfan](https://github.com/clopez/dellfan) – User space utility to control the fan speed on Dell Laptops
-- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) – Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) – Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [d4rkmen/M5Apps](https://github.com/d4rkmen/M5Apps) – Multi-app installer for M5 CardPuter v1.0, v1.1 and ADV with a set of built-in tools
 - [d4rkmen/M5Gemini](https://github.com/d4rkmen/M5Gemini) – Conversational AI assistant for the ESP32-S3 powered M5 Cardputer mini PC
 - [deftio/qf_math](https://github.com/deftio/qf_math) – Fast math library (float 32) for embedded systems.  fast sin/cos/tan/asin/acos/atan (rad, degree, bam support) also exp,log,ln,pow,pow10, wave-gen, adsr.  Same API as fixed point library deftio/fr_math
@@ -798,6 +798,7 @@
 - [ed-henrique/how-to-keychron-qmk](https://github.com/ed-henrique/how-to-keychron-qmk) – How to setup Q10 Max and K15 Pro as you please with QMK.
 - [egzumer/uvtools](https://github.com/egzumer/uvtools) – Web-based firmware patcher for various Quansheng radios
 - [elizastarr/Deep_Learning_Course](https://github.com/elizastarr/Deep_Learning_Course) – Machine Learning for Engineers course at TU/e (2IMM15)
+- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) – AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy on-prem or in the cloud.
 - [futurice/backend-best-practices](https://github.com/futurice/backend-best-practices) – An evolving description of general best practices for backend development.
 - [github/open-source-survey](https://github.com/github/open-source-survey) – The Open Source Survey
 - [gizmo-boss/esphome-lvgl-dashboard](https://github.com/gizmo-boss/esphome-lvgl-dashboard)
@@ -1671,7 +1672,7 @@
 - [vellum-dev/vellum-cli](https://github.com/vellum-dev/vellum-cli) – Wrapper and boostrap for Vellum reMarkable package manager.
 - [xberg-io/liter-llm](https://github.com/xberg-io/liter-llm) – Universal LLM API client — 163 providers, 14 native language bindings, powered by a Rust core
 - [xberg-io/tree-sitter-language-pack](https://github.com/xberg-io/tree-sitter-language-pack) – Comprehensive tree-sitter grammar compilation with polyglot bindings — Rust, Python, Node.js, Go, Java, Ruby, Elixir, PHP, C#, WASM, Dart, Kotlin-Android, Swift, Zig, and CLI. 371 languages.
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) – A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured data from 101 formats (115 file extensions) plus code intelligence for 371 code languages. 15 language bindings — Rust, Python, Ruby, Java, Go, PHP, Elixir, C#, TypeScript — plus CLI, REST API, and MCP server.
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) – Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fifteen bindings, with CLI, REST API, and MCP server.
 - [zdk/lowfat](https://github.com/zdk/lowfat) – lowfat - slim your command output. strips noise, saves tokens.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) – A terminal workspace with batteries included
 
@@ -1837,7 +1838,6 @@
 - [earendil-works/pi](https://github.com/earendil-works/pi) – AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [elizabethtrykin/oura-mcp](https://github.com/elizabethtrykin/oura-mcp) – An MCP server for oura
 - [elpapi42/pi-codemapper](https://github.com/elpapi42/pi-codemapper)
-- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) – AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy on-prem or in the cloud.
 - [evanklem/polypore](https://github.com/evanklem/polypore) – Modular IDE designed for agentic coding with extensive memory tools and integrated MCP
 - [feedox/husher](https://github.com/feedox/husher) – 🤫 husher - Encode text to be hidden from human eyes but visible to LLMs
 - [fkguo/zotero-inspire](https://github.com/fkguo/zotero-inspire) – Zotero plugin, integrating the INSPIRE-HEP database into Zotero
