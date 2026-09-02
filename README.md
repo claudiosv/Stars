@@ -1524,7 +1524,7 @@
 - [turtlesoupy/this-word-does-not-exist](https://github.com/turtlesoupy/this-word-does-not-exist) – This Word Does Not Exist
 - [tyxsspa/AnyText](https://github.com/tyxsspa/AnyText) – Official implementation code of the paper <AnyText: Multilingual Visual Text Generation And Editing>
 - [ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver) – Successor of Undetected-Chromedriver. Providing a blazing fast framework for web automation, webscraping, bots and any other creative ideas which are normally hindered by annoying anti bot systems like Captcha / CloudFlare / Imperva / hCaptcha 
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) – Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) – Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
 - [vaexio/vaex](https://github.com/vaexio/vaex) – Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
 - [valine/NeuralFlow](https://github.com/valine/NeuralFlow) – Visualize the intermediate output of Mistral 7B
 - [vanderschaarlab/LLAMBO](https://github.com/vanderschaarlab/LLAMBO) – Official Repository for LLAMBO "Large Language Models to Enhance Bayesian Optimization"
@@ -1586,7 +1586,7 @@
 - [BurntSushi/bttf](https://github.com/BurntSushi/bttf) – A command line tool for datetime arithmetic, parsing, formatting and more.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) – ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) – View disk space usage and delete unwanted data, fast.
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) – Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
+- [Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) – Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
 - [HyperAST/HyperAST](https://github.com/HyperAST/HyperAST) – Temporal code analyses at scale
 - [IvanWng97/pixtuoid](https://github.com/IvanWng97/pixtuoid) – Terminal pixel-art office for AI coding agents
 - [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) – Highly parallelized, blazing fast directory tree analyzer
@@ -1720,7 +1720,6 @@
 - [orbxball/make-Pulse-Secure-great-again](https://github.com/orbxball/make-Pulse-Secure-great-again) – Fix Pulse Secure annoying auto-start on macOS
 - [pforret/font](https://github.com/pforret/font) – Manage installed fonts from CLI (Linux/MacOS)
 - [premAI-io/benchmarks](https://github.com/premAI-io/benchmarks) – 🕹️ Performance Comparison of MLOps Engines, Frameworks, and Languages on Mainstream AI Models.
-- [rednafi/dotfiles](https://github.com/rednafi/dotfiles) – dotfiles
 - [rien/reStream](https://github.com/rien/reStream) – Stream your reMarkable screen over SSH.
 - [rmitchellscott/xovi-qmd-extensions](https://github.com/rmitchellscott/xovi-qmd-extensions) – My modifications, fixes, and QoL improvements for reMarkable tablets using xovi
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) – A Zsh theme
@@ -1860,6 +1859,7 @@
 - [openclaw/mcporter](https://github.com/openclaw/mcporter) – Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 - [pondorasti/emojis](https://github.com/pondorasti/emojis) – Turn your ideas into emojis in seconds. Generate your favorite Slack emojis with just one click.
 - [redleafnew/delitemwithatt](https://github.com/redleafnew/delitemwithatt) – Remove attachment(s) when delete the item(s) or collection in Zotero and JurisM.
+- [rednafi/dotfiles](https://github.com/rednafi/dotfiles) – dotfiles
 - [rejuvenate/lovelace-horizon-card](https://github.com/rejuvenate/lovelace-horizon-card) – Sun Card successor: Visualize the position of the Sun over the horizon.
 - [retorquere/zotero-auto-index](https://github.com/retorquere/zotero-auto-index)
 - [retorquere/zotero-date-from-last-modified](https://github.com/retorquere/zotero-date-from-last-modified)
