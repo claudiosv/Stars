@@ -796,7 +796,6 @@
 - [ed-henrique/how-to-keychron-qmk](https://github.com/ed-henrique/how-to-keychron-qmk) – How to setup Q10 Max and K15 Pro as you please with QMK.
 - [egzumer/uvtools](https://github.com/egzumer/uvtools) – Web-based firmware patcher for various Quansheng radios
 - [elizastarr/Deep_Learning_Course](https://github.com/elizastarr/Deep_Learning_Course) – Machine Learning for Engineers course at TU/e (2IMM15)
-- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) – AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy on-prem or in the cloud.
 - [futurice/backend-best-practices](https://github.com/futurice/backend-best-practices) – An evolving description of general best practices for backend development.
 - [github/open-source-survey](https://github.com/github/open-source-survey) – The Open Source Survey
 - [gizmo-boss/esphome-lvgl-dashboard](https://github.com/gizmo-boss/esphome-lvgl-dashboard)
@@ -1830,6 +1829,7 @@
 - [earendil-works/pi](https://github.com/earendil-works/pi) – AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [elizabethtrykin/oura-mcp](https://github.com/elizabethtrykin/oura-mcp) – An MCP server for oura
 - [elpapi42/pi-codemapper](https://github.com/elpapi42/pi-codemapper)
+- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) – AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy on-prem or in the cloud.
 - [evanklem/polypore](https://github.com/evanklem/polypore) – Modular IDE designed for agentic coding with extensive memory tools and integrated MCP
 - [feedox/husher](https://github.com/feedox/husher) – 🤫 husher - Encode text to be hidden from human eyes but visible to LLMs
 - [fkguo/zotero-inspire](https://github.com/fkguo/zotero-inspire) – Zotero plugin, integrating the INSPIRE-HEP database into Zotero
