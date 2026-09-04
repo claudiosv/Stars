@@ -1008,7 +1008,6 @@
 - [NougatCA/FineTuner](https://github.com/NougatCA/FineTuner)
 - [OK2MOP/MD1702-tools](https://github.com/OK2MOP/MD1702-tools) – Tools to work with firmware and SPI flash data of DM-1702 and DM-X radios
 - [OpenMined/PyDP](https://github.com/OpenMined/PyDP) – The Python Differential Privacy Library. Built on top of: https://github.com/google/differential-privacy
-- [Overbryd/dotfiles](https://github.com/Overbryd/dotfiles) – 0-100 macOS bootstrap and topical setup maintained with a simple Makefile
 - [PonyGE/PonyGE2](https://github.com/PonyGE/PonyGE2) – PonyGE2: grammatical evolution and variants in Python
 - [Preemo-Inc/text-generation-inference](https://github.com/Preemo-Inc/text-generation-inference)
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) – Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
@@ -1794,7 +1793,7 @@
 - [1weiho/open-slide](https://github.com/1weiho/open-slide) – A slide framework built for agents.
 - [AllanChain/zotero-arxiv-workflow](https://github.com/AllanChain/zotero-arxiv-workflow) – Helper for managing arXiv papers in Zotero
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) – Crawl a site to generate knowledge files to create your own custom GPT from a URL
-- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) – ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) – ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS, Android, Linux, Windows.
 - [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate) – A plugin that does one thing only: Detect and manage duplicate items in Zotero.
 - [CopilotKit/OpenTag](https://github.com/CopilotKit/OpenTag) – OpenTag: The Channels SDK starter application, a self-hosted AI on-call triage bot for Slack and Microsoft Teams, built with AG-UI and LangGraph. Fork it and ship your own.
 - [Dominic-DallOsto/zotero-reading-list](https://github.com/Dominic-DallOsto/zotero-reading-list) – Keep track of whether you've read items in Zotero
@@ -1806,6 +1805,7 @@
 - [MasuRii/pi-rtk-optimizer](https://github.com/MasuRii/pi-rtk-optimizer) – Pi extension that optimizes RTK command rewriting and tool output compaction for the coding agent.
 - [OldJii/mcp-dock](https://github.com/OldJii/mcp-dock) – MCP Server & Config Manager for 14 AI Clients — Cursor, VS Code, Claude Code, Gemini CLI, Windsurf, Zed, TRAE, Kiro, JetBrains & more. 8500+ servers, 4400+ skills.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) – 🙌 OpenHands: AI-Driven Development
+- [Overbryd/dotfiles](https://github.com/Overbryd/dotfiles) – 0-100 macOS bootstrap and topical setup maintained with a simple Makefile
 - [PubPeerFoundation/pubpeer_zotero_plugin](https://github.com/PubPeerFoundation/pubpeer_zotero_plugin) – Plugin to show if references in Zotero have PubPeer comments
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) – An open-source AI coding agent that lives in your terminal.
 - [Renumics/spotlight](https://github.com/Renumics/spotlight) – Interactively explore unstructured datasets from your dataframe.
@@ -1833,7 +1833,7 @@
 - [evanklem/polypore](https://github.com/evanklem/polypore) – Modular IDE designed for agentic coding with extensive memory tools and integrated MCP
 - [feedox/husher](https://github.com/feedox/husher) – 🤫 husher - Encode text to be hidden from human eyes but visible to LLMs
 - [fkguo/zotero-inspire](https://github.com/fkguo/zotero-inspire) – Zotero plugin, integrating the INSPIRE-HEP database into Zotero
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) – Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) – Orchestrate multiple coding agents from desktop and mobile
 - [github-young/zotero-better-authors](https://github.com/github-young/zotero-better-authors) – Customize the displayed authors list
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) – An open-source AI agent that brings the power of Gemini directly into your terminal.
