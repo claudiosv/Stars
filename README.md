@@ -251,7 +251,6 @@
 - [dejwk/roo_display](https://github.com/dejwk/roo_display) – Arduino-compliant library, targeted at ESP32 and related boards, for driving display devices and touch panels, e.g. ILI9486, ILI9341, or ST7789. Powerful and fast.
 - [doctest/doctest](https://github.com/doctest/doctest) – The fastest feature-rich C++11/14/17/20/23 single-header testing framework
 - [dok-net/ghostl](https://github.com/dok-net/ghostl)
-- [dphnAI/sonar](https://github.com/dphnAI/sonar) – Large-scale LLM inference engine
 - [ebicochineal/E512W3D](https://github.com/ebicochineal/E512W3D) – 3d-software-renderering m5stickc/m5stack/console-app/windows-app/ncurses/emscripten/android/raspberry-pi-pico/raspberry-pi-pico2
 - [enkei0x/espai](https://github.com/enkei0x/espai) – Unified AI API library for ESP32/Arduino - OpenAI, Anthropic Claude, Google Gemini, Ollama with streaming, tool calling, async and conversation memory 
 - [espressif/esp-tflite-micro](https://github.com/espressif/esp-tflite-micro) – TensorFlow Lite Micro for Espressif Chipsets
@@ -1193,6 +1192,7 @@
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) – macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) – Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) – Structured Outputs
+- [dphnAI/sonar](https://github.com/dphnAI/sonar) – Large-scale LLM inference engine
 - [dronekit/dronekit-python](https://github.com/dronekit/dronekit-python) – DroneKit-Python library for communicating with Drones via MAVLink.
 - [dropbox/pyannotate](https://github.com/dropbox/pyannotate) – Auto-generate PEP-484 annotations
 - [elanmart/cbp-translate](https://github.com/elanmart/cbp-translate)
@@ -1639,7 +1639,7 @@
 - [ml-rust/splintr](https://github.com/ml-rust/splintr) – A high-performance tokenizer (BPE, WordPiece, SentencePiece) built with Rust with Python bindings, focused on speed, safety, and resource optimization.
 - [nachoparker/dutree](https://github.com/nachoparker/dutree) – a tool to analyze file system usage written in Rust
 - [openai/codex](https://github.com/openai/codex) – Lightweight coding agent that runs in your terminal
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) – A coding agent for open models like Kimi K3
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) – A coding agent for open models like Kimi K3 and GLM 5.3
 - [p1rallels/codemapper](https://github.com/p1rallels/codemapper) – code intelligence on your CLI for AI agents. tell your agent to run `cm --help` and let it rip
 - [patonw/leaves](https://github.com/patonw/leaves) – A text-mode disk usage visualization utility
 - [pau-mensa/xtr-warp-rs](https://github.com/pau-mensa/xtr-warp-rs) – High performance implementation of the WARP (SIGIR'25) retrieval engine.
