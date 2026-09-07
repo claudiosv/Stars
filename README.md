@@ -553,6 +553,7 @@
 - [jasonmayes/Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal) – Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
 - [jpeggdev/humanize-writing](https://github.com/jpeggdev/humanize-writing) – Claude Code skill that rewrites AI-generated content to sound human
 - [juggler-ai/juggler](https://github.com/juggler-ai/juggler) – The Juggler Code Agent
+- [juju306/zotero-pdf-background](https://github.com/juju306/zotero-pdf-background) – a zotero plugin of changing pdf background color to care your eyes
 - [justinribeiro/zotero-google-scholar-citation-count](https://github.com/justinribeiro/zotero-google-scholar-citation-count) – Zotero plugin for fetching number of citations from Google Scholar.
 - [kalkih/mini-graph-card](https://github.com/kalkih/mini-graph-card) – Minimalistic graph card for Home Assistant Lovelace UI
 - [kalkih/simple-weather-card](https://github.com/kalkih/simple-weather-card) – Minimalistic weather card for Home Assistant
@@ -580,7 +581,6 @@
 - [plandes/zotsite](https://github.com/plandes/zotsite) – Export Zotero to a stand-alone web site
 - [plopjs/plop](https://github.com/plopjs/plop) – Consistency Made Simple
 - [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) – Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
-- [q77190858/zotero-pdf-background](https://github.com/q77190858/zotero-pdf-background) – a zotero plugin of changing pdf background color to care your eyes
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) – Resumes generated using the GitHub informations
 - [sinedied/backslide](https://github.com/sinedied/backslide) – :sweat_drops: CLI tool for making HTML presentations with Remark.js using Markdown
 - [sohzm/cheating-daddy](https://github.com/sohzm/cheating-daddy) – a free and opensource app that lets you gain an unfair advantage
@@ -1007,6 +1007,7 @@
 - [NougatCA/FineTuner](https://github.com/NougatCA/FineTuner)
 - [OK2MOP/MD1702-tools](https://github.com/OK2MOP/MD1702-tools) – Tools to work with firmware and SPI flash data of DM-1702 and DM-X radios
 - [OpenMined/PyDP](https://github.com/OpenMined/PyDP) – The Python Differential Privacy Library. Built on top of: https://github.com/google/differential-privacy
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) – Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.
 - [PonyGE/PonyGE2](https://github.com/PonyGE/PonyGE2) – PonyGE2: grammatical evolution and variants in Python
 - [Preemo-Inc/text-generation-inference](https://github.com/Preemo-Inc/text-generation-inference)
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) – Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
@@ -1673,7 +1674,6 @@
 
 - [DrCatHicks/learning-opportunities](https://github.com/DrCatHicks/learning-opportunities) – A Claude or Codex skill for deliberate skill development during AI-assisted coding
 - [MarioCatuogno/Clean-macOS](https://github.com/MarioCatuogno/Clean-macOS) – 💻 A script to set up a clean macOS environment.
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) – Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.
 - [Penguin-Guru/remarkable-api](https://github.com/Penguin-Guru/remarkable-api) – A simple Bash script to interact with Remarkable devices' local A.P.I. via C.L.I.
 - [Peter-Lavigne/fizzbuzz-without-human-review](https://github.com/Peter-Lavigne/fizzbuzz-without-human-review)
 - [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) – Bonsai Demo
