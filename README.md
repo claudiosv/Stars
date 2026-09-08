@@ -1018,7 +1018,7 @@
 - [QiuYannnn/Local-File-Organizer](https://github.com/QiuYannnn/Local-File-Organizer) – An AI-powered file management tool that ensures privacy by organizing local texts, images. Using Llama3.2 3B and Llava v1.6 models with the Nexa SDK, it intuitively scans, restructures, and organizes files for quick, seamless access and easy retrieval.
 - [RightNow-AI/autokernel](https://github.com/RightNow-AI/autokernel) – Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.
 - [RightTyper/RightTyper](https://github.com/RightTyper/RightTyper) – A fast and efficient type assistant for Python, including tensor shape inference
-- [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) – A feed-forward 3D foundation model for reconstructing scenes from streaming data
+- [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) – (ECCV 2026 oral) LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
 - [RobertHuben/word-embeddings](https://github.com/RobertHuben/word-embeddings) – Testing properties of GPT-J word embeddings in order to solve the SolidGoldMagikarp mystery
 - [Rockhopper-Technologies/enlighten](https://github.com/Rockhopper-Technologies/enlighten) – Enlighten Progress Bar for Python Console Apps
 - [RussBaz/enforce](https://github.com/RussBaz/enforce) – Python 3.5+ runtime type checking for integration testing and data validation
