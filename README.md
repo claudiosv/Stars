@@ -426,6 +426,7 @@
 - [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) – 📂 Web File Browser
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) – The lazier way to manage everything docker
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) – simple terminal UI for git commands
+- [johnkerl/miller](https://github.com/johnkerl/miller) – Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [juanfont/headscale](https://github.com/juanfont/headscale) – An open source, self-hosted implementation of the Tailscale control server
 - [juev/starred](https://github.com/juev/starred) – Create your own Awesome List by GitHub stars!
 - [junegunn/fzf](https://github.com/junegunn/fzf) – :cherry_blossom: A command-line fuzzy finder
@@ -810,7 +811,6 @@
 - [isa/vim-matchit](https://github.com/isa/vim-matchit) – clone of the matchit plugin
 - [janhq/awesome-local-ai](https://github.com/janhq/awesome-local-ai) – An awesome repository of local AI tools
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) – Master the command line, in one page
-- [johnkerl/miller](https://github.com/johnkerl/miller) – Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [jondot/awesome-devenv](https://github.com/jondot/awesome-devenv) – A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 - [jtenniswood/esphome-lvgl](https://github.com/jtenniswood/esphome-lvgl) – Esphome touch screen setup
 - [jxzhangjhu/Awesome-LLM-Uncertainty-Reliability-Robustness](https://github.com/jxzhangjhu/Awesome-LLM-Uncertainty-Reliability-Robustness) – Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models
