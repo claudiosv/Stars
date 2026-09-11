@@ -142,6 +142,7 @@
 - [raysan5/raylib](https://github.com/raysan5/raylib) – A simple and easy-to-use library to enjoy videogames programming
 - [romalik/m5cardputer_doom](https://github.com/romalik/m5cardputer_doom)
 - [sahib/rmlint](https://github.com/sahib/rmlint) – Extremely fast tool to remove duplicates and other lint from your filesystem
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) – Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [siara-cc/esp32_arduino_sqlite3_lib](https://github.com/siara-cc/esp32_arduino_sqlite3_lib) – Sqlite3 Arduino library for ESP32
 - [squirmen/PaperS3Weather](https://github.com/squirmen/PaperS3Weather) – M5Paper S3 weather dashboard with Open-Meteo API - no key required
 - [strange-v/ha_deck](https://github.com/strange-v/ha_deck) – Config-driven Home Assistant dashboard (built on top of ESPHome)
@@ -736,7 +737,6 @@
 ## OCaml
 
 - [facebook/pyre-check](https://github.com/facebook/pyre-check) – Performant type-checking for python.
-- [semgrep/semgrep](https://github.com/semgrep/semgrep) – Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 
 <div id="objective-c++"></div>
 
@@ -1008,6 +1008,7 @@
 - [OK2MOP/MD1702-tools](https://github.com/OK2MOP/MD1702-tools) – Tools to work with firmware and SPI flash data of DM-1702 and DM-X radios
 - [OpenMined/PyDP](https://github.com/OpenMined/PyDP) – The Python Differential Privacy Library. Built on top of: https://github.com/google/differential-privacy
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) – Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.
+- [Overbryd/dotfiles](https://github.com/Overbryd/dotfiles) – 0-100 macOS bootstrap and topical setup maintained with a simple Makefile
 - [PonyGE/PonyGE2](https://github.com/PonyGE/PonyGE2) – PonyGE2: grammatical evolution and variants in Python
 - [Preemo-Inc/text-generation-inference](https://github.com/Preemo-Inc/text-generation-inference)
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) – Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
@@ -1461,7 +1462,7 @@
 - [rospogrigio/localtuya](https://github.com/rospogrigio/localtuya) – local handling for Tuya devices
 - [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) – An open access book on scientific visualization using python and matplotlib
 - [rschroll/rmrl](https://github.com/rschroll/rmrl) – Render reMarkable documents to PDF
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) – LlamaIndex is the leading document agent and OCR platform
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) – LlamaIndex is the document processing platform for AI
 - [s0md3v/roop](https://github.com/s0md3v/roop) – roop extension for StableDiffusion web-ui
 - [sahil280114/codealpaca](https://github.com/sahil280114/codealpaca)
 - [salesforce/CodeTF](https://github.com/salesforce/CodeTF) – CodeTF: One-stop Transformer Library for State-of-the-art Code LLM
@@ -1805,7 +1806,6 @@
 - [MasuRii/pi-rtk-optimizer](https://github.com/MasuRii/pi-rtk-optimizer) – Pi extension that optimizes RTK command rewriting and tool output compaction for the coding agent.
 - [OldJii/mcp-dock](https://github.com/OldJii/mcp-dock) – MCP Server & Config Manager for 14 AI Clients — Cursor, VS Code, Claude Code, Gemini CLI, Windsurf, Zed, TRAE, Kiro, JetBrains & more. 8500+ servers, 4400+ skills.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) – 🙌 OpenHands: AI-Driven Development
-- [Overbryd/dotfiles](https://github.com/Overbryd/dotfiles) – 0-100 macOS bootstrap and topical setup maintained with a simple Makefile
 - [PubPeerFoundation/pubpeer_zotero_plugin](https://github.com/PubPeerFoundation/pubpeer_zotero_plugin) – Plugin to show if references in Zotero have PubPeer comments
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) – An open-source AI coding agent that lives in your terminal.
 - [Renumics/spotlight](https://github.com/Renumics/spotlight) – Interactively explore unstructured datasets from your dataframe.
