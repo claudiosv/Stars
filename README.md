@@ -1091,9 +1091,9 @@
 - [andstor/language-modeling](https://github.com/andstor/language-modeling) – :brain: Large-scale transformer-based language modelling using 🤗 HuggingFace.
 - [andyk/recursive_llm](https://github.com/andyk/recursive_llm) – Implement recursion using English as the programming language and an LLM as the runtime.
 - [angolo40/GLiNet_HomeAssistant](https://github.com/angolo40/GLiNet_HomeAssistant) – GLiNet Router HomeAssistant integration
-- [apple/ml-ane-transformers](https://github.com/apple/ml-ane-transformers) – Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE)
-- [apple/ml-ferret](https://github.com/apple/ml-ferret)
-- [apple/ml-recurrent-drafter](https://github.com/apple/ml-recurrent-drafter)
+- [apple-aiml-research/ml-ane-transformers](https://github.com/apple-aiml-research/ml-ane-transformers) – Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE)
+- [apple-aiml-research/ml-ferret](https://github.com/apple-aiml-research/ml-ferret)
+- [apple-aiml-research/ml-recurrent-drafter](https://github.com/apple-aiml-research/ml-recurrent-drafter)
 - [approximatelabs/sketch](https://github.com/approximatelabs/sketch) – AI code-writing assistant that understands data content
 - [arcee-ai/mergekit](https://github.com/arcee-ai/mergekit) – Tools for merging pretrained large language models.
 - [archiki/GrIPS](https://github.com/archiki/GrIPS) – Code for our paper: "GrIPS: Gradient-free, Edit-based Instruction Search for Prompting Large Language Models"
