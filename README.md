@@ -555,7 +555,6 @@
 - [jasonmayes/Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal) – Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
 - [jpeggdev/humanize-writing](https://github.com/jpeggdev/humanize-writing) – Claude Code skill that rewrites AI-generated content to sound human
 - [juggler-ai/juggler](https://github.com/juggler-ai/juggler) – The Juggler Code Agent
-- [juju306/zotero-pdf-background](https://github.com/juju306/zotero-pdf-background) – a zotero plugin of changing pdf background color to care your eyes
 - [justinribeiro/zotero-google-scholar-citation-count](https://github.com/justinribeiro/zotero-google-scholar-citation-count) – Zotero plugin for fetching number of citations from Google Scholar.
 - [kalkih/mini-graph-card](https://github.com/kalkih/mini-graph-card) – Minimalistic graph card for Home Assistant Lovelace UI
 - [kalkih/simple-weather-card](https://github.com/kalkih/simple-weather-card) – Minimalistic weather card for Home Assistant
@@ -595,6 +594,7 @@
 - [tree-sitter/tree-sitter-python](https://github.com/tree-sitter/tree-sitter-python) – Python grammar for tree-sitter
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) – 🎨 A curated list of delightful VS Code packages and resources.
 - [vvo/gifify](https://github.com/vvo/gifify) – 😻 Convert any video file to an optimized animated GIF.
+- [wangqian306/zotero-pdf-background](https://github.com/wangqian306/zotero-pdf-background) – a zotero plugin of changing pdf background color to care your eyes
 - [wileyyugioh/zotmoov](https://github.com/wileyyugioh/zotmoov) – Zotero plugin to automatically move attachments and link them
 - [wshanks/Zutilo](https://github.com/wshanks/Zutilo) – Zotero plugin providing some additional editing features
 - [wshanks/lyz](https://github.com/wshanks/lyz) – LyZ is a plugin for Zotero, which is intended to make working with LyX/Zotero more pleasant.
@@ -909,7 +909,7 @@
 - [ConsistentlyInconsistentYT/Pixeltovoxelprojector](https://github.com/ConsistentlyInconsistentYT/Pixeltovoxelprojector) – Projects motion of pixels to a voxel
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) – Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [Coyote-A/ultimate-upscale-for-automatic1111](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111)
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) – 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) – 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ
 - [DFRobot/DFRobot_GP8XXX](https://github.com/DFRobot/DFRobot_GP8XXX)
 - [Danau5tin/ai-trains-ai](https://github.com/Danau5tin/ai-trains-ai) – RL-training an AI agent to RL-train AI agents.
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) – Fast and memory-efficient exact attention
@@ -1007,7 +1007,6 @@
 - [NougatCA/FineTuner](https://github.com/NougatCA/FineTuner)
 - [OK2MOP/MD1702-tools](https://github.com/OK2MOP/MD1702-tools) – Tools to work with firmware and SPI flash data of DM-1702 and DM-X radios
 - [OpenMined/PyDP](https://github.com/OpenMined/PyDP) – The Python Differential Privacy Library. Built on top of: https://github.com/google/differential-privacy
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) – Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.
 - [Overbryd/dotfiles](https://github.com/Overbryd/dotfiles) – 0-100 macOS bootstrap and topical setup maintained with a simple Makefile
 - [PonyGE/PonyGE2](https://github.com/PonyGE/PonyGE2) – PonyGE2: grammatical evolution and variants in Python
 - [Preemo-Inc/text-generation-inference](https://github.com/Preemo-Inc/text-generation-inference)
@@ -1675,6 +1674,7 @@
 
 - [DrCatHicks/learning-opportunities](https://github.com/DrCatHicks/learning-opportunities) – A Claude or Codex skill for deliberate skill development during AI-assisted coding
 - [MarioCatuogno/Clean-macOS](https://github.com/MarioCatuogno/Clean-macOS) – 💻 A script to set up a clean macOS environment.
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) – Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.
 - [Penguin-Guru/remarkable-api](https://github.com/Penguin-Guru/remarkable-api) – A simple Bash script to interact with Remarkable devices' local A.P.I. via C.L.I.
 - [Peter-Lavigne/fizzbuzz-without-human-review](https://github.com/Peter-Lavigne/fizzbuzz-without-human-review)
 - [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) – Bonsai Demo
