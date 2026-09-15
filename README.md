@@ -594,7 +594,7 @@
 - [tree-sitter/tree-sitter-python](https://github.com/tree-sitter/tree-sitter-python) – Python grammar for tree-sitter
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) – 🎨 A curated list of delightful VS Code packages and resources.
 - [vvo/gifify](https://github.com/vvo/gifify) – 😻 Convert any video file to an optimized animated GIF.
-- [wangqian306/zotero-pdf-background](https://github.com/wangqian306/zotero-pdf-background) – a zotero plugin of changing pdf background color to care your eyes
+- [wangqian06/zotero-pdf-background](https://github.com/wangqian06/zotero-pdf-background) – a zotero plugin of changing pdf background color to care your eyes
 - [wileyyugioh/zotmoov](https://github.com/wileyyugioh/zotmoov) – Zotero plugin to automatically move attachments and link them
 - [wshanks/Zutilo](https://github.com/wshanks/Zutilo) – Zotero plugin providing some additional editing features
 - [wshanks/lyz](https://github.com/wshanks/lyz) – LyZ is a plugin for Zotero, which is intended to make working with LyX/Zotero more pleasant.
