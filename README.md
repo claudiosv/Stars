@@ -1018,7 +1018,7 @@
 - [QiuYannnn/Local-File-Organizer](https://github.com/QiuYannnn/Local-File-Organizer) – An AI-powered file management tool that ensures privacy by organizing local texts, images. Using Llama3.2 3B and Llava v1.6 models with the Nexa SDK, it intuitively scans, restructures, and organizes files for quick, seamless access and easy retrieval.
 - [RightNow-AI/autokernel](https://github.com/RightNow-AI/autokernel) – Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.
 - [RightTyper/RightTyper](https://github.com/RightTyper/RightTyper) – A fast and efficient type assistant for Python, including tensor shape inference
-- [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) – (ECCV 2026 oral) LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
+- [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) – (ECCV 2026 oral & best paper candidate) LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
 - [RobertHuben/word-embeddings](https://github.com/RobertHuben/word-embeddings) – Testing properties of GPT-J word embeddings in order to solve the SolidGoldMagikarp mystery
 - [Rockhopper-Technologies/enlighten](https://github.com/Rockhopper-Technologies/enlighten) – Enlighten Progress Bar for Python Console Apps
 - [RussBaz/enforce](https://github.com/RussBaz/enforce) – Python 3.5+ runtime type checking for integration testing and data validation
@@ -1767,7 +1767,7 @@
 - [lukasz-zet/bose-macos-utility](https://github.com/lukasz-zet/bose-macos-utility) – A simple macOS utility that can be used to control the behaviour of Bose QC35 Headphones straight from the menu bar.
 - [mas-cli/mas](https://github.com/mas-cli/mas) – :package: Mac App Store command-line interface
 - [openclaw/imsg](https://github.com/openclaw/imsg) – CLI for Apple's Messages.app so your agent can send and receive text messages/iMessages.
-- [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) – Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.
+- [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) – Free, open-source Sidecar/Duet alternative — use your iPhone, iPad or Mac as a true second monitor for your primary Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.
 - [psugihara/FreeChat](https://github.com/psugihara/FreeChat) – llama.cpp based AI chat app for macOS
 - [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar) – A macOS menu bar application that monitors AI coding assistant usage quotas. Keep track of your Claude, Codex, Antigravity ,and Gemini usage at a glance.
 - [tornikegomareli/Aurora](https://github.com/tornikegomareli/Aurora) – Most accurate, simple and customisable Apple Intelligence–style glow for SwiftUI, backed by Metal shaders.
