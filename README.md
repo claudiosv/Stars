@@ -1110,7 +1110,7 @@
 - [awslabs/gluonts](https://github.com/awslabs/gluonts) – Probabilistic time series modeling in Python
 - [awslabs/mlm-scoring](https://github.com/awslabs/mlm-scoring) – Python library & examples for Masked Language Model Scoring (ACL 2020)
 - [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) – Go ahead and axolotl questions
-- [aymenfurter/microagents](https://github.com/aymenfurter/microagents) – Agents Capable of Self-Editing Their Prompts / Python Code
+- [aymenfurter/microagents](https://github.com/aymenfurter/microagents) – Self-improving Agents
 - [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py) – Ultralight Time Machine-style backups using rsync
 - [bayesgroup/code_transformers](https://github.com/bayesgroup/code_transformers) – Empirical Study of Transformers for Source Code & A Simple Approach for Handling Out-of-Vocabulary Identifiers in Deep Learning for Source Code
 - [bayesian-optimization/BayesianOptimization](https://github.com/bayesian-optimization/BayesianOptimization) – A Python implementation of global optimization with gaussian processes.
