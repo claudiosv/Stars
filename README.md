@@ -1137,7 +1137,7 @@
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) – Pythonic AI generation of images and videos
 - [bsdz/remarkable-layers](https://github.com/bsdz/remarkable-layers) – Python module for reading and writing Remarkable Lines files
 - [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) – Pioneering Automated GUI Interaction with Native Agents
-- [cactus-compute/needle](https://github.com/cactus-compute/needle) – 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
+- [cactus-compute/needle](https://github.com/cactus-compute/needle) – Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.
 - [catalyst-team/catalyst](https://github.com/catalyst-team/catalyst) – Accelerated deep learning R&D
 - [cedricrupb/code_tokenize](https://github.com/cedricrupb/code_tokenize) – Fast tokenization and structural analysis of any programming language
 - [cemrehancavdar/faster-python-bench](https://github.com/cemrehancavdar/faster-python-bench)
