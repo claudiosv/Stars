@@ -1618,7 +1618,7 @@
 - [danshick/relineate](https://github.com/danshick/relineate) – An SVG renderer for reMarkable .rm v5 files
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) – The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [dsully/macos-defaults](https://github.com/dsully/macos-defaults) – A tool for managing macOS defaults declaratively via YAML files.
-- [esp-rs/esp-idf-hal](https://github.com/esp-rs/esp-idf-hal) – embedded-hal implementation for Rust on ESP32 and ESP-IDF
+- [esp-rs/esp-idf](https://github.com/esp-rs/esp-idf) – embedded-hal implementation for Rust on ESP32 and ESP-IDF
 - [esp-rs/esp-idf-sys](https://github.com/esp-rs/esp-idf-sys) – Bindings for ESP-IDF (Espressif's IoT Development Framework)
 - [esp-rs/rust](https://github.com/esp-rs/rust) – Rust for the xtensa architecture. Built in targets for the ESP32 and ESP8266
 - [feyninc/tokie](https://github.com/feyninc/tokie) – 🍡 30x faster tokenization for every HuggingFace model
