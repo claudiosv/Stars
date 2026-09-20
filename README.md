@@ -1401,7 +1401,7 @@
 - [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) – The All in One Framework to Build Undefeatable Scrapers
 - [oobabooga/textgen](https://github.com/oobabooga/textgen) – Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API. 100% private.
 - [opal06/zotero2remarkable_bridge](https://github.com/opal06/zotero2remarkable_bridge)
-- [open-compass/opencompass](https://github.com/open-compass/opencompass) – OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.
+- [open-compass/opencompass](https://github.com/open-compass/opencompass) – OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, DeepSeek, etc, across 200+ datasets covering knowledge, reasoning, coding, science, language, long-context, and safety.
 - [open-lm-engine/lm-engine](https://github.com/open-lm-engine/lm-engine) – LM engine is a library for pretraining/finetuning LLMs
 - [open-mmlab/mmengine](https://github.com/open-mmlab/mmengine) – OpenMMLab Foundational Library for Training Deep Learning Models
 - [open-webui/pipelines](https://github.com/open-webui/pipelines) – Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework 
