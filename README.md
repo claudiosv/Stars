@@ -1401,7 +1401,7 @@
 - [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) – The All in One Framework to Build Undefeatable Scrapers
 - [oobabooga/textgen](https://github.com/oobabooga/textgen) – Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API. 100% private.
 - [opal06/zotero2remarkable_bridge](https://github.com/opal06/zotero2remarkable_bridge)
-- [open-compass/opencompass](https://github.com/open-compass/opencompass) – OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, DeepSeek, etc, across 200+ datasets covering knowledge, reasoning, coding, science, language, long-context, and safety.
+- [open-compass/opencompass](https://github.com/open-compass/opencompass) – OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, DeepSeek, etc, across 100+ datasets covering knowledge, reasoning, coding, science, language, long-context, and safety.
 - [open-lm-engine/lm-engine](https://github.com/open-lm-engine/lm-engine) – LM engine is a library for pretraining/finetuning LLMs
 - [open-mmlab/mmengine](https://github.com/open-mmlab/mmengine) – OpenMMLab Foundational Library for Training Deep Learning Models
 - [open-webui/pipelines](https://github.com/open-webui/pipelines) – Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework 
@@ -1627,6 +1627,7 @@
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) – The headless browser for AI agents and web scraping
 - [hiteshjoshi/remarkable_rust](https://github.com/hiteshjoshi/remarkable_rust) – A CLI for Agents to help ship documents to your remarkable.
 - [iagooar/qqqa](https://github.com/iagooar/qqqa) – Fast, stateless LLM for your shell: qq answers; qa runs commands
+- [janhq/jan](https://github.com/janhq/jan) – Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [jdx/mise](https://github.com/jdx/mise) – dev tools, env vars, task runner
 - [karpathy/rustbpe](https://github.com/karpathy/rustbpe) – The missing tiktoken training code
 - [kaushiksrini/parqeye](https://github.com/kaushiksrini/parqeye) – Peek inside Parquet files right from your terminal
@@ -1719,6 +1720,7 @@
 - [orbxball/make-Pulse-Secure-great-again](https://github.com/orbxball/make-Pulse-Secure-great-again) – Fix Pulse Secure annoying auto-start on macOS
 - [pforret/font](https://github.com/pforret/font) – Manage installed fonts from CLI (Linux/MacOS)
 - [premAI-io/benchmarks](https://github.com/premAI-io/benchmarks) – 🕹️ Performance Comparison of MLOps Engines, Frameworks, and Languages on Mainstream AI Models.
+- [rednafi/dotfiles](https://github.com/rednafi/dotfiles) – dotfiles
 - [rien/reStream](https://github.com/rien/reStream) – Stream your reMarkable screen over SSH.
 - [rmitchellscott/xovi-qmd-extensions](https://github.com/rmitchellscott/xovi-qmd-extensions) – My modifications, fixes, and QoL improvements for reMarkable tablets using xovi
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) – A Zsh theme
@@ -1840,7 +1842,6 @@
 - [hafaio/repub](https://github.com/hafaio/repub) – reMarkable ePub generator
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) – Your definitive source for dashboard icons.
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) – The open-source AI voice studio. Clone, dictate, create.
-- [janhq/jan](https://github.com/janhq/jan) – Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [jupyter/nbdime](https://github.com/jupyter/nbdime) – Tools for diffing and merging of Jupyter notebooks.
 - [kalkih/mini-media-player](https://github.com/kalkih/mini-media-player) – Minimalistic media card for Home Assistant Lovelace UI
 - [labmlai/inspectus](https://github.com/labmlai/inspectus) – LLM Analytics
@@ -1859,7 +1860,6 @@
 - [openclaw/mcporter](https://github.com/openclaw/mcporter) – Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 - [pondorasti/emojis](https://github.com/pondorasti/emojis) – Turn your ideas into emojis in seconds. Generate your favorite Slack emojis with just one click.
 - [redleafnew/delitemwithatt](https://github.com/redleafnew/delitemwithatt) – Remove attachment(s) when delete the item(s) or collection in Zotero and JurisM.
-- [rednafi/dotfiles](https://github.com/rednafi/dotfiles) – dotfiles
 - [rejuvenate/lovelace-horizon-card](https://github.com/rejuvenate/lovelace-horizon-card) – Sun Card successor: Visualize the position of the Sun over the horizon.
 - [retorquere/zotero-auto-index](https://github.com/retorquere/zotero-auto-index)
 - [retorquere/zotero-date-from-last-modified](https://github.com/retorquere/zotero-date-from-last-modified)
