@@ -223,6 +223,7 @@
 - [RikerZhu/PaperColor-Assistant](https://github.com/RikerZhu/PaperColor-Assistant)
 - [RobTillaart/fast_math](https://github.com/RobTillaart/fast_math) – Arduino library for fast math algorithms
 - [RobTillaart/float16](https://github.com/RobTillaart/float16) – Arduino library to implement float16 data type
+- [RyanEwen/esphome-lvgl](https://github.com/RyanEwen/esphome-lvgl)
 - [SmingHub/Sming](https://github.com/SmingHub/Sming) – Sming - powerful  open source framework simplifying the creation of embedded C++ applications.
 - [Teapot174/AirMouseS3](https://github.com/Teapot174/AirMouseS3) – M5StickS3 Firmware
 - [Tiiny-AI/PowerInfer](https://github.com/Tiiny-AI/PowerInfer) – High-speed Large Language Model Serving for Local Deployment
@@ -767,7 +768,6 @@
 - [MatrixBrain/awesome-NeRF](https://github.com/MatrixBrain/awesome-NeRF) – A curated list of awesome neural radiance fields (NeRF) papers.
 - [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) – Build and run Docker containers leveraging NVIDIA GPUs
 - [PennMUSA/MasterClass2019_3DMappingAndViz](https://github.com/PennMUSA/MasterClass2019_3DMappingAndViz)
-- [RyanEwen/esphome-lvgl](https://github.com/RyanEwen/esphome-lvgl)
 - [VahaC/ESP32-4848S040-EspHome-LVGL](https://github.com/VahaC/ESP32-4848S040-EspHome-LVGL)
 - [XPY-US/Commercial-FirmEsp32](https://github.com/XPY-US/Commercial-FirmEsp32)
 - [Zeloksa/Cardputer-ADV-WiFi-BLE-Radar](https://github.com/Zeloksa/Cardputer-ADV-WiFi-BLE-Radar) – Advanced Wi-Fi & BLE Radar V3.1 for M5Stack Cardputer ADV. Features: Spectrum Analyzer, Smart Channel Advisor, Dual-band TDM, Anti-tracking bypass, and Retro CRT UI. (Pre-compiled .bin only)
