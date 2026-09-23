@@ -223,7 +223,6 @@
 - [RikerZhu/PaperColor-Assistant](https://github.com/RikerZhu/PaperColor-Assistant)
 - [RobTillaart/fast_math](https://github.com/RobTillaart/fast_math) – Arduino library for fast math algorithms
 - [RobTillaart/float16](https://github.com/RobTillaart/float16) – Arduino library to implement float16 data type
-- [RyanEwen/esphome-lvgl](https://github.com/RyanEwen/esphome-lvgl)
 - [SmingHub/Sming](https://github.com/SmingHub/Sming) – Sming - powerful  open source framework simplifying the creation of embedded C++ applications.
 - [Teapot174/AirMouseS3](https://github.com/Teapot174/AirMouseS3) – M5StickS3 Firmware
 - [Tiiny-AI/PowerInfer](https://github.com/Tiiny-AI/PowerInfer) – High-speed Large Language Model Serving for Local Deployment
@@ -909,7 +908,7 @@
 - [ConsistentlyInconsistentYT/Pixeltovoxelprojector](https://github.com/ConsistentlyInconsistentYT/Pixeltovoxelprojector) – Projects motion of pixels to a voxel
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) – Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [Coyote-A/ultimate-upscale-for-automatic1111](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111)
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) – 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) – 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev
 - [DFRobot/DFRobot_GP8XXX](https://github.com/DFRobot/DFRobot_GP8XXX)
 - [Danau5tin/ai-trains-ai](https://github.com/Danau5tin/ai-trains-ai) – RL-training an AI agent to RL-train AI agents.
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) – Fast and memory-efficient exact attention
@@ -1022,6 +1021,7 @@
 - [RobertHuben/word-embeddings](https://github.com/RobertHuben/word-embeddings) – Testing properties of GPT-J word embeddings in order to solve the SolidGoldMagikarp mystery
 - [Rockhopper-Technologies/enlighten](https://github.com/Rockhopper-Technologies/enlighten) – Enlighten Progress Bar for Python Console Apps
 - [RussBaz/enforce](https://github.com/RussBaz/enforce) – Python 3.5+ runtime type checking for integration testing and data validation
+- [RyanEwen/esphome-lvgl](https://github.com/RyanEwen/esphome-lvgl)
 - [SMAT-Lab/Scalpel](https://github.com/SMAT-Lab/Scalpel) – Scalpel: The Python Static Analysis Framework
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) – Faster Whisper transcription with CTranslate2
 - [Salvoxia/immich-folder-album-creator](https://github.com/Salvoxia/immich-folder-album-creator) – Automatically create and populate albums in Immich from a folder structure in external libraries
@@ -1369,7 +1369,7 @@
 - [mlecauchois/micrograd-cuda](https://github.com/mlecauchois/micrograd-cuda)
 - [mmohades/Venmo](https://github.com/mmohades/Venmo) – Venmo API client for Python
 - [modal-labs/quillman](https://github.com/modal-labs/quillman) – A voice chat app 
-- [modelscope/ms-swift](https://github.com/modelscope/ms-swift) – Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.6, DeepSeek-V4, GLM-5.1, InternLM3, Llama4, ...) and 300+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, GLM4.5v, Gemma4, Llava, Phi4, ...) (AAAI 2025).
+- [modelscope/ms-swift](https://github.com/modelscope/ms-swift) – Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.8, DeepSeek-V4, GLM-5.1, InternLM3, Llama4, ...) and 300+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, GLM5.3, Gemma4, Llava, Phi4, ...) (AAAI 2025).
 - [mosaicml/composer](https://github.com/mosaicml/composer) – Supercharge Your Model Training
 - [mosaicml/llm-foundry](https://github.com/mosaicml/llm-foundry) – LLM training code for Databricks foundation models
 - [msclar/formatspread](https://github.com/msclar/formatspread) – Code accompanying "How I learned to start worrying about prompt formatting".
@@ -1769,7 +1769,7 @@
 - [lukasz-zet/bose-macos-utility](https://github.com/lukasz-zet/bose-macos-utility) – A simple macOS utility that can be used to control the behaviour of Bose QC35 Headphones straight from the menu bar.
 - [mas-cli/mas](https://github.com/mas-cli/mas) – :package: Mac App Store command-line interface
 - [openclaw/imsg](https://github.com/openclaw/imsg) – CLI for Apple's Messages.app so your agent can send and receive text messages/iMessages.
-- [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) – Free, open-source Sidecar/Duet alternative — use your iPhone, iPad or Mac as a true second monitor for your primary Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.
+- [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) – Use an iPhone, iPad, or spare Mac as a true second display for your Mac without restrictions.
 - [psugihara/FreeChat](https://github.com/psugihara/FreeChat) – llama.cpp based AI chat app for macOS
 - [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar) – A macOS menu bar application that monitors AI coding assistant usage quotas. Keep track of your Claude, Codex, Antigravity ,and Gemini usage at a glance.
 - [tornikegomareli/Aurora](https://github.com/tornikegomareli/Aurora) – Most accurate, simple and customisable Apple Intelligence–style glow for SwiftUI, backed by Metal shaders.
@@ -1793,7 +1793,6 @@
 
 ## TypeScript
 
-- [1weiho/open-slide](https://github.com/1weiho/open-slide) – A slide framework built for agents.
 - [AllanChain/zotero-arxiv-workflow](https://github.com/AllanChain/zotero-arxiv-workflow) – Helper for managing arXiv papers in Zotero
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) – Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) – ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS, Android, Linux, Windows.
@@ -1839,7 +1838,7 @@
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) – Orchestrate multiple coding agents from desktop and mobile
 - [github-young/zotero-better-authors](https://github.com/github-young/zotero-better-authors) – Customize the displayed authors list
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) – An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [hafaio/repub](https://github.com/hafaio/repub) – reMarkable ePub generator
+- [hafacc/repub](https://github.com/hafacc/repub) – reMarkable ePub generator
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) – Your definitive source for dashboard icons.
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) – The open-source AI voice studio. Clone, dictate, create.
 - [jupyter/nbdime](https://github.com/jupyter/nbdime) – Tools for diffing and merging of Jupyter notebooks.
@@ -1857,6 +1856,7 @@
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) – Backup automation for self-hosters. Built on top of restic
 - [nielsfaber/scheduler-card](https://github.com/nielsfaber/scheduler-card) – HA Lovelace card for control of scheduler entities
 - [northword/zotero-format-metadata](https://github.com/northword/zotero-format-metadata) – Linter for Zotero. A plugin for Zotero to format item metadata. Shortcut to set title rich text; set journal abbreviations, university places, and item languages, etc; detect duplicate items.
+- [open-slide/open-slide](https://github.com/open-slide/open-slide) – A slide framework built for agents.
 - [openclaw/mcporter](https://github.com/openclaw/mcporter) – Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 - [pondorasti/emojis](https://github.com/pondorasti/emojis) – Turn your ideas into emojis in seconds. Generate your favorite Slack emojis with just one click.
 - [redleafnew/delitemwithatt](https://github.com/redleafnew/delitemwithatt) – Remove attachment(s) when delete the item(s) or collection in Zotero and JurisM.
