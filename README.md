@@ -1804,6 +1804,7 @@
 - [ImperialSquid/zotero-zotts](https://github.com/ImperialSquid/zotero-zotts) – A Zotero plugin adding text to speech (TTS) functionality to various screens
 - [JohnCrickett/ai-writing-detector](https://github.com/JohnCrickett/ai-writing-detector) – AI Writing Detector
 - [KrystianJonca/lnai](https://github.com/KrystianJonca/lnai) – Unified AI configuration management CLI
+- [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) – Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active
 - [MasuRii/pi-rtk-optimizer](https://github.com/MasuRii/pi-rtk-optimizer) – Pi extension that optimizes RTK command rewriting and tool output compaction for the coding agent.
 - [OldJii/mcp-dock](https://github.com/OldJii/mcp-dock) – MCP Server & Config Manager for 14 AI Clients — Cursor, VS Code, Claude Code, Gemini CLI, Windsurf, Zed, TRAE, Kiro, JetBrains & more. 8500+ servers, 4400+ skills.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) – 🙌 OpenHands: AI-Driven Development
@@ -1815,14 +1816,13 @@
 - [ajnart/homarr](https://github.com/ajnart/homarr) – Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) – The open source coding agent.
 - [awnist/slop-cop](https://github.com/awnist/slop-cop) – AI text slop detection, 100% in browser
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) – ⌥ Coding agent with the IDE wired in
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) – ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) – Powerful AI Client
 - [chris-mosley/AmazonBrandFilter](https://github.com/chris-mosley/AmazonBrandFilter) – Filters Amazon search results to only be "known" brands.
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) – Generate changelogs and release notes from a project's commit messages and metadata.
 - [custom-cards/button-card](https://github.com/custom-cards/button-card) – ❇️ Lovelace button-card for home assistant
 - [custom-cards/decluttering-card](https://github.com/custom-cards/decluttering-card) – 🧹 Declutter your lovelace configuration with the help of this card
 - [daeh/zotero-markdb-connect](https://github.com/daeh/zotero-markdb-connect) – Zotero plugin that links your Markdown database to Zotero. Jump directly from Zotero Items to connected Markdown files. Automatically tags Zotero Items so you can easily see which papers you've made notes for.
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) – Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active
 - [danvk/localturk](https://github.com/danvk/localturk) – Mechanical Turk on your own machine.
 - [denho/faved](https://github.com/denho/faved) – Free open-source bookmark manager with customisable nested tags. Super fast and lightweight. All data is stored locally.
 - [dermotduffy/advanced-camera-card](https://github.com/dermotduffy/advanced-camera-card) – A comprehensive camera card for Home Assistant
