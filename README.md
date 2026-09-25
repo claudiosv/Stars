@@ -246,7 +246,6 @@
 - [chvvkumar/ESP32-NINA-GPS](https://github.com/chvvkumar/ESP32-NINA-GPS) – ESP32 based GPS location source for NINA astro
 - [comeraperuibe944/StickController](https://github.com/comeraperuibe944/StickController) – Turns your M5stickCPlus2 into a xbox controller. Also, possibility to connect phone/pc via virtual controller on an AP.
 - [csmith-project/csmith](https://github.com/csmith-project/csmith) – Csmith, a random generator of C programs
-- [daijro/camoufox](https://github.com/daijro/camoufox) – 🦊 Anti-detect browser
 - [davwys/esp32-mavlink-sim](https://github.com/davwys/esp32-mavlink-sim) – Simulate MAVLink commands for use with groundstation apps on an ESP32
 - [deftio/fr_math](https://github.com/deftio/fr_math) – Fixed-point math library (integer / no FPU)  for embedded C.  Trig, log/exp, sqrt, 2D transforms, wave generators, ADSR and variable radix support.  ~4.5 KB 
 - [dejwk/roo_display](https://github.com/dejwk/roo_display) – Arduino-compliant library, targeted at ESP32 and related boards, for driving display devices and touch panels, e.g. ILI9486, ILI9341, or ST7789. Powerful and fast.
@@ -1167,6 +1166,7 @@
 - [custom-components/pyscript](https://github.com/custom-components/pyscript) – Pyscript adds rich Python scripting to HASS
 - [cvs-health/uqlm](https://github.com/cvs-health/uqlm) – [JMLR 2026] "UQLM: A Python Package for Uncertainty Quantification in Large Language Models"
 - [dadadel/pyment](https://github.com/dadadel/pyment) – Format and convert Python docstrings and generates patches
+- [daijro/camoufox](https://github.com/daijro/camoufox) – 🦊 Anti-detect browser
 - [danielzuegner/code-transformer](https://github.com/danielzuegner/code-transformer) – Implementation of the paper "Language-agnostic representation learning of source code from structure and context". 
 - [dask/dask](https://github.com/dask/dask) – Parallel computing with task scheduling
 - [daslearning-org/navigation-indicator](https://github.com/daslearning-org/navigation-indicator) – Automatic vehicle indicator on/off using map navigation app. The app will run on a smartphone & will communicate with ESP32 to control the indicator lights.
