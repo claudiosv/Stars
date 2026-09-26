@@ -903,7 +903,7 @@
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) – Build Conversational AI in minutes ⚡️
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) – Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 - [Codium-ai/AlphaCodium](https://github.com/Codium-ai/AlphaCodium) – Official implementation for the paper: "Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering""
-- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) – The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) – The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - [ConsistentlyInconsistentYT/Pixeltovoxelprojector](https://github.com/ConsistentlyInconsistentYT/Pixeltovoxelprojector) – Projects motion of pixels to a voxel
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) – Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [Coyote-A/ultimate-upscale-for-automatic1111](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111)
