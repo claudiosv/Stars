@@ -310,6 +310,7 @@
 - [shinemoon/M5ReadPaper](https://github.com/shinemoon/M5ReadPaper) – Readpaper Firmware for PaperS3
 - [simpleble/simpleble](https://github.com/simpleble/simpleble) – SimpleBLE - the all-in-one Bluetooth library for MacOS, iOS, Windows, Linux and Android.
 - [spacehuhn/PacketMonitor32](https://github.com/spacehuhn/PacketMonitor32) – ESP32 Packet Monitor + SD card!
+- [starduststorm/motionhexa](https://github.com/starduststorm/motionhexa) – PCB designs and code for a motion-reactive, battery-powered hexagonal glowy object.
 - [stevenselcuk/nearPlane](https://github.com/stevenselcuk/nearPlane) – ✈️ A real-time, portable aircraft tracker for the M5StickC Plus 2 using the adsb.lol API. Features a multi-page display, emergency alerts, and easy web-based setup.
 - [strange-v/RemoteWebViewClient](https://github.com/strange-v/RemoteWebViewClient)
 - [styler00dollar/VapourSynth-RIFE-ncnn-Vulkan](https://github.com/styler00dollar/VapourSynth-RIFE-ncnn-Vulkan) – RIFE filter for VapourSynth
@@ -1447,7 +1448,7 @@
 - [radi-cho/datasetGPT](https://github.com/radi-cho/datasetGPT) – A command-line interface to generate textual and conversational datasets with LLMs.
 - [randaller/llama-chat](https://github.com/randaller/llama-chat) – Chat with Meta's LLaMA models at home made easy
 - [raphaelsty/cherche](https://github.com/raphaelsty/cherche) – Neural Search
-- [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) – The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replacement. Works with Claude Code, Cursor, Aider.
+- [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) – Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server and Mac app for Apple Silicon, built on MLX, focused on reliable tool calling for coding agents. Release-gated with Claude Code, Codex CLI, Aider, Hermes and DeepSeek Harness.
 - [ray-project/ray](https://github.com/ray-project/ray) – Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [reasoning-machines/pal](https://github.com/reasoning-machines/pal) – PaL: Program-Aided Language Models (ICML 2023)
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) – 🕸️ Web apps in pure Python 🐍
