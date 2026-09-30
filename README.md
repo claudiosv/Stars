@@ -1834,7 +1834,7 @@
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) – AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy on-prem or in the cloud.
 - [evanklem/polypore](https://github.com/evanklem/polypore) – Modular IDE designed for agentic coding with extensive memory tools and integrated MCP
 - [feedox/husher](https://github.com/feedox/husher) – 🤫 husher - Encode text to be hidden from human eyes but visible to LLMs
-- [fkguo/zotero-inspire](https://github.com/fkguo/zotero-inspire) – Zotero plugin, integrating the INSPIRE-HEP database into Zotero
+- [fkguo/zotero-inspire](https://github.com/fkguo/zotero-inspire) – Zotero plugin with a Zotero-tailored arXiv browser and deep integration of INSPIRE-HEP
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) – Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) – Orchestrate multiple coding agents from desktop and mobile
 - [github-young/zotero-better-authors](https://github.com/github-young/zotero-better-authors) – Customize the displayed authors list
