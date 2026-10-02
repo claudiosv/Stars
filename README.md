@@ -1272,7 +1272,6 @@
 - [idank/explainshell](https://github.com/idank/explainshell) – match command-line arguments to their help text
 - [idiap/fast-transformers](https://github.com/idiap/fast-transformers) – Pytorch library for fast transformer implementations
 - [im-not-tom/text-generation-webui-output-template-extension](https://github.com/im-not-tom/text-generation-webui-output-template-extension)
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) – Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) – DeepFaceLab is the leading software for creating deepfakes.
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) – Real-time face swap for PC streaming or video calls
 - [itayle/diverse-demonstrations](https://github.com/itayle/diverse-demonstrations) – Diverse Demonstrations Improve In-context Compositional Generalization
@@ -1693,7 +1692,6 @@
 - [cblp/yaml-sucks](https://github.com/cblp/yaml-sucks) – YAML sucks.
 - [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) – Seamless navigation between tmux panes and vim splits
 - [cjermain/pi-less-yolo](https://github.com/cjermain/pi-less-yolo) – Slightly less YOLO version of pi-coding-agent in Docker container sandbox
-- [claudiosv/macos_maid](https://github.com/claudiosv/macos_maid)
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) – 📖 A collection of pure POSIX sh alternatives to external processes.
 - [dylancaponi/claude-code-permissions](https://github.com/dylancaponi/claude-code-permissions)
 - [eendroroy/alien](https://github.com/eendroroy/alien) – An asynchronous zsh prompt
@@ -1841,6 +1839,7 @@
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) – An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [hafacc/repub](https://github.com/hafacc/repub) – reMarkable ePub generator
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) – Your definitive source for dashboard icons.
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) – Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) – The open-source AI voice studio. Clone, dictate, create.
 - [jupyter/nbdime](https://github.com/jupyter/nbdime) – Tools for diffing and merging of Jupyter notebooks.
 - [kalkih/mini-media-player](https://github.com/kalkih/mini-media-player) – Minimalistic media card for Home Assistant Lovelace UI
