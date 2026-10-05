@@ -1585,7 +1585,6 @@
 - [BurntSushi/bttf](https://github.com/BurntSushi/bttf) – A command line tool for datetime arithmetic, parsing, formatting and more.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) – ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) – View disk space usage and delete unwanted data, fast.
-- [Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) – Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
 - [HyperAST/HyperAST](https://github.com/HyperAST/HyperAST) – Temporal code analyses at scale
 - [IvanWng97/pixtuoid](https://github.com/IvanWng97/pixtuoid) – Terminal pixel-art office for AI coding agents
 - [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) – Highly parallelized, blazing fast directory tree analyzer
@@ -1613,6 +1612,7 @@
 - [bootandy/dust](https://github.com/bootandy/dust) – A more intuitive version of du in rust
 - [claudiomattera/esp32c3-embassy](https://github.com/claudiomattera/esp32c3-embassy) –  A Rust async firmware for ESP32-C3 for reading and displaying sensor values using Embassy
 - [codefionn/llmleaf](https://github.com/codefionn/llmleaf) – A fast llm proxy
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) – Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
 - [crusoecloud/fastokens](https://github.com/crusoecloud/fastokens) – Fast Tokens
 - [dandavison/delta](https://github.com/dandavison/delta) – A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [danshick/relineate](https://github.com/danshick/relineate) – An SVG renderer for reMarkable .rm v5 files
@@ -1631,7 +1631,7 @@
 - [jdx/mise](https://github.com/jdx/mise) – dev tools, env vars, task runner
 - [karpathy/rustbpe](https://github.com/karpathy/rustbpe) – The missing tiktoken training code
 - [kaushiksrini/parqeye](https://github.com/kaushiksrini/parqeye) – Peek inside Parquet files right from your terminal
-- [kornysietsma/claude-code-permissions-hook](https://github.com/kornysietsma/claude-code-permissions-hook) – A PreToolUse hook for Claude Code for more granular permission controls
+- [kornysietsma/tool-gate-hook](https://github.com/kornysietsma/tool-gate-hook) – A PreToolUse hook for Claude Code for more granular permission controls
 - [lanterndata/lantern](https://github.com/lanterndata/lantern) – PostgreSQL vector database extension for building AI applications
 - [lightonai/next-plaid](https://github.com/lightonai/next-plaid) – NextPlaid, ColGREP: Multi-vector search, from database to coding agents.
 - [lldap/lldap](https://github.com/lldap/lldap) – Light LDAP implementation
