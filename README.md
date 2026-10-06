@@ -906,6 +906,7 @@
 - [Codium-ai/AlphaCodium](https://github.com/Codium-ai/AlphaCodium) – Official implementation for the paper: "Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering""
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) – The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - [ConsistentlyInconsistentYT/Pixeltovoxelprojector](https://github.com/ConsistentlyInconsistentYT/Pixeltovoxelprojector) – Projects motion of pixels to a voxel
+- [CopilotKit/OpenTag](https://github.com/CopilotKit/OpenTag) – OpenTag: The Channels SDK starter application, a self-hosted AI on-call triage bot for Slack and Microsoft Teams, built with AG-UI and LangGraph. Fork it and ship your own.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) – Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [Coyote-A/ultimate-upscale-for-automatic1111](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111)
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) – 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev
@@ -1017,7 +1018,7 @@
 - [QiuYannnn/Local-File-Organizer](https://github.com/QiuYannnn/Local-File-Organizer) – An AI-powered file management tool that ensures privacy by organizing local texts, images. Using Llama3.2 3B and Llava v1.6 models with the Nexa SDK, it intuitively scans, restructures, and organizes files for quick, seamless access and easy retrieval.
 - [RightNow-AI/autokernel](https://github.com/RightNow-AI/autokernel) – Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.
 - [RightTyper/RightTyper](https://github.com/RightTyper/RightTyper) – A fast and efficient type assistant for Python, including tensor shape inference
-- [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) – (ECCV 2026 oral & best paper candidate) LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
+- [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) – [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
 - [RobertHuben/word-embeddings](https://github.com/RobertHuben/word-embeddings) – Testing properties of GPT-J word embeddings in order to solve the SolidGoldMagikarp mystery
 - [Rockhopper-Technologies/enlighten](https://github.com/Rockhopper-Technologies/enlighten) – Enlighten Progress Bar for Python Console Apps
 - [RussBaz/enforce](https://github.com/RussBaz/enforce) – Python 3.5+ runtime type checking for integration testing and data validation
@@ -1447,7 +1448,7 @@
 - [radi-cho/datasetGPT](https://github.com/radi-cho/datasetGPT) – A command-line interface to generate textual and conversational datasets with LLMs.
 - [randaller/llama-chat](https://github.com/randaller/llama-chat) – Chat with Meta's LLaMA models at home made easy
 - [raphaelsty/cherche](https://github.com/raphaelsty/cherche) – Neural Search
-- [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) – Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server and Mac app for Apple Silicon, built on MLX, focused on reliable tool calling for coding agents. Release-gated with Claude Code, Codex CLI, Aider, Hermes and DeepSeek Harness.
+- [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) – Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server for Apple Silicon, built on MLX, focused on reliable tool calling for coding agents. Up to 4× faster than Apple's MLX (mlx-lm) on the same weights.
 - [ray-project/ray](https://github.com/ray-project/ray) – Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [reasoning-machines/pal](https://github.com/reasoning-machines/pal) – PaL: Program-Aided Language Models (ICML 2023)
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) – 🕸️ Web apps in pure Python 🐍
@@ -1796,7 +1797,6 @@
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) – Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) – ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS, Android, Linux, Windows.
 - [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate) – A plugin that does one thing only: Detect and manage duplicate items in Zotero.
-- [CopilotKit/OpenTag](https://github.com/CopilotKit/OpenTag) – OpenTag: The Channels SDK starter application, a self-hosted AI on-call triage bot for Slack and Microsoft Teams, built with AG-UI and LangGraph. Fork it and ship your own.
 - [Dominic-DallOsto/zotero-reading-list](https://github.com/Dominic-DallOsto/zotero-reading-list) – Keep track of whether you've read items in Zotero
 - [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) – A React-based library for creating sleek presentations using JSX syntax that gives you the ability to live demo your code.
 - [Future-Scholars/paperlib](https://github.com/Future-Scholars/paperlib) – An open-source academic paper management tool.
