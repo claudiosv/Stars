@@ -1277,6 +1277,7 @@
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) – Real-time face swap for PC streaming or video calls
 - [itayle/diverse-demonstrations](https://github.com/itayle/diverse-demonstrations) – Diverse Demonstrations Improve In-context Compositional Generalization
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) – Seamlessly integrate LLMs as Python functions
+- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) – The open-source AI voice studio. Clone, dictate, create.
 - [jax-ml/jax](https://github.com/jax-ml/jax) – Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [jcwillox/hass-template-climate](https://github.com/jcwillox/hass-template-climate) – ❄️Templatable Climate Device for Home Assistant, Supports Running Actions On Service Calls.
 - [jendrikseipp/vulture](https://github.com/jendrikseipp/vulture) – Find dead Python code
@@ -1840,7 +1841,6 @@
 - [hafacc/repub](https://github.com/hafacc/repub) – reMarkable ePub generator
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) – Your definitive source for dashboard icons.
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) – Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
-- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) – The open-source AI voice studio. Clone, dictate, create.
 - [jupyter/nbdime](https://github.com/jupyter/nbdime) – Tools for diffing and merging of Jupyter notebooks.
 - [kalkih/mini-media-player](https://github.com/kalkih/mini-media-player) – Minimalistic media card for Home Assistant Lovelace UI
 - [labmlai/inspectus](https://github.com/labmlai/inspectus) – LLM Analytics
