@@ -1138,7 +1138,7 @@
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) – Pythonic AI generation of images and videos
 - [bsdz/remarkable-layers](https://github.com/bsdz/remarkable-layers) – Python module for reading and writing Remarkable Lines files
 - [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) – Pioneering Automated GUI Interaction with Native Agents
-- [cactus-compute/needle](https://github.com/cactus-compute/needle) – Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.
+- [cactus-compute/needle](https://github.com/cactus-compute/needle) – Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, ASR, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.
 - [catalyst-team/catalyst](https://github.com/catalyst-team/catalyst) – Accelerated deep learning R&D
 - [cedricrupb/code_tokenize](https://github.com/cedricrupb/code_tokenize) – Fast tokenization and structural analysis of any programming language
 - [cemrehancavdar/faster-python-bench](https://github.com/cemrehancavdar/faster-python-bench)
@@ -1166,7 +1166,7 @@
 - [cubiq/ComfyUI_IPAdapter_plus](https://github.com/cubiq/ComfyUI_IPAdapter_plus)
 - [cupy/cupy](https://github.com/cupy/cupy) – NumPy & SciPy for GPU
 - [custom-components/pyscript](https://github.com/custom-components/pyscript) – Pyscript adds rich Python scripting to HASS
-- [cvs-health/uqlm](https://github.com/cvs-health/uqlm) – [JMLR 2026] "UQLM: A Python Package for Uncertainty Quantification in Large Language Models"
+- [cvs-health/uqlm](https://github.com/cvs-health/uqlm) –  [JMLR 2026] UQLM: A Python package for LLM hallucination detection using uncertainty quantification
 - [dadadel/pyment](https://github.com/dadadel/pyment) – Format and convert Python docstrings and generates patches
 - [daijro/camoufox](https://github.com/daijro/camoufox) – 🦊 Anti-detect browser
 - [danielzuegner/code-transformer](https://github.com/danielzuegner/code-transformer) – Implementation of the paper "Language-agnostic representation learning of source code from structure and context". 
@@ -1614,7 +1614,7 @@
 - [bootandy/dust](https://github.com/bootandy/dust) – A more intuitive version of du in rust
 - [claudiomattera/esp32c3-embassy](https://github.com/claudiomattera/esp32c3-embassy) –  A Rust async firmware for ESP32-C3 for reading and displaying sensor values using Embassy
 - [codefionn/llmleaf](https://github.com/codefionn/llmleaf) – A fast llm proxy
-- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) – Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) – Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.
 - [crusoecloud/fastokens](https://github.com/crusoecloud/fastokens) – Fast Tokens
 - [dandavison/delta](https://github.com/dandavison/delta) – A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [danshick/relineate](https://github.com/danshick/relineate) – An SVG renderer for reMarkable .rm v5 files
