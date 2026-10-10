@@ -1007,6 +1007,7 @@
 - [NougatCA/FineTuner](https://github.com/NougatCA/FineTuner)
 - [OK2MOP/MD1702-tools](https://github.com/OK2MOP/MD1702-tools) – Tools to work with firmware and SPI flash data of DM-1702 and DM-X radios
 - [OpenMined/PyDP](https://github.com/OpenMined/PyDP) – The Python Differential Privacy Library. Built on top of: https://github.com/google/differential-privacy
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) – Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.
 - [Overbryd/dotfiles](https://github.com/Overbryd/dotfiles) – 0-100 macOS bootstrap and topical setup maintained with a simple Makefile
 - [PonyGE/PonyGE2](https://github.com/PonyGE/PonyGE2) – PonyGE2: grammatical evolution and variants in Python
 - [Preemo-Inc/text-generation-inference](https://github.com/Preemo-Inc/text-generation-inference)
@@ -1251,8 +1252,6 @@
 - [happyleavesaoc/python-myusps](https://github.com/happyleavesaoc/python-myusps)
 - [has2k1/plotnine](https://github.com/has2k1/plotnine) – A Grammar of Graphics for Python
 - [hellerve/programming-talks](https://github.com/hellerve/programming-talks) – Awesome & interesting talks about programming
-- [henrywoo/chatllama](https://github.com/henrywoo/chatllama) – ChatLLaMA 📢 Open source implementation for LLaMA-based ChatGPT runnable in a single GPU. 15x faster training process than ChatGPT
-- [henrywoo/minichatgpt](https://github.com/henrywoo/minichatgpt) – minichatgpt - To Train ChatGPT In 5 Minutes
 - [hiyouga/EasyR1](https://github.com/hiyouga/EasyR1) – EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework based on veRL
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) – Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [hnmr293/sd-webui-cutoff](https://github.com/hnmr293/sd-webui-cutoff) – Cutoff - Cutting Off Prompt Effect
@@ -1677,7 +1676,6 @@
 
 - [DrCatHicks/learning-opportunities](https://github.com/DrCatHicks/learning-opportunities) – A Claude or Codex skill for deliberate skill development during AI-assisted coding
 - [MarioCatuogno/Clean-macOS](https://github.com/MarioCatuogno/Clean-macOS) – 💻 A script to set up a clean macOS environment.
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) – Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.
 - [Penguin-Guru/remarkable-api](https://github.com/Penguin-Guru/remarkable-api) – A simple Bash script to interact with Remarkable devices' local A.P.I. via C.L.I.
 - [Peter-Lavigne/fizzbuzz-without-human-review](https://github.com/Peter-Lavigne/fizzbuzz-without-human-review)
 - [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) – Bonsai Demo
@@ -1806,7 +1804,6 @@
 - [KrystianJonca/lnai](https://github.com/KrystianJonca/lnai) – Unified AI configuration management CLI
 - [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) – Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active
 - [MasuRii/pi-rtk-optimizer](https://github.com/MasuRii/pi-rtk-optimizer) – Pi extension that optimizes RTK command rewriting and tool output compaction for the coding agent.
-- [OldJii/mcp-dock](https://github.com/OldJii/mcp-dock) – MCP Server & Config Manager for 14 AI Clients — Cursor, VS Code, Claude Code, Gemini CLI, Windsurf, Zed, TRAE, Kiro, JetBrains & more. 8500+ servers, 4400+ skills.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) – 🙌 OpenHands: AI-Driven Development
 - [PubPeerFoundation/pubpeer_zotero_plugin](https://github.com/PubPeerFoundation/pubpeer_zotero_plugin) – Plugin to show if references in Zotero have PubPeer comments
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) – An open-source AI coding agent that lives in your terminal.
