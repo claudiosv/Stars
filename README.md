@@ -1023,7 +1023,7 @@
 - [RobertHuben/word-embeddings](https://github.com/RobertHuben/word-embeddings) – Testing properties of GPT-J word embeddings in order to solve the SolidGoldMagikarp mystery
 - [Rockhopper-Technologies/enlighten](https://github.com/Rockhopper-Technologies/enlighten) – Enlighten Progress Bar for Python Console Apps
 - [RussBaz/enforce](https://github.com/RussBaz/enforce) – Python 3.5+ runtime type checking for integration testing and data validation
-- [RyanEwen/esphome-lvgl](https://github.com/RyanEwen/esphome-lvgl)
+- [RyanEwen/esphome-lvgl](https://github.com/RyanEwen/esphome-lvgl) – A near and tidy way to define LVGL layouts for ESPHome touchscreen devices
 - [SMAT-Lab/Scalpel](https://github.com/SMAT-Lab/Scalpel) – Scalpel: The Python Static Analysis Framework
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) – Faster Whisper transcription with CTranslate2
 - [Salvoxia/immich-folder-album-creator](https://github.com/Salvoxia/immich-folder-album-creator) – Automatically create and populate albums in Immich from a folder structure in external libraries
@@ -1719,7 +1719,6 @@
 - [orbxball/make-Pulse-Secure-great-again](https://github.com/orbxball/make-Pulse-Secure-great-again) – Fix Pulse Secure annoying auto-start on macOS
 - [pforret/font](https://github.com/pforret/font) – Manage installed fonts from CLI (Linux/MacOS)
 - [premAI-io/benchmarks](https://github.com/premAI-io/benchmarks) – 🕹️ Performance Comparison of MLOps Engines, Frameworks, and Languages on Mainstream AI Models.
-- [rednafi/dotfiles](https://github.com/rednafi/dotfiles) – dotfiles
 - [rien/reStream](https://github.com/rien/reStream) – Stream your reMarkable screen over SSH.
 - [rmitchellscott/xovi-qmd-extensions](https://github.com/rmitchellscott/xovi-qmd-extensions) – My modifications, fixes, and QoL improvements for reMarkable tablets using xovi
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) – A Zsh theme
@@ -1857,6 +1856,7 @@
 - [openclaw/mcporter](https://github.com/openclaw/mcporter) – Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 - [pondorasti/emojis](https://github.com/pondorasti/emojis) – Turn your ideas into emojis in seconds. Generate your favorite Slack emojis with just one click.
 - [redleafnew/delitemwithatt](https://github.com/redleafnew/delitemwithatt) – Remove attachment(s) when delete the item(s) or collection in Zotero and JurisM.
+- [rednafi/dotfiles](https://github.com/rednafi/dotfiles) – dotfiles
 - [rejuvenate/lovelace-horizon-card](https://github.com/rejuvenate/lovelace-horizon-card) – Sun Card successor: Visualize the position of the Sun over the horizon.
 - [retorquere/zotero-auto-index](https://github.com/retorquere/zotero-auto-index)
 - [retorquere/zotero-date-from-last-modified](https://github.com/retorquere/zotero-date-from-last-modified)
