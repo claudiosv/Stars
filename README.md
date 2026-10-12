@@ -1587,7 +1587,6 @@
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) – ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) – View disk space usage and delete unwanted data, fast.
 - [HyperAST/HyperAST](https://github.com/HyperAST/HyperAST) – Temporal code analyses at scale
-- [IvanWng97/pixtuoid](https://github.com/IvanWng97/pixtuoid) – Terminal pixel-art office for AI coding agents
 - [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) – Highly parallelized, blazing fast directory tree analyzer
 - [LeaderSupreme/HyperAST](https://github.com/LeaderSupreme/HyperAST) – Temporal code analyses at scale
 - [MaximeRivest/riddle](https://github.com/MaximeRivest/riddle) – The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand
@@ -1647,6 +1646,7 @@
 - [patonw/leaves](https://github.com/patonw/leaves) – A text-mode disk usage visualization utility
 - [pau-mensa/xtr-warp-rs](https://github.com/pau-mensa/xtr-warp-rs) – High performance implementation of the WARP (SIGIR'25) retrieval engine.
 - [perspective-dev/perspective](https://github.com/perspective-dev/perspective) – A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
+- [pixtuoid/pixtuoid](https://github.com/pixtuoid/pixtuoid) – Terminal pixel-art office for AI coding agents
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) – Efficient Duplicate File Finder
 - [rcorre/qmkfmt](https://github.com/rcorre/qmkfmt) – A formatter for QMK keymaps.
 - [rellfy/u_u](https://github.com/rellfy/u_u) – Library for extracting the foreground of images into SVGs
