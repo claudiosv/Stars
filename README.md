@@ -902,7 +902,7 @@
 - [BurhanUlTayyab/GPTZero](https://github.com/BurhanUlTayyab/GPTZero) – An open-source implementation of GPTZero 
 - [Cerebras/gigaGPT](https://github.com/Cerebras/gigaGPT) – a small code base for training large models
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) – Build Conversational AI in minutes ⚡️
-- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) – Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) – Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 50+ tests passed.
 - [Codium-ai/AlphaCodium](https://github.com/Codium-ai/AlphaCodium) – Official implementation for the paper: "Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering""
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) – The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - [ConsistentlyInconsistentYT/Pixeltovoxelprojector](https://github.com/ConsistentlyInconsistentYT/Pixeltovoxelprojector) – Projects motion of pixels to a voxel
