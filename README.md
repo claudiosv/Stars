@@ -1876,7 +1876,7 @@
 - [thirdshiftlab/modeltell](https://github.com/thirdshiftlab/modeltell) – Measuring the lexical and syntactic fingerprints of large language models. Open data, methodology, and a bilingual content linter.
 - [thomasloven/lovelace-card-mod](https://github.com/thomasloven/lovelace-card-mod) – 🔹 Add CSS styles to (almost) any lovelace card
 - [tobi/qmd](https://github.com/tobi/qmd) – mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
-- [upstash/context7](https://github.com/upstash/context7) – Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+- [upstash/context7](https://github.com/upstash/context7) – Context7 Platform -- Up-to-date docs for AI agents
 - [windingwind/bionic-for-zotero](https://github.com/windingwind/bionic-for-zotero) – Bionic reading experience with Zotero.
 - [windingwind/zotero-actions-tags](https://github.com/windingwind/zotero-actions-tags) – Customize your Zotero workflow.
 - [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) – Everything about note management. All in Zotero.
