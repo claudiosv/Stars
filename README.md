@@ -1023,7 +1023,7 @@
 - [RobertHuben/word-embeddings](https://github.com/RobertHuben/word-embeddings) – Testing properties of GPT-J word embeddings in order to solve the SolidGoldMagikarp mystery
 - [Rockhopper-Technologies/enlighten](https://github.com/Rockhopper-Technologies/enlighten) – Enlighten Progress Bar for Python Console Apps
 - [RussBaz/enforce](https://github.com/RussBaz/enforce) – Python 3.5+ runtime type checking for integration testing and data validation
-- [RyanEwen/esphome-lvgl](https://github.com/RyanEwen/esphome-lvgl) – A near and tidy way to define LVGL layouts for ESPHome touchscreen devices
+- [RyanEwen/esphome-lvgl](https://github.com/RyanEwen/esphome-lvgl) – A neat and tidy way to define LVGL layouts for ESPHome touchscreen devices
 - [SMAT-Lab/Scalpel](https://github.com/SMAT-Lab/Scalpel) – Scalpel: The Python Static Analysis Framework
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) – Faster Whisper transcription with CTranslate2
 - [Salvoxia/immich-folder-album-creator](https://github.com/Salvoxia/immich-folder-album-creator) – Automatically create and populate albums in Immich from a folder structure in external libraries
