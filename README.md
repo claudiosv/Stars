@@ -909,7 +909,7 @@
 - [CopilotKit/OpenTag](https://github.com/CopilotKit/OpenTag) – OpenTag: The Channels SDK starter application, a self-hosted AI on-call triage bot for Slack and Microsoft Teams, built with AG-UI and LangGraph. Fork it and ship your own.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) – Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [Coyote-A/ultimate-upscale-for-automatic1111](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111)
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) – 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) – 🕷️ A Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev
 - [DFRobot/DFRobot_GP8XXX](https://github.com/DFRobot/DFRobot_GP8XXX)
 - [Danau5tin/ai-trains-ai](https://github.com/Danau5tin/ai-trains-ai) – RL-training an AI agent to RL-train AI agents.
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) – Fast and memory-efficient exact attention
@@ -1414,7 +1414,7 @@
 - [originlake/labelme-with-segment-anything](https://github.com/originlake/labelme-with-segment-anything) – Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
 - [orsinium-labs/astypes](https://github.com/orsinium-labs/astypes) – Python library to infer types for AST nodes. Make the most powerful Python linters and formatters!
 - [orsinium-labs/infer-types](https://github.com/orsinium-labs/infer-types) – A CLI tool to automatically add type annotations into Python code. Must have tool for annotating existing code.
-- [oyvindwe/connectlife-ha](https://github.com/oyvindwe/connectlife-ha) – ConnectLife integration for Home Assistant
+- [oyvindwe/connectlife-ha](https://github.com/oyvindwe/connectlife-ha) – ConnectLife appliances from Hisense, Gorenje, ASKO and ATAG: air conditioners, heat pumps, dehumidifiers, washers, dryers, dishwashers, ovens, hobs, fridges
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) – Fully automatic censorship removal for language models
 - [patched-codes/patchwork](https://github.com/patched-codes/patchwork) – Agentic AI framework for enterprise workflow automation.
 - [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox) – Elegant easy-to-use neural networks + scientific computing in JAX. https://docs.kidger.site/equinox/
@@ -1540,7 +1540,7 @@
 - [w-okada/voice-changer](https://github.com/w-okada/voice-changer) – リアルタイムボイスチェンジャー Realtime Voice Changer
 - [wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration) – Single Underwater Image Enhancement and Color Restoration, which is Python implementation for a comprehensive review paper "An Experimental-based Review of Image Enhancement and Image Restoration Methods for Underwater Imaging"
 - [widgetti/wanderlust](https://github.com/widgetti/wanderlust) – Wanderlust OpenAI example using Solara
-- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) – Remove visible and invisible AI watermarks and provenance metadata from images and video. Python library and CLI for SynthID, C2PA, EXIF, IPTC, XMP, and common generative-AI marks.
+- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) – Remove visible and invisible AI watermarks from images and video, and AI provenance metadata from images, video, and audio. Python library, CLI, and agent skill for SynthID, C2PA, EXIF, IPTC, XMP, and common generative-AI marks.
 - [xZetsubou/hass-localtuya](https://github.com/xZetsubou/hass-localtuya) – 🔹 A Home Assistant integration to handle Tuya devices locally "fork from localtuya"
 - [xiaowu0162/LongMemEval-V2](https://github.com/xiaowu0162/LongMemEval-V2) – Official repository for LongMemEval-V2
 - [xuyuzhuang11/OneBit](https://github.com/xuyuzhuang11/OneBit) – The homepage of OneBit model quantization framework.
@@ -1593,7 +1593,6 @@
 - [Rkcr7/Muse](https://github.com/Rkcr7/Muse) – Muse  a handwriting AI thinking-partner for the reMarkable Paper Pro
 - [Systemcluster/kitoken](https://github.com/Systemcluster/kitoken) – Fast tokenizer for language models, compatible with SentencePiece, Tokenizers, Tiktoken and more. Supports BPE, Unigram and WordPiece tokenization in JavaScript, Python and Rust.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) – Self-hosted AI coding assistant
-- [TusKANNy/tachiom](https://github.com/TusKANNy/tachiom) – Official repository of TACHIOM.
 - [UnknownSuperficialNight/nvidia-fan-control](https://github.com/UnknownSuperficialNight/nvidia-fan-control) – Nvidia fan control utility wayland compatible
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) – a structural diff that understands syntax 🟥🟩
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) – an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
@@ -1663,6 +1662,7 @@
 - [tantk/permission-hook](https://github.com/tantk/permission-hook) – Fast permission hook for Claude Code and other AI coding assistants
 - [tchebb/bose-dfu](https://github.com/tchebb/bose-dfu) – Firmware updater for various Bose devices
 - [thomassimmer/CyberKey](https://github.com/thomassimmer/CyberKey) – BLE hardware TOTP key. Touch an enrolled finger, the 6-digit code is typed automatically on your computer. Built on M5StickC Plus 2 (ESP32) in Rust.
+- [tusKANNy/tachiom](https://github.com/tusKANNy/tachiom) – Official repository of TACHIOM.
 - [vellum-dev/vellum-cli](https://github.com/vellum-dev/vellum-cli) – Wrapper and boostrap for Vellum reMarkable package manager.
 - [xberg-io/liter-llm](https://github.com/xberg-io/liter-llm) – Universal LLM API client — 163 providers, 14 native language bindings, powered by a Rust core
 - [xberg-io/tree-sitter-language-pack](https://github.com/xberg-io/tree-sitter-language-pack) – Comprehensive tree-sitter grammar compilation with polyglot bindings — Rust, Python, Node.js, Go, Java, Ruby, Elixir, PHP, C#, WASM, Dart, Kotlin-Android, Swift, Zig, and CLI. 371 languages.
@@ -1762,7 +1762,7 @@
 - [imxieyi/waifu2x-mac](https://github.com/imxieyi/waifu2x-mac) – Waifu2x-ios port to macOS, still in Core ML and Metal
 - [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) – A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp.
 - [justjake/Gauss](https://github.com/justjake/Gauss) – Stable Diffusion macOS native app
-- [kageroumado/phosphene](https://github.com/kageroumado/phosphene) – Custom video wallpapers for macOS — any video, on the desktop and the lock screen, picked directly from System Settings' Wallpaper pane
+- [kageroumado/phosphene](https://github.com/kageroumado/phosphene) – Video wallpapers for macOS, from your own videos or Wallpaper Engine's Steam Workshop — picked from System Settings' Wallpaper pane
 - [leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) – Mac app for crushing tech interviews with AI
 - [lukasz-zet/bose-macos-utility](https://github.com/lukasz-zet/bose-macos-utility) – A simple macOS utility that can be used to control the behaviour of Bose QC35 Headphones straight from the menu bar.
 - [mas-cli/mas](https://github.com/mas-cli/mas) – :package: Mac App Store command-line interface
