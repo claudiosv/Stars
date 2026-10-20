@@ -324,7 +324,6 @@
 - [ulywae/NeuNVS](https://github.com/ulywae/NeuNVS) – High-Performance & Hardware-Protected NVS Library for ESP32
 - [universe1987/LEDGeometry](https://github.com/universe1987/LEDGeometry) – Light Effects using Arduino + WS2812b
 - [urtubia/miniacid](https://github.com/urtubia/miniacid) – An Acid style mini groovebox for the M5Stack Cardputer ADV
-- [v0l/radio_tool](https://github.com/v0l/radio_tool) – Radio firmware tool
 - [v11859752/M5AirMouse](https://github.com/v11859752/M5AirMouse) – BLE HID mouse based on M5StickCPlus2 with accelerometer control
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) – A focused launcher for your desktop - native, fast, extensible
 - [vortigont/EmbUI](https://github.com/vortigont/EmbUI) – Embedded WebUI framefork. Building interactive UI based on websockets for your Arduino projects. This is a fork of EmbUI project
@@ -1663,6 +1662,7 @@
 - [tchebb/bose-dfu](https://github.com/tchebb/bose-dfu) – Firmware updater for various Bose devices
 - [thomassimmer/CyberKey](https://github.com/thomassimmer/CyberKey) – BLE hardware TOTP key. Touch an enrolled finger, the 6-digit code is typed automatically on your computer. Built on M5StickC Plus 2 (ESP32) in Rust.
 - [tusKANNy/tachiom](https://github.com/tusKANNy/tachiom) – Official repository of TACHIOM.
+- [v0l/radio_tool](https://github.com/v0l/radio_tool) – Radio firmware tool
 - [vellum-dev/vellum-cli](https://github.com/vellum-dev/vellum-cli) – Wrapper and boostrap for Vellum reMarkable package manager.
 - [xberg-io/liter-llm](https://github.com/xberg-io/liter-llm) – Universal LLM API client — 163 providers, 14 native language bindings, powered by a Rust core
 - [xberg-io/tree-sitter-language-pack](https://github.com/xberg-io/tree-sitter-language-pack) – Comprehensive tree-sitter grammar compilation with polyglot bindings — Rust, Python, Node.js, Go, Java, Ruby, Elixir, PHP, C#, WASM, Dart, Kotlin-Android, Swift, Zig, and CLI. 371 languages.
@@ -1835,7 +1835,7 @@
 - [github-young/zotero-better-authors](https://github.com/github-young/zotero-better-authors) – Customize the displayed authors list
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) – An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [hafacc/repub](https://github.com/hafacc/repub) – reMarkable ePub generator
-- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) – Your definitive source for dashboard icons.
+- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) – 3,400+ curated icons and logos for dashboards and AI agents. SVG, PNG and WEBP on a free CDN, plus an MCP server for Claude Code, Codex, ChatGPT, Cursor, Hermes and OpenClaw.
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) – Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
 - [jupyter/nbdime](https://github.com/jupyter/nbdime) – Tools for diffing and merging of Jupyter notebooks.
 - [kalkih/mini-media-player](https://github.com/kalkih/mini-media-player) – Minimalistic media card for Home Assistant Lovelace UI
