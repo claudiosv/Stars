@@ -1312,7 +1312,7 @@
 - [kojima-takeshi188/zero_shot_cot](https://github.com/kojima-takeshi188/zero_shot_cot) – Prod Env
 - [kredde/compression-robustness](https://github.com/kredde/compression-robustness) – A research library for PyTorch-based neural network compression
 - [kredde/pytorch-lightning-hydra-mlflow](https://github.com/kredde/pytorch-lightning-hydra-mlflow) – PyTorch Lightning + Hydra + MLFlow - Deep learning template
-- [krzysztofdudek/ResearcherSkill](https://github.com/krzysztofdudek/ResearcherSkill) – One file. Your AI coding agent becomes a scientist. 30+ experiments while you sleep.
+- [krzysztofdudek/ResearcherSkill](https://github.com/krzysztofdudek/ResearcherSkill) – Asks what to optimise and how to measure it, then runs experiments on its own branch.
 - [kuleshov-group/llmtools](https://github.com/kuleshov-group/llmtools) – Finetuning Large Language Models on One Consumer GPU in 2 Bits
 - [kyegomez/MGQA](https://github.com/kyegomez/MGQA) – The open source implementation of the multi grouped query attention by the paper "GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints"
 - [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) – Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70% 
