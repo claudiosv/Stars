@@ -983,7 +983,6 @@
 - [MaHuanAAA/g_fair_prompting](https://github.com/MaHuanAAA/g_fair_prompting)
 - [MaartenGr/KeyBERT](https://github.com/MaartenGr/KeyBERT) – Minimal keyword extraction with BERT
 - [Macaronlin/LLaMA3-Quantization](https://github.com/Macaronlin/LLaMA3-Quantization) – A repository dedicated to evaluating the performance of quantizied LLaMA3 using various quantization methods..
-- [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) – The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 - [MariusNea/Aurora](https://github.com/MariusNea/Aurora) – Problem solving focused statistical and machine learning software toolkit. Think of it as any spreadsheet software, but empowered with plug'n'play tools for statistics and machine learning. More tools are added frequently by using plugin functionality.
 - [MarwaNair/TinyPy-Generator](https://github.com/MarwaNair/TinyPy-Generator)
 - [McGill-NLP/llm2vec](https://github.com/McGill-NLP/llm2vec) – Code for 'LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders'
@@ -1073,6 +1072,7 @@
 - [agronholm/typeguard](https://github.com/agronholm/typeguard) – Run-time type checker for Python
 - [ahans30/Binoculars](https://github.com/ahans30/Binoculars) – [ICML 2024] Binoculars: Zero-Shot Detection of LLM-Generated Text
 - [ahmetsait/toolgit](https://github.com/ahmetsait/toolgit) – Git Productivity Toolkit
+- [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) – The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 - [akapet00/semantic-scholar-mcp](https://github.com/akapet00/semantic-scholar-mcp) – MCP server for searching and analyzing academic papers via Semantic Scholar API
 - [akx/ggify](https://github.com/akx/ggify) – Tool to download models from Huggingface Hub and convert them to GGML/GGUF for llama.cpp
 - [alaltitov/Guition-ESP32-S3-4848S040](https://github.com/alaltitov/Guition-ESP32-S3-4848S040) – LVGL ESP32-S3-4848s040 firmware
@@ -1523,7 +1523,7 @@
 - [turtlesoupy/this-word-does-not-exist](https://github.com/turtlesoupy/this-word-does-not-exist) – This Word Does Not Exist
 - [tyxsspa/AnyText](https://github.com/tyxsspa/AnyText) – Official implementation code of the paper <AnyText: Multilingual Visual Text Generation And Editing>
 - [ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver) – Successor of Undetected-Chromedriver. Providing a blazing fast framework for web automation, webscraping, bots and any other creative ideas which are normally hindered by annoying anti bot systems like Captcha / CloudFlare / Imperva / hCaptcha 
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) – Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) – Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.
 - [vaexio/vaex](https://github.com/vaexio/vaex) – Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
 - [valine/NeuralFlow](https://github.com/valine/NeuralFlow) – Visualize the intermediate output of Mistral 7B
 - [vanderschaarlab/LLAMBO](https://github.com/vanderschaarlab/LLAMBO) – Official Repository for LLAMBO "Large Language Models to Enhance Bayesian Optimization"
@@ -1610,7 +1610,7 @@
 - [bootandy/dust](https://github.com/bootandy/dust) – A more intuitive version of du in rust
 - [claudiomattera/esp32c3-embassy](https://github.com/claudiomattera/esp32c3-embassy) –  A Rust async firmware for ESP32-C3 for reading and displaying sensor values using Embassy
 - [codefionn/llmleaf](https://github.com/codefionn/llmleaf) – A fast llm proxy
-- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) – Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) – Open-source agent for the terminal written in Rust. Use any provider or model. Issues & PRs always welcome
 - [crusoecloud/fastokens](https://github.com/crusoecloud/fastokens) – Fast Tokens
 - [dandavison/delta](https://github.com/dandavison/delta) – A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [danshick/relineate](https://github.com/danshick/relineate) – An SVG renderer for reMarkable .rm v5 files
