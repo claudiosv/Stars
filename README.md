@@ -1643,6 +1643,7 @@
 - [p1rallels/codemapper](https://github.com/p1rallels/codemapper) – code intelligence on your CLI for AI agents. tell your agent to run `cm --help` and let it rip
 - [patonw/leaves](https://github.com/patonw/leaves) – A text-mode disk usage visualization utility
 - [pau-mensa/xtr-warp-rs](https://github.com/pau-mensa/xtr-warp-rs) – High performance implementation of the WARP (SIGIR'25) retrieval engine.
+- [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) – Use an iPhone, iPad, or spare Mac as a true second display for your Mac without restrictions.
 - [perspective-dev/perspective](https://github.com/perspective-dev/perspective) – A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [pixtuoid/pixtuoid](https://github.com/pixtuoid/pixtuoid) – Terminal pixel-art office for AI coding agents
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) – Efficient Duplicate File Finder
@@ -1767,7 +1768,6 @@
 - [lukasz-zet/bose-macos-utility](https://github.com/lukasz-zet/bose-macos-utility) – A simple macOS utility that can be used to control the behaviour of Bose QC35 Headphones straight from the menu bar.
 - [mas-cli/mas](https://github.com/mas-cli/mas) – :package: Mac App Store command-line interface
 - [openclaw/imsg](https://github.com/openclaw/imsg) – CLI for Apple's Messages.app so your agent can send and receive text messages/iMessages.
-- [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) – Use an iPhone, iPad, or spare Mac as a true second display for your Mac without restrictions.
 - [psugihara/FreeChat](https://github.com/psugihara/FreeChat) – llama.cpp based AI chat app for macOS
 - [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar) – A macOS menu bar application that monitors AI coding assistant usage quotas. Keep track of your Claude, Codex, Antigravity ,and Gemini usage at a glance.
 - [tornikegomareli/Aurora](https://github.com/tornikegomareli/Aurora) – Most accurate, simple and customisable Apple Intelligence–style glow for SwiftUI, backed by Metal shaders.
