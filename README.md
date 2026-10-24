@@ -339,7 +339,6 @@
 - [Madelena/Metrology-for-Hass](https://github.com/Madelena/Metrology-for-Hass) – 🎨 Give your Home Assistant a modern and clean facelift. 🟥🟧🟩🟦🟪 24 Variations with 2 Styles + 6 Colors (Magenta Red / Orange / Green / Blue / Purple) + 🌞 Light and 🌚 Dark modes included. Based on Metro and Fluent UI Design Systems from Microsoft Windows.
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) – Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 - [cdtpinto/cdtpinto.github.io](https://github.com/cdtpinto/cdtpinto.github.io)
-- [connorferster/handcalcs](https://github.com/connorferster/handcalcs) – Python library for converting Python calculations into rendered latex.
 - [dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes) – Custom Jupyter Notebook Themes
 - [knhash/Pudhina](https://github.com/knhash/Pudhina) – A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
 - [velijv/LILYGO-T-Watch-S3-ESPHome](https://github.com/velijv/LILYGO-T-Watch-S3-ESPHome) – @LILYGO®  T-Watch S3 feature implementation for @ESPHome 
@@ -1160,6 +1159,7 @@
 - [codelion/pts](https://github.com/codelion/pts) – Pivotal Token Search
 - [codellm-devkit/python-sdk](https://github.com/codellm-devkit/python-sdk) – The official Python SDK for Codellm-Devkit
 - [conda-incubator/unidep](https://github.com/conda-incubator/unidep) – Single source of truth with requirements for pip and conda
+- [connorferster/handcalcs](https://github.com/connorferster/handcalcs) – Python library for converting Python calculations into rendered latex.
 - [convictional/souls-only](https://github.com/convictional/souls-only) – A quirky exploration of how written or audio content could be made accessible to humans and inaccessible to AI bots.
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) – Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [criteo/autofaiss](https://github.com/criteo/autofaiss) – Automatically create Faiss knn indices with the most optimal similarity search parameters.
