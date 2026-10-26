@@ -907,7 +907,7 @@
 - [CopilotKit/OpenTag](https://github.com/CopilotKit/OpenTag) – OpenTag: The Channels SDK starter application, a self-hosted AI on-call triage bot for Slack and Microsoft Teams, built with AG-UI and LangGraph. Fork it and ship your own.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) – Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [Coyote-A/ultimate-upscale-for-automatic1111](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111)
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) – 🕷️ A Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) – 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev
 - [DFRobot/DFRobot_GP8XXX](https://github.com/DFRobot/DFRobot_GP8XXX)
 - [Danau5tin/ai-trains-ai](https://github.com/Danau5tin/ai-trains-ai) – RL-training an AI agent to RL-train AI agents.
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) – Fast and memory-efficient exact attention
@@ -1616,7 +1616,7 @@
 - [danshick/relineate](https://github.com/danshick/relineate) – An SVG renderer for reMarkable .rm v5 files
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) – The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [dsully/macos-defaults](https://github.com/dsully/macos-defaults) – A tool for managing macOS defaults declaratively via YAML files.
-- [esp-rs/esp-idf](https://github.com/esp-rs/esp-idf) – embedded-hal implementation for Rust on ESP32 and ESP-IDF
+- [esp-rs/esp-idf](https://github.com/esp-rs/esp-idf) – Rust on ESP32 and ESP-IDF
 - [esp-rs/esp-idf-sys](https://github.com/esp-rs/esp-idf-sys) – Bindings for ESP-IDF (Espressif's IoT Development Framework)
 - [esp-rs/rust](https://github.com/esp-rs/rust) – Rust for the xtensa architecture. Built in targets for the ESP32 and ESP8266
 - [feyninc/tokie](https://github.com/feyninc/tokie) – 🍡 30x faster tokenization for every HuggingFace model
