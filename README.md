@@ -527,7 +527,6 @@
 - [Syzygianinfern0/Chase-Activate-All-Offers](https://github.com/Syzygianinfern0/Chase-Activate-All-Offers) – Activate all Chase Offers
 - [TylerCoxDruin/live-context](https://github.com/TylerCoxDruin/live-context) – A context-aware "At a Glance" Home Screen widget for iOS, built with Scriptable
 - [UB-Mannheim/zotero-ocr](https://github.com/UB-Mannheim/zotero-ocr) – Zotero Plugin for OCR
-- [Wecko-ai/modelfit-hardware-dataset](https://github.com/Wecko-ai/modelfit-hardware-dataset) – Open CC BY 4.0 dataset: which local LLMs (Ollama) fit which hardware — params, quantization, RAM/VRAM. Powered by modelfit.io
 - [Yord/pxi](https://github.com/Yord/pxi) – 🧚 pxi (pixie) is a small, fast, and magical command-line data processor similar to jq, mlr, and awk.
 - [aaronraimist/DontFuckWithPaste](https://github.com/aaronraimist/DontFuckWithPaste) – Google Chrome and Firefox extension that prevents the blocking of pasting into input fields
 - [argenos/zotero-mdnotes](https://github.com/argenos/zotero-mdnotes) – A Zotero plugin to export item metadata and notes as markdown files
@@ -569,6 +568,7 @@
 - [mlamberts78/weather-chart-card](https://github.com/mlamberts78/weather-chart-card) – Custom weather card with charts.
 - [mlgarchery/export-remarkable-content](https://github.com/mlgarchery/export-remarkable-content) – export all the content from my remarkable
 - [mljar/supertree](https://github.com/mljar/supertree) – Impress your boss with interactive Decision Tree visualization 
+- [modelfit-io/modelfit-hardware-dataset](https://github.com/modelfit-io/modelfit-hardware-dataset) – Open CC BY 4.0 dataset: which local LLMs (Ollama) fit which hardware — params, quantization, RAM/VRAM. Powered by modelfit.io
 - [mozilla/readability](https://github.com/mozilla/readability) – A standalone version of the readability lib
 - [mronkko/ZoteroQuickLook](https://github.com/mronkko/ZoteroQuickLook) – Implements QuickLook in Zotero
 - [nerfies/nerfies.github.io](https://github.com/nerfies/nerfies.github.io)
