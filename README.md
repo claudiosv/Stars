@@ -767,7 +767,7 @@
 - [PennMUSA/MasterClass2019_3DMappingAndViz](https://github.com/PennMUSA/MasterClass2019_3DMappingAndViz)
 - [VahaC/ESP32-4848S040-EspHome-LVGL](https://github.com/VahaC/ESP32-4848S040-EspHome-LVGL)
 - [XPY-US/Commercial-FirmEsp32](https://github.com/XPY-US/Commercial-FirmEsp32)
-- [Zeloksa/Cardputer-ADV-WiFi-BLE-Radar](https://github.com/Zeloksa/Cardputer-ADV-WiFi-BLE-Radar) – Advanced Wi-Fi & BLE Radar V3.1 for M5Stack Cardputer ADV. Features: Spectrum Analyzer, Smart Channel Advisor, Dual-band TDM, Anti-tracking bypass, and Retro CRT UI. (Pre-compiled .bin only)
+- [Zeloksa/Cardputer-ADV-WiFi-BLE-Radar](https://github.com/Zeloksa/Cardputer-ADV-WiFi-BLE-Radar) – Wi-Fi & BLE Radar ADV V4.0** is a high-speed direction-finding, deep packet inspection (DPI), and spectrum analysis tool built specifically for the **M5Stack Cardputer / Cardputer ADV
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) – 😎 A curated list of awesome GitHub Profile which updates in real time 
 - [albert-canfield/HA-panel-esphome](https://github.com/albert-canfield/HA-panel-esphome)
 - [ale1800/YULC](https://github.com/ale1800/YULC) – A Flexible Type-C PD Led Strip Controller
@@ -1320,7 +1320,7 @@
 - [labmlai/labml](https://github.com/labmlai/labml) – 🔎 Monitor deep learning model training and hardware usage from your mobile phone 📱
 - [lifeiteng/vall-e](https://github.com/lifeiteng/vall-e) – PyTorch implementation of VALL-E(Zero-Shot Text-To-Speech), Reproduced Demo https://lifeiteng.github.io/valle/index.html
 - [lifemate-ai/embodied-claude](https://github.com/lifemate-ai/embodied-claude) – Claudeに身体性を与えるMCP群
-- [lightly-ai/lightly](https://github.com/lightly-ai/lightly) – A python library for self-supervised learning on images.
+- [lightly-ai/lightly](https://github.com/lightly-ai/lightly) – A python library for self-supervised learning and latent world models on images.
 - [lightonai/fast-plaid](https://github.com/lightonai/fast-plaid) – High-Performance Engine for Multi-Vector Search
 - [lightonai/pylate](https://github.com/lightonai/pylate) – Late Interaction Models Training & Retrieval
 - [likejazz/llama3.np](https://github.com/likejazz/llama3.np) – llama3.np is a pure NumPy implementation for Llama 3 model.
