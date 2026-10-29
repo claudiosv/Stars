@@ -734,7 +734,7 @@
 
 ## OCaml
 
-- [facebook/pyre-check](https://github.com/facebook/pyre-check) – Performant type-checking for python.
+- [meta/pyre-check](https://github.com/meta/pyre-check) – Performant type-checking for python.
 
 <div id="objective-c++"></div>
 
@@ -1841,7 +1841,7 @@
 - [kalkih/mini-media-player](https://github.com/kalkih/mini-media-player) – Minimalistic media card for Home Assistant Lovelace UI
 - [labmlai/inspectus](https://github.com/labmlai/inspectus) – LLM Analytics
 - [labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript) – Clean Code concepts adapted for TypeScript
-- [letta-ai/letta-code](https://github.com/letta-ai/letta-code) – Stateful agents that are like people, with memory, identity, and the ability to learn and adapt
+- [letta-ai/letta-code](https://github.com/letta-ai/letta-code) – Agents that self-improve with experience
 - [lezer-parser/import-tree-sitter](https://github.com/lezer-parser/import-tree-sitter) – Helps import tree-sitter grammars
 - [lunarr-app/lunarr-go](https://github.com/lunarr-app/lunarr-go) – Self-hosted media streaming server designed as an alternative to Plex, allowing you to monitor and manage your movie and TV show files on a headless server.
 - [man-group/dtale](https://github.com/man-group/dtale) – Visualizer for pandas data structures
