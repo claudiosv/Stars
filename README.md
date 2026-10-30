@@ -109,7 +109,6 @@
 - [brianGit78/M5-StickT-WIFI](https://github.com/brianGit78/M5-StickT-WIFI) – Fork that adds Wifi and MJPEG streaming of thermal cam images
 - [cepa/aegir-gps-tracker](https://github.com/cepa/aegir-gps-tracker) – Aegir GPS/LTE/Iridium Tracker
 - [clopez/dellfan](https://github.com/clopez/dellfan) – User space utility to control the fan speed on Dell Laptops
-- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) – Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [d4rkmen/M5Apps](https://github.com/d4rkmen/M5Apps) – Multi-app installer for M5 CardPuter v1.0, v1.1 and ADV with a set of built-in tools
 - [d4rkmen/M5Gemini](https://github.com/d4rkmen/M5Gemini) – Conversational AI assistant for the ESP32-S3 powered M5 Cardputer mini PC
 - [deftio/qf_math](https://github.com/deftio/qf_math) – Fast math library (float 32) for embedded systems.  fast sin/cos/tan/asin/acos/atan (rad, degree, bam support) also exp,log,ln,pow,pow10, wave-gen, adsr.  Same API as fixed point library deftio/fr_math
@@ -1815,6 +1814,7 @@
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) – ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) – Powerful AI Client
 - [chris-mosley/AmazonBrandFilter](https://github.com/chris-mosley/AmazonBrandFilter) – Filters Amazon search results to only be "known" brands.
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) – Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) – Generate changelogs and release notes from a project's commit messages and metadata.
 - [custom-cards/button-card](https://github.com/custom-cards/button-card) – ❇️ Lovelace button-card for home assistant
 - [custom-cards/decluttering-card](https://github.com/custom-cards/decluttering-card) – 🧹 Declutter your lovelace configuration with the help of this card
