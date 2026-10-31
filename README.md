@@ -481,7 +481,7 @@
 - [ossu/computer-science](https://github.com/ossu/computer-science) – 🎓 Path to a free self-taught education in Computer Science!
 - [saprmarks/geometry-of-truth](https://github.com/saprmarks/geometry-of-truth)
 - [thomasjball/PyExZ3](https://github.com/thomasjball/PyExZ3) – Python Exploration with Z3
-- [xberg-io/html-to-markdown](https://github.com/xberg-io/html-to-markdown) – High performance and CommonMark compliant HTML to Markdown converter. Maintained by the Kreuzberg team. Kreuzberg is a fast, polyglot document intelligence engine with a Rust core. It extracts structured data from 98+ document formats using streaming parsers and built-in OCR.
+- [xberg-io/html-to-markdown](https://github.com/xberg-io/html-to-markdown) – Turn messy, real-world HTML into clean Markdown, from every major language.
 
 <div id="haskell"></div>
 
@@ -1003,7 +1003,6 @@
 - [NougatCA/FineTuner](https://github.com/NougatCA/FineTuner)
 - [OK2MOP/MD1702-tools](https://github.com/OK2MOP/MD1702-tools) – Tools to work with firmware and SPI flash data of DM-1702 and DM-X radios
 - [OpenMined/PyDP](https://github.com/OpenMined/PyDP) – The Python Differential Privacy Library. Built on top of: https://github.com/google/differential-privacy
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) – Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.
 - [Overbryd/dotfiles](https://github.com/Overbryd/dotfiles) – 0-100 macOS bootstrap and topical setup maintained with a simple Makefile
 - [PonyGE/PonyGE2](https://github.com/PonyGE/PonyGE2) – PonyGE2: grammatical evolution and variants in Python
 - [Preemo-Inc/text-generation-inference](https://github.com/Preemo-Inc/text-generation-inference)
@@ -1664,9 +1663,9 @@
 - [tusKANNy/tachiom](https://github.com/tusKANNy/tachiom) – Official repository of TACHIOM.
 - [v0l/radio_tool](https://github.com/v0l/radio_tool) – Radio firmware tool
 - [vellum-dev/vellum-cli](https://github.com/vellum-dev/vellum-cli) – Wrapper and boostrap for Vellum reMarkable package manager.
-- [xberg-io/liter-llm](https://github.com/xberg-io/liter-llm) – Universal LLM API client — 163 providers, 14 native language bindings, powered by a Rust core
-- [xberg-io/tree-sitter-language-pack](https://github.com/xberg-io/tree-sitter-language-pack) – Comprehensive tree-sitter grammar compilation with polyglot bindings — Rust, Python, Node.js, Go, Java, Ruby, Elixir, PHP, C#, WASM, Dart, Kotlin-Android, Swift, Zig, and CLI. 371 languages.
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) – Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fifteen bindings, with CLI, REST API, and MCP server.
+- [xberg-io/liter-llm](https://github.com/xberg-io/liter-llm) – One API for every LLM: 170+ providers through one client, with a Rust core and native bindings for every major language.
+- [xberg-io/tree-sitter-language-pack](https://github.com/xberg-io/tree-sitter-language-pack) – Parse and understand source code in 300+ languages from every major language, with one dependency and no grammars to compile.
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) – The fast, precise document-intelligence engine for every language: text, tables and metadata from 100+ formats, with OCR, transcription and code intelligence.
 - [zdk/lowfat](https://github.com/zdk/lowfat) – lowfat - slim your command output. strips noise, saves tokens.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) – A terminal workspace with batteries included
 
@@ -1676,6 +1675,7 @@
 
 - [DrCatHicks/learning-opportunities](https://github.com/DrCatHicks/learning-opportunities) – A Claude or Codex skill for deliberate skill development during AI-assisted coding
 - [MarioCatuogno/Clean-macOS](https://github.com/MarioCatuogno/Clean-macOS) – 💻 A script to set up a clean macOS environment.
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) – Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.
 - [Penguin-Guru/remarkable-api](https://github.com/Penguin-Guru/remarkable-api) – A simple Bash script to interact with Remarkable devices' local A.P.I. via C.L.I.
 - [Peter-Lavigne/fizzbuzz-without-human-review](https://github.com/Peter-Lavigne/fizzbuzz-without-human-review)
 - [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) – Bonsai Demo
