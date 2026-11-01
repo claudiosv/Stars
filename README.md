@@ -474,7 +474,6 @@
 - [awslabs/fever](https://github.com/awslabs/fever) – FEVER (Fact Extraction and VERification) Annotation Platform and Baselines
 - [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) – Free Introduction to Bash Scripting eBook
 - [callummcdougall/sae_vis](https://github.com/callummcdougall/sae_vis) – Create feature-centric and prompt-centric visualizations for sparse autoencoders (like those from Anthropic's published research).
-- [f/prompts.chat](https://github.com/f/prompts.chat) – f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [harshaneel/humanize](https://github.com/harshaneel/humanize) – Best static AI text humanizer. Two research-grounded LLM-agnostic skills that make AI writing sound human and relatable. Nine levers, 50+ peer-reviewed sources, 2024-2026 detection literature.
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) – 🛏 An HTML to Markdown converter written in JavaScript
 - [nicsure/RT880-WebSerial-Firmware-Flasher](https://github.com/nicsure/RT880-WebSerial-Firmware-Flasher) – Browser based binary flasher for the Radtel RT-880 HT.
@@ -709,6 +708,7 @@
 ## MDX
 
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) – 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
+- [f/prompts.chat](https://github.com/f/prompts.chat) – f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 <div id="makefile"></div>
 
@@ -1412,7 +1412,7 @@
 - [orsinium-labs/astypes](https://github.com/orsinium-labs/astypes) – Python library to infer types for AST nodes. Make the most powerful Python linters and formatters!
 - [orsinium-labs/infer-types](https://github.com/orsinium-labs/infer-types) – A CLI tool to automatically add type annotations into Python code. Must have tool for annotating existing code.
 - [oyvindwe/connectlife-ha](https://github.com/oyvindwe/connectlife-ha) – ConnectLife appliances from Hisense, Gorenje, ASKO and ATAG: air conditioners, heat pumps, dehumidifiers, washers, dryers, dishwashers, ovens, hobs, fridges
-- [p-e-w/heretic](https://github.com/p-e-w/heretic) – Fully automatic censorship removal for language models
+- [p-e-w/heretic](https://github.com/p-e-w/heretic) – Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more
 - [patched-codes/patchwork](https://github.com/patched-codes/patchwork) – Agentic AI framework for enterprise workflow automation.
 - [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox) – Elegant easy-to-use neural networks + scientific computing in JAX. https://docs.kidger.site/equinox/
 - [patrick-kidger/jaxtyping](https://github.com/patrick-kidger/jaxtyping) – Type annotations and runtime checking for shape and dtype of JAX/NumPy/PyTorch/etc. arrays. https://docs.kidger.site/jaxtyping/
