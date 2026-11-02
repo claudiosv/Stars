@@ -433,7 +433,7 @@
 - [kharyam/go-litra-driver](https://github.com/kharyam/go-litra-driver) – Go implementation of a CLI and UI to control Logitech Litra Glow and Beam
 - [lordmathis/llamactl](https://github.com/lordmathis/llamactl) – Unified management and routing for llama.cpp, MLX and vLLM models with web dashboard.
 - [mholt/timeliner](https://github.com/mholt/timeliner) – All your digital life on a single timeline, stored locally -- DEPRECATED, SEE TIMELINIZE (link below)
-- [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) – Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc
+- [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) – Reliable model swapping for any local AI server. Chosen by thousands of users.  Batteries included. If we don't have it, you probably don't need it.
 - [mvdan/gofumpt](https://github.com/mvdan/gofumpt) – A stricter gofmt
 - [mvdan/sh](https://github.com/mvdan/sh) – A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [owulveryck/goMarkableStream](https://github.com/owulveryck/goMarkableStream) – Stream your reMarkable screen to any browser - no hacks, no dependencies, just install and go
