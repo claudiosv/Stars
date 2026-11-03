@@ -81,7 +81,7 @@
 - [GJDuck/e9patch](https://github.com/GJDuck/e9patch) – A powerful static binary rewriting tool
 - [GhostESP-Revival/GhostESP](https://github.com/GhostESP-Revival/GhostESP) – The open-source wireless research platform for ESP32.
 - [ImpulseAdventure/GUIslice](https://github.com/ImpulseAdventure/GUIslice) – GUIslice drag & drop embedded GUI in C for touchscreen TFT on Arduino, Raspberry Pi, ARM, ESP8266 / ESP32 / M5stack using Adafruit-GFX / TFT_eSPI / UTFT / SDL
-- [JustVugg/colibri](https://github.com/JustVugg/colibri) – Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+- [JustVugg/colibri](https://github.com/JustVugg/colibri) – A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.
 - [OEFW-community/RT-890-custom-firmware](https://github.com/OEFW-community/RT-890-custom-firmware) – Customised version of Radtel RT-890 Open Firmware https://github.com/DualTachyon/radtel-rt-890-oefw
 - [OpenRTX/OpenRTX](https://github.com/OpenRTX/OpenRTX) – Modular Open Source Radio Firmware
 - [PriesiaMioShirakana/DragonianVoice](https://github.com/PriesiaMioShirakana/DragonianVoice) – 多个SVC/TTS的C++推理库
@@ -443,6 +443,7 @@
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) – Open source AI coding agent. Designed for large projects and real world tasks.
 - [rclone/rclone](https://github.com/rclone/rclone) – "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [restic/restic](https://github.com/restic/restic) – Fast, secure, efficient backup program
+- [rmitchellscott/reManager](https://github.com/rmitchellscott/reManager) – Linux, MacOS, and Windows desktop app for managing mods on reMarkable tablets
 - [rorycl/rm2pdf](https://github.com/rorycl/rm2pdf) – Convert reMarkable tablet notebooks and annotated PDFs to layered PDF documents
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) – Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [sqshq/sampler](https://github.com/sqshq/sampler) – Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
@@ -1396,7 +1397,6 @@
 - [nyavramov/monitor_web_page_changes](https://github.com/nyavramov/monitor_web_page_changes) – I thought it would be nice to get an email alert when a new job posting appears on a website, so I can use this to check for the newest job openings on various sites
 - [nyunAI/PruneGPT](https://github.com/nyunAI/PruneGPT)
 - [ogx-ai/ogx](https://github.com/ogx-ai/ogx) – Open GenAI Stack
-- [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) – The All in One Framework to Build Undefeatable Scrapers
 - [oobabooga/textgen](https://github.com/oobabooga/textgen) – Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API. 100% private.
 - [opal06/zotero2remarkable_bridge](https://github.com/opal06/zotero2remarkable_bridge)
 - [open-compass/opencompass](https://github.com/open-compass/opencompass) – OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, DeepSeek, etc, across 100+ datasets covering knowledge, reasoning, coding, science, language, long-context, and safety.
@@ -1852,6 +1852,7 @@
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) – Backup automation for self-hosters. Built on top of restic
 - [nielsfaber/scheduler-card](https://github.com/nielsfaber/scheduler-card) – HA Lovelace card for control of scheduler entities
 - [northword/zotero-format-metadata](https://github.com/northword/zotero-format-metadata) – Linter for Zotero. A plugin for Zotero to format item metadata. Shortcut to set title rich text; set journal abbreviations, university places, and item languages, etc; detect duplicate items.
+- [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) – The All in One Framework to Build Undefeatable Scrapers
 - [open-slide/open-slide](https://github.com/open-slide/open-slide) – A slide framework built for agents.
 - [openclaw/mcporter](https://github.com/openclaw/mcporter) – Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 - [pondorasti/emojis](https://github.com/pondorasti/emojis) – Turn your ideas into emojis in seconds. Generate your favorite Slack emojis with just one click.
@@ -1866,7 +1867,6 @@
 - [retorquere/zotero-report-customizer](https://github.com/retorquere/zotero-report-customizer)
 - [retorquere/zotero-storage-scanner](https://github.com/retorquere/zotero-storage-scanner) – A Zotero plugin to remove the broken & duplicate attachment link of the bibliography
 - [riffusion/riffusion-app-hobby](https://github.com/riffusion/riffusion-app-hobby) – Stable diffusion for real-time music generation (web app)
-- [rmitchellscott/reManager](https://github.com/rmitchellscott/reManager) – Linux, MacOS, and Windows desktop app for managing mods on reMarkable tablets
 - [scitedotai/scite-zotero-plugin](https://github.com/scitedotai/scite-zotero-plugin) – See how your saved papers are cited. Supporting, contrasting, and mentioning counts appear directly in your Zotero library.
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) – Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [strange-v/RemoteWebViewServer](https://github.com/strange-v/RemoteWebViewServer) – Headless browser that renders target web pages (e.g., Home Assistant dashboards) and streams them as image tiles over WebSocket to lightweight clients (ESP32 displays)
