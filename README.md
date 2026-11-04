@@ -476,7 +476,6 @@
 - [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) – Free Introduction to Bash Scripting eBook
 - [callummcdougall/sae_vis](https://github.com/callummcdougall/sae_vis) – Create feature-centric and prompt-centric visualizations for sparse autoencoders (like those from Anthropic's published research).
 - [harshaneel/humanize](https://github.com/harshaneel/humanize) – Best static AI text humanizer. Two research-grounded LLM-agnostic skills that make AI writing sound human and relatable. Nine levers, 50+ peer-reviewed sources, 2024-2026 detection literature.
-- [mixmark-io/turndown](https://github.com/mixmark-io/turndown) – 🛏 An HTML to Markdown converter written in JavaScript
 - [nicsure/RT880-WebSerial-Firmware-Flasher](https://github.com/nicsure/RT880-WebSerial-Firmware-Flasher) – Browser based binary flasher for the Radtel RT-880 HT.
 - [ossu/computer-science](https://github.com/ossu/computer-science) – 🎓 Path to a free self-taught education in Computer Science!
 - [saprmarks/geometry-of-truth](https://github.com/saprmarks/geometry-of-truth)
@@ -564,6 +563,7 @@
 - [mattatcha/esphome-lvgl-simulator](https://github.com/mattatcha/esphome-lvgl-simulator) – A web-based simulator for ESPHome LVGL configurations.
 - [michaelpradel/DeepBugs](https://github.com/michaelpradel/DeepBugs) – DeepBugs is a framework for learning bug detectors from an existing code corpus.
 - [milahu/lezer-parser-import-tree-sitter-scanner](https://github.com/milahu/lezer-parser-import-tree-sitter-scanner) – Helps import tree-sitter grammars and scanners. A grammar transpiler, and a domain-specific C++ to JavaScript transpiler. Import ANTLR grammars to lezer-parser
+- [mixmark-io/turndown](https://github.com/mixmark-io/turndown) – 🛏 An HTML to Markdown converter written in JavaScript
 - [mlamberts78/weather-chart-card](https://github.com/mlamberts78/weather-chart-card) – Custom weather card with charts.
 - [mlgarchery/export-remarkable-content](https://github.com/mlgarchery/export-remarkable-content) – export all the content from my remarkable
 - [mljar/supertree](https://github.com/mljar/supertree) – Impress your boss with interactive Decision Tree visualization 
@@ -1747,10 +1747,10 @@
 
 ## Swift
 
-- [Blaizzy/nativ](https://github.com/Blaizzy/nativ) – Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.
 - [CoolAssPuppy/sync-bar](https://github.com/CoolAssPuppy/sync-bar) – macOS Menu Bar Sync Utility
 - [Geek-1001/arcmark](https://github.com/Geek-1001/arcmark) – macOS bookmark manager that attaches to any browser window as a sidebar
 - [GeiserX/VPN-Bypass](https://github.com/GeiserX/VPN-Bypass) – macOS menu-bar app for fine-grained VPN routing: bypass the VPN for chosen domains/services, force others through it, or (Custom mode) route each domain/subnet out a specific egress — direct, a specific VPN, an HTTP/SOCKS5 proxy, or a Tailscale peer. Includes a vpnb CLI.
+- [Neywa-Labs/nativ](https://github.com/Neywa-Labs/nativ) – Nativ is an open-source local AI app for Mac. It runs open AI models on Apple Silicon, and nothing leaves your Mac.
 - [SuperMarcus/waifu2x-video-mac](https://github.com/SuperMarcus/waifu2x-video-mac) – Super-resolution videos in macOS with Waifu2x.
 - [adntgv/claude-usage-systray](https://github.com/adntgv/claude-usage-systray) – macOS menu bar app showing real-time Claude.ai plan usage (session %, weekly %, Sonnet %)
 - [apple/container](https://github.com/apple/container) – A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
