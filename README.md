@@ -1469,7 +1469,7 @@
 - [seandstewart/typical](https://github.com/seandstewart/typical) – Typical: Fast, simple, & correct data-validation using Python 3 typing.
 - [serge-sans-paille/beniget](https://github.com/serge-sans-paille/beniget) – Extract semantic information about static Python code
 - [serge-sans-paille/gast](https://github.com/serge-sans-paille/gast) – Python AST that abstracts the underlying Python version
-- [severian42/GraphRAG-Local-UI](https://github.com/severian42/GraphRAG-Local-UI) – GraphRAG using Local LLMs - Features robust API and multiple apps for Indexing/Prompt Tuning/Query/Chat/Visualizing/Etc. This is meant to be the ultimate GraphRAG/KG local LLM app. 
+- [severian42/GraphRAG-Local-UI](https://github.com/severian42/GraphRAG-Local-UI) – Microsoft’s GraphRAG on local models (Ollama, LM Studio), with an API and apps for indexing, prompt tuning, query and graph visualization.
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) – SGLang is a high-performance serving framework for large language models and multimodal models.
 - [shangqing-liu/ContraBERT](https://github.com/shangqing-liu/ContraBERT) – Enhacing Code Pre-trained Models by Contrastive Learning
 - [sheffieldnlp/fever-scorer](https://github.com/sheffieldnlp/fever-scorer)
@@ -1728,6 +1728,7 @@
 - [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) – A set of vim, zsh, git, and tmux configuration files.
 - [timewasternl/Pioneered](https://github.com/timewasternl/Pioneered) – Pioneer inspired theme for smaller screen resolutions
 - [toltec-dev/toltec](https://github.com/toltec-dev/toltec) – Community-maintained repository of free software for the reMarkable tablet.
+- [trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS) – A collection of LS_COLORS definitions; needs your contribution!
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) – A collection of ZSH frameworks, plugins, themes and tutorials.
 - [vellum-dev/vellum](https://github.com/vellum-dev/vellum) – A package management system and repository tailored specifically for reMarkable tablets.
 - [wallach-game/bashumerate](https://github.com/wallach-game/bashumerate)
@@ -1830,6 +1831,7 @@
 - [evanklem/polypore](https://github.com/evanklem/polypore) – Modular IDE designed for agentic coding with extensive memory tools and integrated MCP
 - [feedox/husher](https://github.com/feedox/husher) – 🤫 husher - Encode text to be hidden from human eyes but visible to LLMs
 - [fkguo/zotero-inspire](https://github.com/fkguo/zotero-inspire) – Zotero plugin with a Zotero-tailored arXiv browser and deep integration of INSPIRE-HEP
+- [folay-git/mcp-dock](https://github.com/folay-git/mcp-dock) – MCP Server & Config Manager for 14 AI Clients — Cursor, VS Code, Claude Code, Gemini CLI, Codex CLI, Windsurf, Zed, TRAE, Kiro, JetBrains & more. Browse 50,000+ servers and 10,000+ skills.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) – Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) – Orchestrate multiple coding agents from desktop and mobile
 - [github-young/zotero-better-authors](https://github.com/github-young/zotero-better-authors) – Customize the displayed authors list
