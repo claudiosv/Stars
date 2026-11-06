@@ -728,7 +728,7 @@
 ## Nix
 
 - [basnijholt/dotfiles](https://github.com/basnijholt/dotfiles) – nixos, nix-darwin, homebrew, oh-my-zsh, dotbot, dotbins, macos, linux, submodules, zsh, bash, awesome modern CLI tools — no place like ~/
-- [birkhofflee/dotfiles](https://github.com/birkhofflee/dotfiles) – my platform-agnostic dotfiles
+- [birkhofflee/dotfiles](https://github.com/birkhofflee/dotfiles) – my platform-agnostic dotfiles/nixos-config
 
 <div id="ocaml"></div>
 
@@ -1041,7 +1041,6 @@
 - [TheBlewish/Automated-AI-Web-Researcher-Ollama](https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama) – A python program that turns an LLM, running on Ollama, into an automated researcher, which will with a single query determine focus areas to investigate, do websearches and scrape content from various relevant websites and do research for you all on its own! And more, not limited to but including saving the findings for you!
 - [ToTheMax/Snapchat-All-Memories-Downloader](https://github.com/ToTheMax/Snapchat-All-Memories-Downloader) – Script to download all your Snapchat memories
 - [Tsadoq/ErisForge](https://github.com/Tsadoq/ErisForge) – Dead Simple LLM Abliteration
-- [UltimaHoarder/UltimaScraper](https://github.com/UltimaHoarder/UltimaScraper) – Scrape all the media from an OnlyFans account - Updated regularly
 - [Uminosachi/sd-webui-inpaint-anything](https://github.com/Uminosachi/sd-webui-inpaint-anything) – Inpaint Anything extension performs stable diffusion inpainting on a browser UI using masks from Segment Anything.
 - [Unmanic/unmanic](https://github.com/Unmanic/unmanic) – Unmanic - Library Optimiser
 - [VHellendoorn/Code-LMs](https://github.com/VHellendoorn/Code-LMs) – Guide to using pre-trained large language models of source code
@@ -1136,7 +1135,7 @@
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) – Pythonic AI generation of images and videos
 - [bsdz/remarkable-layers](https://github.com/bsdz/remarkable-layers) – Python module for reading and writing Remarkable Lines files
 - [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) – Pioneering Automated GUI Interaction with Native Agents
-- [cactus-compute/needle](https://github.com/cactus-compute/needle) – Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, ASR, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) – Sub-50mb agentic, voice and vision intelligence for consumer devices.
 - [catalyst-team/catalyst](https://github.com/catalyst-team/catalyst) – Accelerated deep learning R&D
 - [cedricrupb/code_tokenize](https://github.com/cedricrupb/code_tokenize) – Fast tokenization and structural analysis of any programming language
 - [cemrehancavdar/faster-python-bench](https://github.com/cemrehancavdar/faster-python-bench)
@@ -1809,6 +1808,7 @@
 - [Renumics/spotlight](https://github.com/Renumics/spotlight) – Interactively explore unstructured datasets from your dataframe.
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) – Draw a mockup and generate html for it
 - [TaxyAI/browser-extension](https://github.com/TaxyAI/browser-extension) – Automate your browser with GPT-4
+- [UltimaHoarder/UltimaScraper](https://github.com/UltimaHoarder/UltimaScraper) – Datascraper that is currently adult focused - Updated regularly
 - [ajnart/homarr](https://github.com/ajnart/homarr) – Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) – The open source coding agent.
 - [awnist/slop-cop](https://github.com/awnist/slop-cop) – AI text slop detection, 100% in browser
