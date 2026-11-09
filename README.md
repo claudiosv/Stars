@@ -1536,7 +1536,7 @@
 - [w-okada/voice-changer](https://github.com/w-okada/voice-changer) – リアルタイムボイスチェンジャー Realtime Voice Changer
 - [wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration) – Single Underwater Image Enhancement and Color Restoration, which is Python implementation for a comprehensive review paper "An Experimental-based Review of Image Enhancement and Image Restoration Methods for Underwater Imaging"
 - [widgetti/wanderlust](https://github.com/widgetti/wanderlust) – Wanderlust OpenAI example using Solara
-- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) – Remove visible and invisible AI watermarks from images and video, and AI provenance metadata from images, video, and audio. Python library, CLI, and agent skill for SynthID, C2PA, EXIF, IPTC, XMP, and common generative-AI marks.
+- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) – Remove visible and invisible AI watermarks from images and video, and AI provenance metadata from images, video, and audio. Python library, CLI, and agent skill for SynthID, C2PA, EXIF, IPTC, XMP, and common generative-AI marks. By Victor Kuznetsov.
 - [xZetsubou/hass-localtuya](https://github.com/xZetsubou/hass-localtuya) – 🔹 A Home Assistant integration to handle Tuya devices locally "fork from localtuya"
 - [xiaowu0162/LongMemEval-V2](https://github.com/xiaowu0162/LongMemEval-V2) – Official repository for LongMemEval-V2
 - [xuyuzhuang11/OneBit](https://github.com/xuyuzhuang11/OneBit) – The homepage of OneBit model quantization framework.
@@ -1616,6 +1616,7 @@
 - [esp-rs/esp-idf](https://github.com/esp-rs/esp-idf) – Rust on ESP32 and ESP-IDF
 - [esp-rs/esp-idf-sys](https://github.com/esp-rs/esp-idf-sys) – Bindings for ESP-IDF (Espressif's IoT Development Framework)
 - [esp-rs/rust](https://github.com/esp-rs/rust) – Rust for the xtensa architecture. Built in targets for the ESP32 and ESP8266
+- [evanklem/polypore](https://github.com/evanklem/polypore) – A terminal dashboard for Claude and Codex sessions. Reads their history, hosts their terminals, shows what each one needs.
 - [feyninc/tokie](https://github.com/feyninc/tokie) – 🍡 30x faster tokenization for every HuggingFace model
 - [fortunto2/rust-code](https://github.com/fortunto2/rust-code) – AI-powered terminal coding agent in Rust — TUI, BAML agent loop, fuzzy search, tmux background tasks, skills, MCP support
 - [guidance-ai/llguidance](https://github.com/guidance-ai/llguidance) – Super-fast Structured Outputs
@@ -1828,7 +1829,6 @@
 - [elizabethtrykin/oura-mcp](https://github.com/elizabethtrykin/oura-mcp) – An MCP server for oura
 - [elpapi42/pi-codemapper](https://github.com/elpapi42/pi-codemapper)
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) – AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy on-prem or in the cloud.
-- [evanklem/polypore](https://github.com/evanklem/polypore) – Modular IDE designed for agentic coding with extensive memory tools and integrated MCP
 - [feedox/husher](https://github.com/feedox/husher) – 🤫 husher - Encode text to be hidden from human eyes but visible to LLMs
 - [fkguo/zotero-inspire](https://github.com/fkguo/zotero-inspire) – Zotero plugin with a Zotero-tailored arXiv browser and deep integration of INSPIRE-HEP
 - [folay-git/mcp-dock](https://github.com/folay-git/mcp-dock) – MCP Server & Config Manager for 14 AI Clients — Cursor, VS Code, Claude Code, Gemini CLI, Codex CLI, Windsurf, Zed, TRAE, Kiro, JetBrains & more. Browse 50,000+ servers and 10,000+ skills.
@@ -1838,7 +1838,7 @@
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) – An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [hafacc/repub](https://github.com/hafacc/repub) – reMarkable ePub generator
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) – 3,400+ curated icons and logos for dashboards and AI agents. SVG, PNG and WEBP on a free CDN, plus an MCP server for Claude Code, Codex, ChatGPT, Cursor, Hermes and OpenClaw.
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) – Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) – Invoke is a leading creative engine that uses image and video generation models to empower professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry-leading application interface, and serves as the foundation for multiple commercial products.
 - [jupyter/nbdime](https://github.com/jupyter/nbdime) – Tools for diffing and merging of Jupyter notebooks.
 - [kalkih/mini-media-player](https://github.com/kalkih/mini-media-player) – Minimalistic media card for Home Assistant Lovelace UI
 - [labmlai/inspectus](https://github.com/labmlai/inspectus) – LLM Analytics
