@@ -111,6 +111,7 @@
 - [clopez/dellfan](https://github.com/clopez/dellfan) – User space utility to control the fan speed on Dell Laptops
 - [d4rkmen/M5Apps](https://github.com/d4rkmen/M5Apps) – Multi-app installer for M5 CardPuter v1.0, v1.1 and ADV with a set of built-in tools
 - [d4rkmen/M5Gemini](https://github.com/d4rkmen/M5Gemini) – Conversational AI assistant for the ESP32-S3 powered M5 Cardputer mini PC
+- [daijro/camoufox](https://github.com/daijro/camoufox) – 🦊 Anti-detect browser
 - [deftio/qf_math](https://github.com/deftio/qf_math) – Fast math library (float 32) for embedded systems.  fast sin/cos/tan/asin/acos/atan (rad, degree, bam support) also exp,log,ln,pow,pow10, wave-gen, adsr.  Same API as fixed point library deftio/fr_math
 - [earlephilhower/PicoLlama](https://github.com/earlephilhower/PicoLlama) – LLAMA2 for Arduino-Pico
 - [esp-arduino-libs/ESP32_Display_Panel](https://github.com/esp-arduino-libs/ESP32_Display_Panel) – Display driver and GUI porting library designed for ESP series SoCs (ESP32, ESP32-S3, ESP32-P4, etc.)
@@ -1164,7 +1165,6 @@
 - [custom-components/pyscript](https://github.com/custom-components/pyscript) – Pyscript adds rich Python scripting to HASS
 - [cvs-health/uqlm](https://github.com/cvs-health/uqlm) –  [JMLR 2026] UQLM: A Python package for LLM hallucination detection using uncertainty quantification
 - [dadadel/pyment](https://github.com/dadadel/pyment) – Format and convert Python docstrings and generates patches
-- [daijro/camoufox](https://github.com/daijro/camoufox) – 🦊 Anti-detect browser
 - [danielzuegner/code-transformer](https://github.com/danielzuegner/code-transformer) – Implementation of the paper "Language-agnostic representation learning of source code from structure and context". 
 - [dask/dask](https://github.com/dask/dask) – Parallel computing with task scheduling
 - [daslearning-org/navigation-indicator](https://github.com/daslearning-org/navigation-indicator) – Automatic vehicle indicator on/off using map navigation app. The app will run on a smartphone & will communicate with ESP32 to control the indicator lights.
@@ -1605,7 +1605,7 @@
 - [bootandy/dust](https://github.com/bootandy/dust) – A more intuitive version of du in rust
 - [claudiomattera/esp32c3-embassy](https://github.com/claudiomattera/esp32c3-embassy) –  A Rust async firmware for ESP32-C3 for reading and displaying sensor values using Embassy
 - [codefionn/llmleaf](https://github.com/codefionn/llmleaf) – A fast llm proxy
-- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) – Open-source agent for the terminal written in Rust. Use any provider or model. Issues & PRs always welcome
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) – An open-source coding agent for your terminal, written in Rust. It works with any model, can split one task across several agents, and every line of it is yours to read.
 - [crusoecloud/fastokens](https://github.com/crusoecloud/fastokens) – Fast Tokens
 - [dandavison/delta](https://github.com/dandavison/delta) – A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [danshick/relineate](https://github.com/danshick/relineate) – An SVG renderer for reMarkable .rm v5 files
