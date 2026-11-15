@@ -1004,6 +1004,7 @@
 - [NougatCA/FineTuner](https://github.com/NougatCA/FineTuner)
 - [OK2MOP/MD1702-tools](https://github.com/OK2MOP/MD1702-tools) – Tools to work with firmware and SPI flash data of DM-1702 and DM-X radios
 - [OpenMined/PyDP](https://github.com/OpenMined/PyDP) – The Python Differential Privacy Library. Built on top of: https://github.com/google/differential-privacy
+- [Overbryd/dotfiles](https://github.com/Overbryd/dotfiles) – 0-100 macOS bootstrap and topical setup maintained with a simple Makefile
 - [PonyGE/PonyGE2](https://github.com/PonyGE/PonyGE2) – PonyGE2: grammatical evolution and variants in Python
 - [Preemo-Inc/text-generation-inference](https://github.com/Preemo-Inc/text-generation-inference)
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) – Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
@@ -1609,6 +1610,7 @@
 - [crusoecloud/fastokens](https://github.com/crusoecloud/fastokens) – Fast Tokens
 - [dandavison/delta](https://github.com/dandavison/delta) – A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [danshick/relineate](https://github.com/danshick/relineate) – An SVG renderer for reMarkable .rm v5 files
+- [dezoomify/dezoomify-rs](https://github.com/dezoomify/dezoomify-rs) – Zoomable image downloader for Google Arts & Culture, Zoomify, IIIF, and others
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) – The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [dsully/macos-defaults](https://github.com/dsully/macos-defaults) – A tool for managing macOS defaults declaratively via YAML files.
 - [esp-rs/esp-idf](https://github.com/esp-rs/esp-idf) – Rust on ESP32 and ESP-IDF
@@ -1629,7 +1631,6 @@
 - [lanterndata/lantern](https://github.com/lanterndata/lantern) – PostgreSQL vector database extension for building AI applications
 - [lightonai/next-plaid](https://github.com/lightonai/next-plaid) – NextPlaid, ColGREP: Multi-vector search, from database to coding agents.
 - [lldap/lldap](https://github.com/lldap/lldap) – Light LDAP implementation
-- [lovasoa/dezoomify-rs](https://github.com/lovasoa/dezoomify-rs) – Zoomable image downloader for Google Arts & Culture, Zoomify, IIIF, and others
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) – The next gen ls command
 - [marcelroed/gigatoken](https://github.com/marcelroed/gigatoken) – Language model tokenization at GB/s
 - [ml-rust/splintr](https://github.com/ml-rust/splintr) – A high-performance tokenizer (BPE, WordPiece, SentencePiece) built with Rust with Python bindings, focused on speed, safety, and resource optimization.
@@ -1802,13 +1803,12 @@
 - [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) – Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active
 - [MasuRii/pi-rtk-optimizer](https://github.com/MasuRii/pi-rtk-optimizer) – Pi extension that optimizes RTK command rewriting and tool output compaction for the coding agent.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) – 🙌 OpenHands: AI-Driven Development
-- [Overbryd/dotfiles](https://github.com/Overbryd/dotfiles) – 0-100 macOS bootstrap and topical setup maintained with a simple Makefile
 - [PubPeerFoundation/pubpeer_zotero_plugin](https://github.com/PubPeerFoundation/pubpeer_zotero_plugin) – Plugin to show if references in Zotero have PubPeer comments
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) – An open-source AI coding agent that lives in your terminal.
 - [Renumics/spotlight](https://github.com/Renumics/spotlight) – Interactively explore unstructured datasets from your dataframe.
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) – Draw a mockup and generate html for it
 - [TaxyAI/browser-extension](https://github.com/TaxyAI/browser-extension) – Automate your browser with GPT-4
-- [UltimaHoarder/UltimaScraper](https://github.com/UltimaHoarder/UltimaScraper) – Datascraper that is currently adult focused - Updated regularly
+- [UltimaHoarder/UltimaScraper](https://github.com/UltimaHoarder/UltimaScraper) – Datascraper that is currently adult focused (OnlyFans, etc)- Updated regularly
 - [ajnart/homarr](https://github.com/ajnart/homarr) – Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) – The open source coding agent.
 - [awnist/slop-cop](https://github.com/awnist/slop-cop) – AI text slop detection, 100% in browser
