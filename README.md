@@ -497,7 +497,7 @@
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) – OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [RosettaDrone/rosettadrone](https://github.com/RosettaDrone/rosettadrone) – MAVlink and H.264 Video for DJI drones
 - [SLP-team/SLP-Core](https://github.com/SLP-team/SLP-Core) – Your library for dynamic language modeling
-- [TcMenu/tcMenu](https://github.com/TcMenu/tcMenu) – Menu library for Arduino, mbed and ESP with designer UI and remote control capabilities.
+- [TcMenu/tcMenu](https://github.com/TcMenu/tcMenu) – Menu library for Arduino, STM32Cube, ESP32-IDF, PicoSDK, mbed6 with designer UI and IoT capabilities.
 - [jlarriba/astounding](https://github.com/jlarriba/astounding) – A multiplatform GUI for the reMarkable tablet
 - [smartshark/readabilitySHARK](https://github.com/smartshark/readabilitySHARK) – Plugin for SmartSHARK that collects readability evaluations.
 - [superblaubeere27/masxinlingvonta](https://github.com/superblaubeere27/masxinlingvonta) – Compiles Java ByteCode to LLVM IR (for obfuscation purposes)
@@ -1642,7 +1642,7 @@
 - [pau-mensa/xtr-warp-rs](https://github.com/pau-mensa/xtr-warp-rs) – High performance implementation of the WARP (SIGIR'25) retrieval engine.
 - [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) – Use an iPhone, iPad, or spare Mac as a true second display for your Mac without restrictions.
 - [perspective-dev/perspective](https://github.com/perspective-dev/perspective) – A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
-- [pixtuoid/pixtuoid](https://github.com/pixtuoid/pixtuoid) – Terminal pixel-art office for AI coding agents
+- [pixtuoid/pixtuoid](https://github.com/pixtuoid/pixtuoid) – A cozy pixel office where your AI coding agents come to life.
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) – Efficient Duplicate File Finder
 - [rcorre/qmkfmt](https://github.com/rcorre/qmkfmt) – A formatter for QMK keymaps.
 - [rellfy/u_u](https://github.com/rellfy/u_u) – Library for extracting the foreground of images into SVGs
