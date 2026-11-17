@@ -517,7 +517,7 @@
 - [MuiseDestiny/zotero-reference](https://github.com/MuiseDestiny/zotero-reference) – PDF references add-on for Zotero.
 - [MuiseDestiny/zotero-style](https://github.com/MuiseDestiny/zotero-style) – Ethereal Style for Zotero
 - [PhialsBasement/Chain-of-Recursive-Thoughts](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts) – I made my AI think harder by making it argue with itself repeatedly. It works stupidly well.
-- [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) – All parts of Claude Code's system prompt, 27 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, security review, agent creation).  Updated for each Claude Code version.
+- [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) – All parts of Claude Code's system prompt, builtin tool descriptions, subagent prompts (Plan/Explore/Task), and utility prompts.  Updated for each Claude Code version.
 - [RoadToDream/ZotMeta](https://github.com/RoadToDream/ZotMeta) – ZotMeta is a Zotero plugin to update existing articles/books metadata.
 - [RootbeerComputer/backend-GPT](https://github.com/RootbeerComputer/backend-GPT)
 - [SamGalanakis/pilcrow](https://github.com/SamGalanakis/pilcrow) – A skill suite for writing
@@ -1636,7 +1636,7 @@
 - [ml-rust/splintr](https://github.com/ml-rust/splintr) – A high-performance tokenizer (BPE, WordPiece, SentencePiece) built with Rust with Python bindings, focused on speed, safety, and resource optimization.
 - [nachoparker/dutree](https://github.com/nachoparker/dutree) – a tool to analyze file system usage written in Rust
 - [openai/codex](https://github.com/openai/codex) – Lightweight coding agent that runs in your terminal
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) – A coding agent for open models like Kimi K3 and GLM 5.3
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) – A coding agent for open models like Kimi K3.1 and GLM 5.3
 - [p1rallels/codemapper](https://github.com/p1rallels/codemapper) – code intelligence on your CLI for AI agents. tell your agent to run `cm --help` and let it rip
 - [patonw/leaves](https://github.com/patonw/leaves) – A text-mode disk usage visualization utility
 - [pau-mensa/xtr-warp-rs](https://github.com/pau-mensa/xtr-warp-rs) – High performance implementation of the WARP (SIGIR'25) retrieval engine.
