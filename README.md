@@ -994,7 +994,7 @@
 - [MinishLab/tokenlearn](https://github.com/MinishLab/tokenlearn) – Pre-train Static Word Embeddings
 - [MinishLab/vicinity](https://github.com/MinishLab/vicinity) – Lightweight Nearest Neighbors with Flexible Backends
 - [MohamedElashri/awesome-zotero](https://github.com/MohamedElashri/awesome-zotero) – A curated list of awesome Zotero resources
-- [NVIDIA-NeMo/Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) – NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
+- [NVIDIA-NeMo/Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) – NeMo Guardrails is an open-source library for applying programmable safety and security controls to LLM and agentic applications.
 - [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) – A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.
 - [NVIDIA/NeMo-Aligner](https://github.com/NVIDIA/NeMo-Aligner) – Scalable toolkit for efficient model alignment
 - [NVIDIA/RULER](https://github.com/NVIDIA/RULER) – This repo contains the source code for RULER: What’s the Real Context Size of Your Long-Context Language Models?
@@ -1004,7 +1004,6 @@
 - [NougatCA/FineTuner](https://github.com/NougatCA/FineTuner)
 - [OK2MOP/MD1702-tools](https://github.com/OK2MOP/MD1702-tools) – Tools to work with firmware and SPI flash data of DM-1702 and DM-X radios
 - [OpenMined/PyDP](https://github.com/OpenMined/PyDP) – The Python Differential Privacy Library. Built on top of: https://github.com/google/differential-privacy
-- [Overbryd/dotfiles](https://github.com/Overbryd/dotfiles) – 0-100 macOS bootstrap and topical setup maintained with a simple Makefile
 - [PonyGE/PonyGE2](https://github.com/PonyGE/PonyGE2) – PonyGE2: grammatical evolution and variants in Python
 - [Preemo-Inc/text-generation-inference](https://github.com/Preemo-Inc/text-generation-inference)
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) – Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
@@ -1062,7 +1061,7 @@
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) – Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [absadiki/subsai](https://github.com/absadiki/subsai) – 🎞️ Subtitles generation tool (Web-UI + CLI + Python package) powered by OpenAI's Whisper and its variants 🎞️
 - [adam2go/purejq](https://github.com/adam2go/purejq) – A pure Python implementation of jq - no C extension, runs anywhere Python runs (Pyodide/WASM included). 96% of jq's official test suite.
-- [adrienbrignon/mkdocs-exporter](https://github.com/adrienbrignon/mkdocs-exporter) – ⚡ The fastest and most configurable plugin for MkDocs, allowing seamless export of individual pages and/or entire documentation as PDF documents.
+- [adrienbrignon/mkdocs-exporter](https://github.com/adrienbrignon/mkdocs-exporter) – ⚡ The fastest and most configurable plugin for MkDocs (ProperDocs, Zensical), allowing seamless export of individual pages and/or entire documentation as PDF documents.
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) – A linter for YAML files.
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) – Specification and documentation for Agent Skills
 - [agermanidis/autosub](https://github.com/agermanidis/autosub) – [NO LONGER MAINTAINED] Command-line utility for auto-generating subtitles for any video file
@@ -1803,6 +1802,7 @@
 - [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) – Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active
 - [MasuRii/pi-rtk-optimizer](https://github.com/MasuRii/pi-rtk-optimizer) – Pi extension that optimizes RTK command rewriting and tool output compaction for the coding agent.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) – 🙌 OpenHands: AI-Driven Development
+- [Overbryd/dotfiles](https://github.com/Overbryd/dotfiles) – 0-100 macOS bootstrap and topical setup maintained with a simple Makefile
 - [PubPeerFoundation/pubpeer_zotero_plugin](https://github.com/PubPeerFoundation/pubpeer_zotero_plugin) – Plugin to show if references in Zotero have PubPeer comments
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) – An open-source AI coding agent that lives in your terminal.
 - [Renumics/spotlight](https://github.com/Renumics/spotlight) – Interactively explore unstructured datasets from your dataframe.
