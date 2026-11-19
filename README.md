@@ -1607,7 +1607,7 @@
 - [codefionn/llmleaf](https://github.com/codefionn/llmleaf) – A fast llm proxy
 - [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) – An open-source coding agent for your terminal, written in Rust. It works with any model, can split one task across several agents, and every line of it is yours to read.
 - [crusoecloud/fastokens](https://github.com/crusoecloud/fastokens) – Fast Tokens
-- [dandavison/delta](https://github.com/dandavison/delta) – A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) – A syntax-highlighting interface for git, diff, blame, and grep/ripgrep
 - [danshick/relineate](https://github.com/danshick/relineate) – An SVG renderer for reMarkable .rm v5 files
 - [dezoomify/dezoomify-rs](https://github.com/dezoomify/dezoomify-rs) – Zoomable image downloader for Google Arts & Culture, Zoomify, IIIF, and others
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) – The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
