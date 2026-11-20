@@ -1827,7 +1827,7 @@
 - [earendil-works/pi](https://github.com/earendil-works/pi) – AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [elizabethtrykin/oura-mcp](https://github.com/elizabethtrykin/oura-mcp) – An MCP server for oura
 - [elpapi42/pi-codemapper](https://github.com/elpapi42/pi-codemapper)
-- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) – AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy on-prem or in the cloud.
+- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) – The AI workspace for experts. Switch across 800+ models mid-chat, tune 40+ parameters, Beam models side by side. BYO keys, self-hostable. Built on our native-protocol engine: reliable, hyper-configurable, and fast.
 - [feedox/husher](https://github.com/feedox/husher) – 🤫 husher - Encode text to be hidden from human eyes but visible to LLMs
 - [fkguo/zotero-inspire](https://github.com/fkguo/zotero-inspire) – Zotero plugin with a Zotero-tailored arXiv browser and deep integration of INSPIRE-HEP
 - [folay-git/mcp-dock](https://github.com/folay-git/mcp-dock) – MCP Server & Config Manager for 14 AI Clients — Cursor, VS Code, Claude Code, Gemini CLI, Codex CLI, Windsurf, Zed, TRAE, Kiro, JetBrains & more. Browse 50,000+ servers and 10,000+ skills.
