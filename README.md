@@ -226,7 +226,6 @@
 - [SmingHub/Sming](https://github.com/SmingHub/Sming) – Sming - powerful  open source framework simplifying the creation of embedded C++ applications.
 - [Teapot174/AirMouseS3](https://github.com/Teapot174/AirMouseS3) – M5StickS3 Firmware
 - [Tiiny-AI/PowerInfer](https://github.com/Tiiny-AI/PowerInfer) – High-speed Large Language Model Serving for Local Deployment
-- [VuqarAhadli/MiniOS-ESP](https://github.com/VuqarAhadli/MiniOS-ESP) – MiniOS ESP is a FreeRTOS-based, Unix-like command-line operating system for ESP32 and RP2350 microcontrollers with ST7789 TFT displays, featuring kernel-level process management, a feature-rich interactive shell and network connectivity tools.
 - [WojciechKretowicz/Trace-TSNE](https://github.com/WojciechKretowicz/Trace-TSNE) – Parallel t-SNE implementation with Python wrapper with added possibility to trace the TSNE algorithm while iterating.
 - [ZXShady/enchantum](https://github.com/ZXShady/enchantum) – Faster enum reflection for C++17 since I don't want to wait for C++26 reflection.
 - [ZeFish/M5PaperWeather](https://github.com/ZeFish/M5PaperWeather) – M5Paper project with weather information from openweathermap
@@ -235,6 +234,7 @@
 - [anthropics/claude-desktop-buddy](https://github.com/anthropics/claude-desktop-buddy) – Reference and an example for the Bluetooth API for makers in Claude Cowork & Claude Code Desktop
 - [arkhipenko/TaskScheduler](https://github.com/arkhipenko/TaskScheduler) – Cooperative multitasking for Arduino, ESPx, STM32, nRF and other microcontrollers
 - [asivery/rm-literm](https://github.com/asivery/rm-literm) – A terminal emulator using QtQuick.
+- [atwodots/MiniOS-ESP](https://github.com/atwodots/MiniOS-ESP) – MiniOS ESP is a FreeRTOS-based, Unix-like command-line operating system for ESP32 and RP2350 microcontrollers with ST7789 TFT displays, featuring kernel-level process management, a feature-rich interactive shell and network connectivity tools.
 - [awawa-dev/HyperHDR](https://github.com/awawa-dev/HyperHDR) – Next-gen open source ambient lighting system featuring a high-precision floating-point color pipeline breaking legacy RGB 24-bit limits. Includes advanced smoothing with inertia and adaptive temporal dithering for perfectly fluid, stable output to LEDs from any SDR or HDR video source. Supports Windows, macOS and Linux (x86/ARM). 
 - [ayushsharma82/ESP-DASH](https://github.com/ayushsharma82/ESP-DASH) – Blazing fast library to create a functional, on-device dashboard for ESP32, RP2040+W and RP2350+W microcontrollers
 - [bblanchon/ArduinoJson](https://github.com/bblanchon/ArduinoJson) – 📟 JSON library for Arduino and embedded C++. Simple and efficient.
