@@ -223,6 +223,7 @@
 - [RikerZhu/PaperColor-Assistant](https://github.com/RikerZhu/PaperColor-Assistant)
 - [RobTillaart/fast_math](https://github.com/RobTillaart/fast_math) – Arduino library for fast math algorithms
 - [RobTillaart/float16](https://github.com/RobTillaart/float16) – Arduino library to implement float16 data type
+- [RyanEwen/esphome-lvgl](https://github.com/RyanEwen/esphome-lvgl) – A neat and tidy way to define LVGL layouts for ESPHome touchscreen devices
 - [SmingHub/Sming](https://github.com/SmingHub/Sming) – Sming - powerful  open source framework simplifying the creation of embedded C++ applications.
 - [Teapot174/AirMouseS3](https://github.com/Teapot174/AirMouseS3) – M5StickS3 Firmware
 - [Tiiny-AI/PowerInfer](https://github.com/Tiiny-AI/PowerInfer) – High-speed Large Language Model Serving for Local Deployment
@@ -1018,7 +1019,6 @@
 - [RobertHuben/word-embeddings](https://github.com/RobertHuben/word-embeddings) – Testing properties of GPT-J word embeddings in order to solve the SolidGoldMagikarp mystery
 - [Rockhopper-Technologies/enlighten](https://github.com/Rockhopper-Technologies/enlighten) – Enlighten Progress Bar for Python Console Apps
 - [RussBaz/enforce](https://github.com/RussBaz/enforce) – Python 3.5+ runtime type checking for integration testing and data validation
-- [RyanEwen/esphome-lvgl](https://github.com/RyanEwen/esphome-lvgl) – A neat and tidy way to define LVGL layouts for ESPHome touchscreen devices
 - [SMAT-Lab/Scalpel](https://github.com/SMAT-Lab/Scalpel) – Scalpel: The Python Static Analysis Framework
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) – Faster Whisper transcription with CTranslate2
 - [Salvoxia/immich-folder-album-creator](https://github.com/Salvoxia/immich-folder-album-creator) – Automatically create and populate albums in Immich from a folder structure in external libraries
@@ -1534,7 +1534,7 @@
 - [w-okada/voice-changer](https://github.com/w-okada/voice-changer) – リアルタイムボイスチェンジャー Realtime Voice Changer
 - [wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration) – Single Underwater Image Enhancement and Color Restoration, which is Python implementation for a comprehensive review paper "An Experimental-based Review of Image Enhancement and Image Restoration Methods for Underwater Imaging"
 - [widgetti/wanderlust](https://github.com/widgetti/wanderlust) – Wanderlust OpenAI example using Solara
-- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) – Remove visible and invisible AI watermarks from images and video, and AI provenance metadata from images, video, and audio. Python library, CLI, and agent skill for SynthID, C2PA, EXIF, IPTC, XMP, and common generative-AI marks. By Victor Kuznetsov.
+- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) – Remove visible and invisible AI watermarks from images and video, clean supported audio watermarks, and strip AI provenance metadata. Python library, CLI, and agent skill for SynthID, C2PA, and other AI marks. By Victor Kuznetsov.
 - [xZetsubou/hass-localtuya](https://github.com/xZetsubou/hass-localtuya) – 🔹 A Home Assistant integration to handle Tuya devices locally "fork from localtuya"
 - [xiaowu0162/LongMemEval-V2](https://github.com/xiaowu0162/LongMemEval-V2) – Official repository for LongMemEval-V2
 - [xuyuzhuang11/OneBit](https://github.com/xuyuzhuang11/OneBit) – The homepage of OneBit model quantization framework.
