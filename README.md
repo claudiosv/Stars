@@ -112,6 +112,7 @@
 - [d4rkmen/M5Apps](https://github.com/d4rkmen/M5Apps) – Multi-app installer for M5 CardPuter v1.0, v1.1 and ADV with a set of built-in tools
 - [d4rkmen/M5Gemini](https://github.com/d4rkmen/M5Gemini) – Conversational AI assistant for the ESP32-S3 powered M5 Cardputer mini PC
 - [daijro/camoufox](https://github.com/daijro/camoufox) – 🦊 Anti-detect browser
+- [deftio/fr_math](https://github.com/deftio/fr_math) – Fixed-point math library (integer / no FPU)  for embedded C.  Trig, log/exp, sqrt, 2D transforms, wave generators, ADSR and variable radix support.  ~4.5 KB 
 - [deftio/qf_math](https://github.com/deftio/qf_math) – Fast math library (float 32) for embedded systems.  fast sin/cos/tan/asin/acos/atan (rad, degree, bam support) also exp,log,ln,pow,pow10, wave-gen, adsr.  Same API as fixed point library deftio/fr_math
 - [earlephilhower/PicoLlama](https://github.com/earlephilhower/PicoLlama) – LLAMA2 for Arduino-Pico
 - [esp-arduino-libs/ESP32_Display_Panel](https://github.com/esp-arduino-libs/ESP32_Display_Panel) – Display driver and GUI porting library designed for ESP series SoCs (ESP32, ESP32-S3, ESP32-P4, etc.)
@@ -248,7 +249,6 @@
 - [comeraperuibe944/StickController](https://github.com/comeraperuibe944/StickController) – Turns your M5stickCPlus2 into a xbox controller. Also, possibility to connect phone/pc via virtual controller on an AP.
 - [csmith-project/csmith](https://github.com/csmith-project/csmith) – Csmith, a random generator of C programs
 - [davwys/esp32-mavlink-sim](https://github.com/davwys/esp32-mavlink-sim) – Simulate MAVLink commands for use with groundstation apps on an ESP32
-- [deftio/fr_math](https://github.com/deftio/fr_math) – Fixed-point math library (integer / no FPU)  for embedded C.  Trig, log/exp, sqrt, 2D transforms, wave generators, ADSR and variable radix support.  ~4.5 KB 
 - [dejwk/roo_display](https://github.com/dejwk/roo_display) – Arduino-compliant library, targeted at ESP32 and related boards, for driving display devices and touch panels, e.g. ILI9486, ILI9341, or ST7789. Powerful and fast.
 - [doctest/doctest](https://github.com/doctest/doctest) – The fastest feature-rich C++11/14/17/20/23 single-header testing framework
 - [dok-net/ghostl](https://github.com/dok-net/ghostl)
@@ -1369,7 +1369,7 @@
 - [mosaicml/composer](https://github.com/mosaicml/composer) – Supercharge Your Model Training
 - [mosaicml/llm-foundry](https://github.com/mosaicml/llm-foundry) – LLM training code for Databricks foundation models
 - [msclar/formatspread](https://github.com/msclar/formatspread) – Code accompanying "How I learned to start worrying about prompt formatting".
-- [msmolkin/super-grep](https://github.com/msmolkin/super-grep)
+- [msmolkin/super-grep](https://github.com/msmolkin/super-grep) – Fast semantic & regex grep CLI with local embeddings and instant code search
 - [muscriptor/muscriptor](https://github.com/muscriptor/muscriptor) – A multi-instrument music transcription model developed by Kyutai and Mirelo.
 - [mustafaaljadery/gemma-2B-10M](https://github.com/mustafaaljadery/gemma-2B-10M) – Gemma 2B with 10M context length using Infini-attention.
 - [mwouts/itables](https://github.com/mwouts/itables) – Python DataFrames as Interactive DataTables
@@ -1605,7 +1605,7 @@
 - [bootandy/dust](https://github.com/bootandy/dust) – A more intuitive version of du in rust
 - [claudiomattera/esp32c3-embassy](https://github.com/claudiomattera/esp32c3-embassy) –  A Rust async firmware for ESP32-C3 for reading and displaying sensor values using Embassy
 - [codefionn/llmleaf](https://github.com/codefionn/llmleaf) – A fast llm proxy
-- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) – An open-source coding agent for your terminal, written in Rust. It works with any model, can split one task across several agents, and every line of it is yours to read.
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) – Open-source Rust coding agent for terminal, web, and desktop. Any model, multi-agent fleets, MCP & plugins, OS sandboxing, and session receipts.
 - [crusoecloud/fastokens](https://github.com/crusoecloud/fastokens) – Fast Tokens
 - [dandavison/delta](https://github.com/dandavison/delta) – A syntax-highlighting interface for git, diff, blame, and grep/ripgrep
 - [danshick/relineate](https://github.com/danshick/relineate) – An SVG renderer for reMarkable .rm v5 files
