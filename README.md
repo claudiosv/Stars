@@ -94,6 +94,7 @@
 - [VolosR/miniCar](https://github.com/VolosR/miniCar)
 - [WuSiYu/M5Cardputer-UserDemo-Plus](https://github.com/WuSiYu/M5Cardputer-UserDemo-Plus) – M5Cardputer user demo for hardware evaluation.
 - [ZinggJM/GxEPD2](https://github.com/ZinggJM/GxEPD2) – Arduino Display Library for SPI E-Paper Displays
+- [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) – Client for PPP+TLS VPN tunnel services
 - [agillis/esphome-modular-lvgl-buttons](https://github.com/agillis/esphome-modular-lvgl-buttons) – A modular LVGL button platform for ESPHome
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) – Sioyek is a PDF viewer with a focus on textbooks and research papers
 - [amoxu/Baofeng-UV-5RM-5RH-RE](https://github.com/amoxu/Baofeng-UV-5RM-5RH-RE) – Reverse Engineering of Baofeng UV-5RM/UV-5RH
@@ -855,7 +856,6 @@
 
 ## Perl
 
-- [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) – Client for PPP+TLS VPN tunnel services
 - [rjust/defects4j](https://github.com/rjust/defects4j) – A Database of Real Faults and an Experimental Infrastructure to Enable Controlled Experiments in Software Engineering Research
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) – Make your diffs human readable for improved code quality and faster defect detection. :tada:
 
