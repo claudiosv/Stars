@@ -112,6 +112,7 @@
 - [clopez/dellfan](https://github.com/clopez/dellfan) – User space utility to control the fan speed on Dell Laptops
 - [d4rkmen/M5Apps](https://github.com/d4rkmen/M5Apps) – Multi-app installer for M5 CardPuter v1.0, v1.1 and ADV with a set of built-in tools
 - [d4rkmen/M5Gemini](https://github.com/d4rkmen/M5Gemini) – Conversational AI assistant for the ESP32-S3 powered M5 Cardputer mini PC
+- [daijro/camoufox](https://github.com/daijro/camoufox) – 🦊 Anti-detect browser
 - [deftio/fr_math](https://github.com/deftio/fr_math) – Fixed-point math library (integer / no FPU)  for embedded C.  Trig, log/exp, sqrt, 2D transforms, wave generators, ADSR and variable radix support.  ~4.5 KB 
 - [deftio/qf_math](https://github.com/deftio/qf_math) – Fast math library (float 32) for embedded systems.  fast sin/cos/tan/asin/acos/atan (rad, degree, bam support) also exp,log,ln,pow,pow10, wave-gen, adsr.  Same API as fixed point library deftio/fr_math
 - [earlephilhower/PicoLlama](https://github.com/earlephilhower/PicoLlama) – LLAMA2 for Arduino-Pico
@@ -445,7 +446,7 @@
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) – Open source AI coding agent. Designed for large projects and real world tasks.
 - [rclone/rclone](https://github.com/rclone/rclone) – "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [restic/restic](https://github.com/restic/restic) – Fast, secure, efficient backup program
-- [rmitchellscott/reManager](https://github.com/rmitchellscott/reManager) – Linux, MacOS, and Windows desktop app for managing mods on reMarkable tablets
+- [rmitchellscott/reManager](https://github.com/rmitchellscott/reManager) – Linux, MacOS, Windows, iOS, and Android app for managing mods on reMarkable tablets
 - [rorycl/rm2pdf](https://github.com/rorycl/rm2pdf) – Convert reMarkable tablet notebooks and annotated PDFs to layered PDF documents
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) – Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [sqshq/sampler](https://github.com/sqshq/sampler) – Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
@@ -1164,7 +1165,6 @@
 - [custom-components/pyscript](https://github.com/custom-components/pyscript) – Pyscript adds rich Python scripting to HASS
 - [cvs-health/uqlm](https://github.com/cvs-health/uqlm) –  [JMLR 2026] UQLM: A Python package for LLM hallucination detection using uncertainty quantification
 - [dadadel/pyment](https://github.com/dadadel/pyment) – Format and convert Python docstrings and generates patches
-- [daijro/camoufox](https://github.com/daijro/camoufox) – 🦊 Anti-detect browser
 - [danielzuegner/code-transformer](https://github.com/danielzuegner/code-transformer) – Implementation of the paper "Language-agnostic representation learning of source code from structure and context". 
 - [dask/dask](https://github.com/dask/dask) – Parallel computing with task scheduling
 - [daslearning-org/navigation-indicator](https://github.com/daslearning-org/navigation-indicator) – Automatic vehicle indicator on/off using map navigation app. The app will run on a smartphone & will communicate with ESP32 to control the indicator lights.
